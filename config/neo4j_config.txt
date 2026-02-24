@@ -1,0 +1,7 @@
+# Neo4j 连接配置
+# 本地Docker运行
+
+uri=bolt://localhost:7687
+username=neo4j
+password=wuzhou123
+database=neo4j

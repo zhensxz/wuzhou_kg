@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>武周-唐初历史知识图谱</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+            background: #0d1117;
+            min-height: 100vh;
+            color: #c9d1d9;
+        }
+        
+        .header {
+            background: linear-gradient(90deg, #161b22 0%, #21262d 100%);
+            padding: 12px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #30363d;
+        }
+        .header h1 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #58a6ff;
+        }
+        .header-stats {
+            display: flex;
+            gap: 24px;
+            font-size: 13px;
+        }
+        .header-stats .num { color: #58a6ff; font-weight: 600; }
+        
+        .main { display: flex; height: calc(100vh - 52px); }
+        
+        /* 左侧控制面板 */
+        .sidebar {
+            width: 280px;
+            background: #161b22;
+            border-right: 1px solid #30363d;
+            display: flex;
+            flex-direction: column;
+        }
+        .sidebar-section {
+            padding: 16px;
+            border-bottom: 1px solid #30363d;
+        }
+        .sidebar-section h3 {
+            font-size: 12px;
+            text-transform: uppercase;
+            color: #8b949e;
+            margin-bottom: 12px;
+            letter-spacing: 0.5px;
+        }
+        
+        /* 视图切换按钮 */
+        .view-tabs {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        .view-tab {
+            padding: 10px 12px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            color: #c9d1d9;
+            cursor: pointer;
+            text-align: left;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+        .view-tab:hover { border-color: #58a6ff; }
+        .view-tab.active {
+            background: #388bfd22;
+            border-color: #58a6ff;
+            color: #58a6ff;
+        }
+        .view-tab .desc {
+            font-size: 11px;
+            color: #8b949e;
+            margin-top: 4px;
+        }
+        
+        /* 图例 */
+        .legend-list { display: flex; flex-direction: column; gap: 8px; }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 12px;
+        }
+        .legend-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+        .legend-line {
+            width: 24px;
+            height: 3px;
+            border-radius: 2px;
+        }
+        
+        /* 图谱区域 */
+        .graph-area {
+            flex: 1;
+            position: relative;
+            background: #0d1117;
+        }
+        #graph { width: 100%; height: 100%; }
+        
+        .graph-title {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            background: #21262d;
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+        }
+        
+        .graph-tip {
+            position: absolute;
+            bottom: 16px;
+            left: 16px;
+            font-size: 12px;
+            color: #8b949e;
+        }
+        
+        /* 右侧详情面板 */
+        .detail-panel {
+            width: 320px;
+            background: #161b22;
+            border-left: 1px solid #30363d;
+            overflow-y: auto;
+        }
+        .detail-empty {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #8b949e;
+            text-align: center;
+            padding: 40px;
+        }
+        .detail-empty .icon { font-size: 48px; margin-bottom: 16px; opacity: 0.5; }
+        
+        .detail-header {
+            padding: 20px;
+            background: linear-gradient(135deg, #238636 0%, #2ea043 100%);
+            color: #fff;
+        }
+        .detail-header h2 { font-size: 18px; margin-bottom: 4px; }
+        .detail-header .meta { font-size: 12px; opacity: 0.9; }
+        
+        .detail-section {
+            padding: 16px 20px;
+            border-bottom: 1px solid #21262d;
+        }
+        .detail-section h4 {
+            font-size: 12px;
+            color: #8b949e;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+        }
+        .detail-section ul { list-style: none; }
+        .detail-section li {
+            padding: 8px 0;
+            font-size: 13px;
+            border-bottom: 1px solid #21262d;
+        }
+        .detail-section li:last-child { border-bottom: none; }
+        .rel-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            margin-right: 8px;
+        }
+        .rel-family { background: #da3633; color: #fff; }
+        .rel-political { background: #a371f7; color: #fff; }
+        .rel-other { background: #8b949e; color: #fff; }
+        .time-tag { color: #8b949e; font-size: 11px; }
+        
+        /* 加载动画 */
+        .loading {
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(13,17,23,0.9);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+        }
+        .spinner {
+            width: 40px; height: 40px;
+            border: 3px solid #30363d;
+            border-top-color: #58a6ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .loading-text { margin-top: 12px; color: #8b949e; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📜 武周-唐初历史知识图谱</h1>
+        <div class="header-stats">
+            <span>👤 人物 <span class="num" id="stat-person">--</span></span>
+            <span>🔗 关系 <span class="num" id="stat-rel">--</span></span>
+            <span>📅 事件 <span class="num" id="stat-event">--</span></span>
+        </div>
+    </div>
+    
+    <div class="main">
+        <div class="sidebar">
+            <div class="sidebar-section">
+                <h3>选择视图</h3>
+                <div class="view-tabs">
+                    <button class="view-tab active" data-view="family">
+                        👨‍👩‍👧‍👦 皇室家族图
+                        <div class="desc">展示皇室核心人物的血缘关系</div>
+                    </button>
+                    <button class="view-tab" data-view="politics">
+                        ⚔️ 政治关系图
+                        <div class="desc">展示朝廷重臣的政治关系</div>
+                    </button>
+                    <button class="view-tab" data-view="events">
+                        📊 事件参与度
+                        <div class="desc">按事件参与数展示重要人物</div>
+                    </button>
+                    <button class="view-tab" data-view="timeline">
+                        📅 时间线
+                        <div class="desc">按年号展示重大事件</div>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>关系类型</h3>
+                <div class="legend-list" id="legend-relations">
+                    <div class="legend-item">
+                        <div class="legend-line" style="background:#da3633;"></div>
+                        <span>血缘关系（父子/母子/兄弟）</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background:#f0883e;"></div>
+                        <span>婚姻关系</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background:#a371f7;"></div>
+                        <span>政治关系</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-line" style="background:#8b949e;"></div>
+                        <span>其他关系</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>节点说明</h3>
+                <div class="legend-list">
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background:#f85149;"></div>
+                        <span>皇帝</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background:#a371f7;"></div>
+                        <span>皇后/太后</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background:#58a6ff;"></div>
+                        <span>皇子/公主</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-dot" style="background:#3fb950;"></div>
+                        <span>大臣</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="graph-area">
+            <div id="graph"></div>
+            <div class="graph-title" id="graph-title">皇室家族关系图</div>
+            <div class="graph-tip">💡 点击节点查看详情 | 滚轮缩放 | 拖拽移动</div>
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <div class="loading-text">正在加载...</div>
+            </div>
+        </div>
+        
+        <div class="detail-panel">
+            <div class="detail-empty" id="detail-empty">
+                <div class="icon">👆</div>
+                <p>点击图谱中的节点<br>查看详细信息</p>
+            </div>
+            <div id="detail-content" style="display:none;"></div>
+        </div>
+    </div>
+
+    <script>
+        const API = 'http://localhost:5002/api';
+        let chart = null;
+        let currentView = 'family';
+        
+        document.addEventListener('DOMContentLoaded', async () => {
+            chart = echarts.init(document.getElementById('graph'));
+            window.addEventListener('resize', () => chart.resize());
+            
+            // 视图切换
+            document.querySelectorAll('.view-tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    currentView = tab.dataset.view;
+                    loadView(currentView);
+                });
+            });
+            
+            await loadStats();
+            await loadView('family');
+        });
+        
+        async function loadStats() {
+            try {
+                const res = await fetch(`${API}/stats`);
+                const data = await res.json();
+                if (data.success) {
+                    document.getElementById('stat-person').textContent = data.data.person_count;
+                    document.getElementById('stat-rel').textContent = data.data.relation_count;
+                    document.getElementById('stat-event').textContent = data.data.event_count;
+                }
+            } catch(e) { console.error(e); }
+        }
+        
+        async function loadView(view) {
+            document.getElementById('loading').style.display = 'flex';
+            
+            const titles = {
+                family: '皇室家族关系图',
+                politics: '政治关系网络',
+                events: '事件参与度分布',
+                timeline: '历史事件时间线'
+            };
+            document.getElementById('graph-title').textContent = titles[view];
+            
+            try {
+                const res = await fetch(`${API}/graph/view/${view}`);
+                const data = await res.json();
+                
+                if (data.success) {
+                    if (view === 'timeline') {
+                        renderTimeline(data.data);
+                    } else if (view === 'events') {
+                        renderEventChart(data.data);
+                    } else {
+                        renderGraph(data.data);
+                    }
+                }
+            } catch(e) {
+                console.error(e);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+        
+        function renderGraph(data) {
+            const nodes = data.nodes.map(n => ({
+                id: n.id,
+                name: n.name,
+                symbolSize: Math.max(25, Math.min(70, n.size || 30)),
+                category: n.category || 0,
+                itemStyle: { color: getNodeColor(n.role) },
+                label: {
+                    show: true,
+                    fontSize: 11,
+                    color: '#c9d1d9'
+                }
+            }));
+            
+            const links = data.links.map(l => ({
+                source: l.source,
+                target: l.target,
+                value: l.relation,
+                lineStyle: {
+                    color: getRelationColor(l.relation),
+                    width: 2,
+                    curveness: 0.15
+                }
+            }));
+            
+            const option = {
+                backgroundColor: 'transparent',
+                tooltip: {
+                    backgroundColor: '#21262d',
+                    borderColor: '#30363d',
+                    textStyle: { color: '#c9d1d9', fontSize: 12 },
+                    formatter: p => {
+                        if (p.dataType === 'node') return `<b>${p.name}</b><br/>点击查看详情`;
+                        if (p.dataType === 'edge') return p.value || '关系';
+                        return '';
+                    }
+                },
+                series: [{
+                    type: 'graph',
+                    layout: 'force',
+                    data: nodes,
+                    links: links,
+                    roam: true,
+                    draggable: true,
+                    force: {
+                        repulsion: 400,
+                        gravity: 0.15,
+                        edgeLength: [100, 250],
+                        friction: 0.6
+                    },
+                    emphasis: {
+                        focus: 'adjacency',
+                        lineStyle: { width: 4 }
+                    },
+                    edgeLabel: {
+                        show: true,
+                        fontSize: 10,
+                        color: '#8b949e',
+                        formatter: p => p.value || ''
+                    }
+                }]
+            };
+            
+            chart.setOption(option, true);
+            chart.off('click');
+            chart.on('click', p => {
+                if (p.dataType === 'node') showDetail(p.data.id, p.data.name);
+            });
+        }
+        
+        function renderEventChart(data) {
+            const option = {
+                backgroundColor: 'transparent',
+                tooltip: {
+                    backgroundColor: '#21262d',
+                    borderColor: '#30363d',
+                    textStyle: { color: '#c9d1d9' }
+                },
+                grid: { left: 120, right: 40, top: 40, bottom: 40 },
+                xAxis: {
+                    type: 'value',
+                    name: '参与事件数',
+                    axisLine: { lineStyle: { color: '#30363d' } },
+                    axisLabel: { color: '#8b949e' },
+                    splitLine: { lineStyle: { color: '#21262d' } }
+                },
+                yAxis: {
+                    type: 'category',
+                    data: data.persons.map(p => p.name),
+                    axisLine: { lineStyle: { color: '#30363d' } },
+                    axisLabel: { color: '#c9d1d9', fontSize: 12 }
+                },
+                series: [{
+                    type: 'bar',
+                    data: data.persons.map(p => ({
+                        value: p.count,
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 1, 0, [
+                                { offset: 0, color: '#238636' },
+                                { offset: 1, color: '#3fb950' }
+                            ])
+                        }
+                    })),
+                    label: {
+                        show: true,
+                        position: 'right',
+                        color: '#8b949e'
+                    }
+                }]
+            };
+            chart.setOption(option, true);
+            chart.off('click');
+            chart.on('click', p => {
+                if (p.componentType === 'series') {
+                    const person = data.persons[p.dataIndex];
+                    showDetail(person.id, person.name);
+                }
+            });
+        }
+        
+        function renderTimeline(data) {
+            const option = {
+                backgroundColor: 'transparent',
+                tooltip: {
+                    backgroundColor: '#21262d',
+                    borderColor: '#30363d',
+                    textStyle: { color: '#c9d1d9' }
+                },
+                grid: { left: 80, right: 40, top: 60, bottom: 40 },
+                xAxis: {
+                    type: 'category',
+                    data: data.periods.map(p => p.name),
+                    axisLine: { lineStyle: { color: '#30363d' } },
+                    axisLabel: { color: '#c9d1d9', rotate: 30 }
+                },
+                yAxis: {
+                    type: 'value',
+                    name: '事件数量',
+                    axisLine: { lineStyle: { color: '#30363d' } },
+                    axisLabel: { color: '#8b949e' },
+                    splitLine: { lineStyle: { color: '#21262d' } }
+                },
+                series: [{
+                    type: 'bar',
+                    data: data.periods.map(p => ({
+                        value: p.count,
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: '#a371f7' },
+                                { offset: 1, color: '#8957e5' }
+                            ])
+                        }
+                    })),
+                    label: {
+                        show: true,
+                        position: 'top',
+                        color: '#8b949e'
+                    }
+                }]
+            };
+            chart.setOption(option, true);
+            chart.off('click');
+        }
+        
+        function getNodeColor(role) {
+            if (!role) return '#3fb950';
+            if (role.includes('皇帝') || role.includes('帝')) return '#f85149';
+            if (role.includes('皇后') || role.includes('太后')) return '#a371f7';
+            if (role.includes('公主') || role.includes('王')) return '#58a6ff';
+            return '#3fb950';
+        }
+        
+        function getRelationColor(rel) {
+            if (!rel) return '#8b949e';
+            if (['父子','母子','父女','母女','兄弟','子','弟'].includes(rel)) return '#da3633';
+            if (['夫妻','婚姻','配偶'].includes(rel)) return '#f0883e';
+            if (['奏劾','讨伐','贬谪','杀害','弑杀','通谋'].includes(rel)) return '#a371f7';
+            return '#8b949e';
+        }
+        
+        async function showDetail(id, name) {
+            document.getElementById('detail-empty').style.display = 'none';
+            const content = document.getElementById('detail-content');
+            content.style.display = 'block';
+            content.innerHTML = '<div style="padding:20px;color:#8b949e;">加载中...</div>';
+            
+            try {
+                const [relRes, eventRes] = await Promise.all([
+                    fetch(`${API}/person/${id}/relations`),
+                    fetch(`${API}/person/${id}/events`)
+                ]);
+                const relData = await relRes.json();
+                const eventData = await eventRes.json();
+                
+                const relations = relData.success ? relData.data : [];
+                const events = eventData.success ? eventData.data : [];
+                
+                let html = `
+                    <div class="detail-header">
+                        <h2>${name}</h2>
+                        <div class="meta">关系 ${relations.length} 条 | 事件 ${events.length} 个</div>
+                    </div>
+                `;
+                
+                html += `<div class="detail-section"><h4>人物关系</h4>`;
+                if (relations.length) {
+                    html += '<ul>';
+                    relations.slice(0, 20).forEach(r => {
+                        const tagClass = getRelationClass(r.relation);
+                        html += `<li><span class="rel-tag ${tagClass}">${r.relation || '关系'}</span>${r.person2}</li>`;
+                    });
+                    html += '</ul>';
+                } else {
+                    html += '<p style="color:#8b949e;font-size:13px;">暂无关系记录</p>';
+                }
+                html += '</div>';
+                
+                html += `<div class="detail-section"><h4>参与事件</h4>`;
+                if (events.length) {
+                    html += '<ul>';
+                    events.slice(0, 15).forEach(e => {
+                        html += `<li>${e.name}${e.time ? `<br><span class="time-tag">⏰ ${e.time}</span>` : ''}</li>`;
+                    });
+                    if (events.length > 15) html += `<li style="color:#58a6ff;">还有 ${events.length-15} 个事件...</li>`;
+                    html += '</ul>';
+                } else {
+                    html += '<p style="color:#8b949e;font-size:13px;">暂无事件记录</p>';
+                }
+                html += '</div>';
+                
+                content.innerHTML = html;
+            } catch(e) {
+                content.innerHTML = '<div style="padding:20px;color:#da3633;">加载失败</div>';
+            }
+        }
+        
+        function getRelationClass(rel) {
+            if (!rel) return 'rel-other';
+            if (['父子','母子','父女','母女','兄弟','子','弟','夫妻','婚姻','配偶'].includes(rel)) return 'rel-family';
+            if (['奏劾','讨伐','贬谪','杀害','弑杀','通谋'].includes(rel)) return 'rel-political';
+            return 'rel-other';
+        }
+    </script>
+</body>
+</html>
