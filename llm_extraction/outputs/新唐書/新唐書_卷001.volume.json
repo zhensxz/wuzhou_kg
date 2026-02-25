@@ -1,0 +1,612 @@
+{
+  "work": "新唐書",
+  "volume": "001",
+  "page_title": "新唐書/卷001",
+  "url": "https://zh.wikisource.org/wiki/%E6%96%B0%E5%94%90%E6%9B%B8%2F%E5%8D%B7001",
+  "generated_at": "2026-02-16T04:22:39.361516+00:00",
+  "time_anchors": [
+    {
+      "text": "大業中",
+      "normalized": "隋大业年间（约605–618年）",
+      "evidence": "大業中，歷岐州刺史、滎陽樓煩二郡太守，召為殿內少監、衞尉少卿。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十一年",
+      "normalized": "隋大业十一年（615年）",
+      "evidence": "十一年，拜山西河東慰撫大使，擊龍門賊母端兒",
+      "confidence": 0.9
+    },
+    {
+      "text": "十三年",
+      "normalized": "隋大业十三年（617年）",
+      "evidence": "十三年，拜太原留守，擊高陽歷山飛賊甄翟兒于西河，破之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "五月甲子",
+      "normalized": "隋大业十三年五月初（617年）",
+      "evidence": "五月甲子，高祖及威、君雅視事，開陽府司馬劉政會告威、君雅反，即坐上執之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "武德元年五月甲子",
+      "normalized": "唐武德元年五月初（618年6月18日）",
+      "evidence": "武德元年五月甲子，即皇帝位于太極殿。",
+      "confidence": 0.9
+    },
+    {
+      "text": "九年五月",
+      "normalized": "唐贞观九年五月初（635年）",
+      "evidence": "九年五月，崩于垂拱前殿，年七十一。",
+      "confidence": 0.9
+    }
+  ],
+  "people": [
+    {
+      "name": "李渊",
+      "aliases": [
+        "唐高祖",
+        "神堯大聖大光孝皇帝",
+        "叔德",
+        "唐国公",
+        "高祖",
+        "唐王"
+      ],
+      "roles": [
+        "皇帝",
+        "军事统帅",
+        "父亲",
+        "宗室"
+      ],
+      "offices": [
+        "千牛备身",
+        "岐州刺史",
+        "荥阳楼烦二郡太守",
+        "殿内少监",
+        "卫尉少卿",
+        "弘化留守",
+        "山西河东慰抚大使",
+        "太原留守",
+        "大丞相",
+        "唐王"
+      ],
+      "evidence": [
+        "高祖神堯大聖大光孝皇帝諱淵，字叔德，姓李氏，隴西成紀人也。",
+        "仁公生高祖於長安，體有三乳，性寬仁，襲封唐公。",
+        "十三年，拜太原留守",
+        "進封唐王",
+        "武德元年五月甲子，即皇帝位于太極殿"
+      ]
+    },
+    {
+      "name": "李世民",
+      "aliases": [
+        "天策上将",
+        "秦王",
+        "燉煌公",
+        "赵国公"
+      ],
+      "roles": [
+        "皇子",
+        "军事统帅",
+        "皇太子"
+      ],
+      "offices": [
+        "右领军大都督",
+        "尚书令",
+        "西讨元帅",
+        "中书令"
+      ],
+      "evidence": [
+        "高祖子世民知隋必亡，陰結豪傑",
+        "世民為燉煌公、右領軍大都督，右軍隸焉",
+        "封世民為秦王",
+        "六月丁巳，秦王世民殺皇太子建成、齊王元吉",
+        "癸亥，立秦王世民為皇太子，聽政"
+      ]
+    },
+    {
+      "name": "李建成",
+      "aliases": [
+        "皇太子",
+        "唐国世子",
+        "隴西公"
+      ],
+      "roles": [
+        "皇子",
+        "储君"
+      ],
+      "offices": [
+        "左领军大都督",
+        "左元帅"
+      ],
+      "evidence": [
+        "以子建成為隴西公、左領軍大都督，左軍隸焉",
+        "立世子建成為皇太子",
+        "六月丁巳，秦王世民殺皇太子建成"
+      ]
+    },
+    {
+      "name": "李元吉",
+      "aliases": [
+        "齊王",
+        "姑臧公"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [
+        "中领军",
+        "太原道行军元帅",
+        "司空"
+      ],
+      "evidence": [
+        "元吉為姑臧公，中軍隸焉",
+        "封元吉齊王",
+        "六月丁巳，秦王世民殺皇太子建成、齊王元吉"
+      ]
+    },
+    {
+      "name": "裴寂",
+      "aliases": [],
+      "roles": [
+        "谋士",
+        "重臣"
+      ],
+      "offices": [
+        "晋阳宫副监",
+        "长史",
+        "尚书右仆射",
+        "司空"
+      ],
+      "evidence": [
+        "所善客裴寂為副監，世民陰與寂謀",
+        "裴寂為長史",
+        "裴寂為尚書右僕射、知政事"
+      ]
+    },
+    {
+      "name": "刘文静",
+      "aliases": [],
+      "roles": [
+        "谋士",
+        "将领"
+      ],
+      "offices": [
+        "司马",
+        "纳言"
+      ],
+      "evidence": [
+        "與晉陽令劉文靜謀舉大事",
+        "劉文靜為司馬",
+        "劉文靜為納言"
+      ]
+    },
+    {
+      "name": "隋炀帝",
+      "aliases": [
+        "煬帝"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [
+        "隋帝"
+      ],
+      "evidence": [
+        "煬帝征遼東，遣高祖督運糧於懷遠鎮",
+        "煬帝多以猜忌殺戮大臣",
+        "煬帝南遊江都"
+      ]
+    },
+    {
+      "name": "王威",
+      "aliases": [],
+      "roles": [
+        "隋将"
+      ],
+      "offices": [
+        "虎贲郎将",
+        "副留守"
+      ],
+      "evidence": [
+        "副留守虎賁郎將王威、虎牙郎將高君雅見兵大集，疑有變",
+        "五月甲子，高祖及威、君雅視事，開陽府司馬劉政會告威、君雅反，即坐上執之"
+      ]
+    },
+    {
+      "name": "高君雅",
+      "aliases": [],
+      "roles": [
+        "隋将"
+      ],
+      "offices": [
+        "虎牙郎将",
+        "副留守"
+      ],
+      "evidence": [
+        "副留守虎賁郎將王威、虎牙郎將高君雅見兵大集，疑有變",
+        "五月甲子，高祖及威、君雅視事，開陽府司馬劉政會告威、君雅反，即坐上執之"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "长安",
+      "aliases": [
+        "大兴",
+        "京城",
+        "京师"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "仁公生高祖於長安",
+        "十一月丙辰，克京城",
+        "甲子，高祖入京師，至朝堂"
+      ]
+    },
+    {
+      "name": "太原",
+      "aliases": [
+        "晋阳"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "十三年，拜太原留守",
+        "癸丑，發太原",
+        "高祖留守太原，領晉陽宮監"
+      ]
+    },
+    {
+      "name": "霍邑",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "八月辛巳，敗宋老生于霍邑"
+      ]
+    },
+    {
+      "name": "江都",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "煬帝南遊江都",
+        "煬帝遣使者執高祖詣江都"
+      ]
+    },
+    {
+      "name": "晋祠",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "謀因禱雨晉祠以圖高祖"
+      ]
+    },
+    {
+      "name": "太极殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "武德元年五月甲子，即皇帝位于太極殿"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "李渊",
+      "to": "李世民",
+      "relation": "父子",
+      "time": "大业年间",
+      "place": "",
+      "evidence": "高祖子世民知隋必亡，陰結豪傑，招納亡命，與晉陽令劉文靜謀舉大事。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李渊",
+      "to": "李建成",
+      "relation": "父子",
+      "time": "大业十三年",
+      "place": "太原",
+      "evidence": "以子建成為隴西公、左領軍大都督，左軍隸焉",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李渊",
+      "to": "隋文帝",
+      "relation": "甥舅（隋文帝为李渊从母之夫）",
+      "time": "隋初",
+      "place": "",
+      "evidence": "隋文帝獨孤皇后，高祖之從母也，以故文帝與高祖相親愛。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李渊",
+      "to": "太原留守",
+      "relation": "担任",
+      "time": "大业十三年",
+      "place": "太原",
+      "evidence": "十三年，拜太原留守",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李世民",
+      "to": "右领军大都督",
+      "relation": "担任",
+      "time": "大业十三年六月",
+      "place": "太原",
+      "evidence": "世民為燉煌公、右領軍大都督，右軍隸焉",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "李渊",
+      "to": "长安",
+      "relation": "出生地",
+      "time": "北周天和元年（566年）",
+      "place": "长安",
+      "evidence": "仁公生高祖於長安",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "李渊",
+      "to": "太原起兵",
+      "relation": "主导者",
+      "time": "大业十三年五月",
+      "place": "太原",
+      "evidence": "五月甲子，高祖及威、君雅視事……遂殺之以起兵。遣劉文靜使突厥，約連和。",
+      "confidence": 0.9
+    }
+  ],
+  "events": [
+    {
+      "event_name": "太原起兵",
+      "event_type": "军事政变",
+      "time": "大业十三年五月",
+      "place": "太原",
+      "participants": [
+        "李渊",
+        "刘政会",
+        "王威",
+        "高君雅",
+        "刘文静"
+      ],
+      "description": "李渊借刘政会告发王威、高君雅通突厥之机，当场逮捕二人，后以突厥犯边为由处决，正式起兵反隋，并遣刘文静联络突厥。",
+      "outcomes": [
+        "诛杀王威、高君雅",
+        "建立大将军府",
+        "传檄诸郡称义兵",
+        "开启唐朝建国进程"
+      ],
+      "evidence": [
+        "五月甲子，高祖及威、君雅視事，開陽府司馬劉政會告威、君雅反，即坐上執之。丙寅，突厥犯邊，高祖令軍中曰：「人告威、君雅召突厥，今其果然。」遂殺之以起兵。遣劉文靜使突厥，約連和。",
+        "六月己卯，傳檄諸郡，稱義兵，開大將軍府，置三軍。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "攻克长安",
+      "event_type": "军事行动",
+      "time": "大业十三年十一月",
+      "place": "长安",
+      "participants": [
+        "李渊",
+        "李建成",
+        "李世民",
+        "刘文静",
+        "卫文昇",
+        "代王侑"
+      ],
+      "description": "李渊率军围攻隋都长安，下令保护隋宗庙，破城后立代王侑为帝，遥尊隋炀帝为太上皇，自任大丞相、唐王。",
+      "outcomes": [
+        "控制隋都",
+        "立代王侑为傀儡皇帝",
+        "李渊进封唐王、总揽朝政",
+        "改元义宁"
+      ],
+      "evidence": [
+        "十月辛巳，次長樂宮，有眾二十萬。隋留守衞文昇等奉代王侑守京城，高祖遣使諭之，不報。乃圍城……十一月丙辰，克京城。",
+        "癸亥，遙尊隋帝為太上皇，立代王為皇帝。大赦，改元義寧。甲子，高祖入京師……隋帝授高祖假黃鉞、使持節、大都督內外諸軍事、大丞相、錄尚書事，進封唐王。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "李渊即皇帝位",
+      "event_type": "政权建立",
+      "time": "武德元年五月甲子",
+      "place": "长安太极殿",
+      "participants": [
+        "李渊",
+        "萧造",
+        "百官"
+      ],
+      "description": "李渊于太极殿正式登基称帝，改元武德，大赦天下，确立唐朝国号与制度。",
+      "outcomes": [
+        "唐朝正式建立",
+        "改元武德",
+        "颁布新政（改郡为州等）",
+        "追尊先祖"
+      ],
+      "evidence": [
+        "武德元年五月甲子，即皇帝位于太極殿。命蕭造兼太尉，告于南郊，大赦，改元。",
+        "改郡為州，太守為刺史。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "玄武门之变",
+      "event_type": "宫廷政变",
+      "time": "武德九年六月丁巳",
+      "place": "长安",
+      "participants": [
+        "李世民",
+        "李建成",
+        "李元吉",
+        "李渊"
+      ],
+      "description": "秦王李世民诛杀皇太子李建成、齐王李元吉，李渊立李世民为皇太子并令其听政。",
+      "outcomes": [
+        "李建成、李元吉被杀",
+        "李世民被立为皇太子",
+        "李渊交出实权",
+        "为贞观之治奠基"
+      ],
+      "evidence": [
+        "六月丁巳，秦王世民殺皇太子建成、齊王元吉。大赦。……癸亥，立秦王世民為皇太子，聽政。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "李渊崩逝",
+      "event_type": "人物逝世",
+      "time": "贞观九年五月",
+      "place": "长安垂拱殿",
+      "participants": [
+        "李渊"
+      ],
+      "description": "太上皇李渊于垂拱前殿去世，享年七十一岁，初谥太武，后经多次追谥。",
+      "outcomes": [
+        "谥号历经追改（太武→神尧→神尧大圣→神尧大圣大光孝）",
+        "葬礼依制举行"
+      ],
+      "evidence": [
+        "九年五月，崩于垂拱前殿，年七十一。謚曰太武，廟號高祖。上元元年，改謚神堯皇帝。天寶八載，謚神堯大聖皇帝；十三載，增謚神堯大聖大光孝皇帝。"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_xintangshu_001_00001",
+        "wikisource_xintangshu_001_00002",
+        "wikisource_xintangshu_001_00003",
+        "wikisource_xintangshu_001_00004",
+        "wikisource_xintangshu_001_00005",
+        "wikisource_xintangshu_001_00006",
+        "wikisource_xintangshu_001_00007",
+        "wikisource_xintangshu_001_00008",
+        "wikisource_xintangshu_001_00009",
+        "wikisource_xintangshu_001_00010",
+        "wikisource_xintangshu_001_00011",
+        "wikisource_xintangshu_001_00012",
+        "wikisource_xintangshu_001_00013",
+        "wikisource_xintangshu_001_00014",
+        "wikisource_xintangshu_001_00015",
+        "wikisource_xintangshu_001_00016",
+        "wikisource_xintangshu_001_00017",
+        "wikisource_xintangshu_001_00018",
+        "wikisource_xintangshu_001_00019",
+        "wikisource_xintangshu_001_00020",
+        "wikisource_xintangshu_001_00021",
+        "wikisource_xintangshu_001_00022",
+        "wikisource_xintangshu_001_00023",
+        "wikisource_xintangshu_001_00024",
+        "wikisource_xintangshu_001_00025",
+        "wikisource_xintangshu_001_00026",
+        "wikisource_xintangshu_001_00027",
+        "wikisource_xintangshu_001_00028",
+        "wikisource_xintangshu_001_00029",
+        "wikisource_xintangshu_001_00030",
+        "wikisource_xintangshu_001_00031",
+        "wikisource_xintangshu_001_00032",
+        "wikisource_xintangshu_001_00033",
+        "wikisource_xintangshu_001_00034",
+        "wikisource_xintangshu_001_00035",
+        "wikisource_xintangshu_001_00036",
+        "wikisource_xintangshu_001_00037",
+        "wikisource_xintangshu_001_00038",
+        "wikisource_xintangshu_001_00039",
+        "wikisource_xintangshu_001_00040",
+        "wikisource_xintangshu_001_00041",
+        "wikisource_xintangshu_001_00042",
+        "wikisource_xintangshu_001_00043",
+        "wikisource_xintangshu_001_00044",
+        "wikisource_xintangshu_001_00045",
+        "wikisource_xintangshu_001_00046",
+        "wikisource_xintangshu_001_00047",
+        "wikisource_xintangshu_001_00048",
+        "wikisource_xintangshu_001_00049",
+        "wikisource_xintangshu_001_00050",
+        "wikisource_xintangshu_001_00051",
+        "wikisource_xintangshu_001_00052",
+        "wikisource_xintangshu_001_00053",
+        "wikisource_xintangshu_001_00054",
+        "wikisource_xintangshu_001_00055",
+        "wikisource_xintangshu_001_00056",
+        "wikisource_xintangshu_001_00057",
+        "wikisource_xintangshu_001_00058",
+        "wikisource_xintangshu_001_00059",
+        "wikisource_xintangshu_001_00060",
+        "wikisource_xintangshu_001_00061",
+        "wikisource_xintangshu_001_00062",
+        "wikisource_xintangshu_001_00063",
+        "wikisource_xintangshu_001_00064",
+        "wikisource_xintangshu_001_00065",
+        "wikisource_xintangshu_001_00066",
+        "wikisource_xintangshu_001_00067",
+        "wikisource_xintangshu_001_00068",
+        "wikisource_xintangshu_001_00069",
+        "wikisource_xintangshu_001_00070",
+        "wikisource_xintangshu_001_00071",
+        "wikisource_xintangshu_001_00072",
+        "wikisource_xintangshu_001_00073",
+        "wikisource_xintangshu_001_00074",
+        "wikisource_xintangshu_001_00075",
+        "wikisource_xintangshu_001_00076",
+        "wikisource_xintangshu_001_00077",
+        "wikisource_xintangshu_001_00078",
+        "wikisource_xintangshu_001_00079",
+        "wikisource_xintangshu_001_00080",
+        "wikisource_xintangshu_001_00081",
+        "wikisource_xintangshu_001_00082",
+        "wikisource_xintangshu_001_00083",
+        "wikisource_xintangshu_001_00084",
+        "wikisource_xintangshu_001_00085",
+        "wikisource_xintangshu_001_00086",
+        "wikisource_xintangshu_001_00087",
+        "wikisource_xintangshu_001_00088",
+        "wikisource_xintangshu_001_00089",
+        "wikisource_xintangshu_001_00090",
+        "wikisource_xintangshu_001_00091",
+        "wikisource_xintangshu_001_00092",
+        "wikisource_xintangshu_001_00093",
+        "wikisource_xintangshu_001_00094",
+        "wikisource_xintangshu_001_00095",
+        "wikisource_xintangshu_001_00096",
+        "wikisource_xintangshu_001_00097",
+        "wikisource_xintangshu_001_00098",
+        "wikisource_xintangshu_001_00099",
+        "wikisource_xintangshu_001_00100",
+        "wikisource_xintangshu_001_00101",
+        "wikisource_xintangshu_001_00102",
+        "wikisource_xintangshu_001_00103",
+        "wikisource_xintangshu_001_00104",
+        "wikisource_xintangshu_001_00105",
+        "wikisource_xintangshu_001_00106",
+        "wikisource_xintangshu_001_00107",
+        "wikisource_xintangshu_001_00108",
+        "wikisource_xintangshu_001_00109",
+        "wikisource_xintangshu_001_00110",
+        "wikisource_xintangshu_001_00111",
+        "wikisource_xintangshu_001_00112",
+        "wikisource_xintangshu_001_00113",
+        "wikisource_xintangshu_001_00114",
+        "wikisource_xintangshu_001_00115",
+        "wikisource_xintangshu_001_00116",
+        "wikisource_xintangshu_001_00117",
+        "wikisource_xintangshu_001_00118",
+        "wikisource_xintangshu_001_00119",
+        "wikisource_xintangshu_001_00120"
+      ]
+    }
+  ]
+}

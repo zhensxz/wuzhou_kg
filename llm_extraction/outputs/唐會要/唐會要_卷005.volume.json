@@ -1,0 +1,1309 @@
+{
+  "work": "唐會要",
+  "volume": "005",
+  "page_title": "唐會要/卷005",
+  "url": "https://zh.wikisource.org/wiki/%E5%94%90%E6%9C%83%E8%A6%81%2F%E5%8D%B7005",
+  "generated_at": "2026-02-16T03:55:29.880543+00:00",
+  "time_anchors": [
+    {
+      "text": "北宋",
+      "normalized": "北宋",
+      "evidence": "times=北宋",
+      "confidence": 0.95
+    },
+    {
+      "text": "高宗朝",
+      "normalized": "唐高宗时期",
+      "evidence": "高宗朝，以沛、英、豫三王及太平公主，武后所生，食封逾於常制。",
+      "confidence": 0.95
+    },
+    {
+      "text": "垂拱中",
+      "normalized": "垂拱年间（685-688）",
+      "evidence": "垂拱中，太平至一千二百戶。",
+      "confidence": 0.95
+    },
+    {
+      "text": "聖曆初",
+      "normalized": "圣历初年（698）",
+      "evidence": "聖曆初，皇嗣封爲相王，太平公主皆三千戶。",
+      "confidence": 0.95
+    },
+    {
+      "text": "長安中",
+      "normalized": "长安年间（701-704）",
+      "evidence": "長安中，壽春王兄弟五人，各三百戶。",
+      "confidence": 0.95
+    },
+    {
+      "text": "神龍初",
+      "normalized": "神龙初年（705）",
+      "evidence": "神龍初，相王、太平公主同至五千戶，衞王三千戶，溫王二千戶...",
+      "confidence": 0.95
+    },
+    {
+      "text": "唐隆中",
+      "normalized": "唐隆年间（710）",
+      "evidence": "唐隆中，嗣雍王、壽春王封爲親王，各加至一千戶。",
+      "confidence": 0.95
+    },
+    {
+      "text": "開元中",
+      "normalized": "开元年间（713-741）",
+      "evidence": "開元中，寧王五千五百戶，岐王、薛王各五千戶...",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀中",
+      "normalized": "贞观年间（627-649）",
+      "evidence": "初，貞觀中，高宗爲晉王，以文德皇后最少子...",
+      "confidence": 0.95
+    },
+    {
+      "text": "先天之後",
+      "normalized": "先天之后（712年后）",
+      "evidence": "先天之後，皇子幼則居內...",
+      "confidence": 0.9
+    },
+    {
+      "text": "東封後",
+      "normalized": "东封泰山之后（约725年后）",
+      "evidence": "東封後，以年漸長成，乃於安國寺東附苑城爲大宅...",
+      "confidence": 0.85
+    },
+    {
+      "text": "開元二十五年",
+      "normalized": "开元二十五年（737）",
+      "evidence": "開元二十五年，鄂、光得罪，忠王繼大統...",
+      "confidence": 0.95
+    },
+    {
+      "text": "天寶中",
+      "normalized": "天宝年间（742-756）",
+      "evidence": "天寶中，慶、棣又歿，惟榮、儀十四王居內...",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀十六年四月",
+      "normalized": "貞觀十六年四月",
+      "evidence": "貞觀十六年四月，詔泰移居武德殿。",
+      "confidence": 0.95
+    },
+    {
+      "text": "十七年五月",
+      "normalized": "貞觀十七年五月",
+      "evidence": "十七年五月，上親謁太廟，以謝承乾之過",
+      "confidence": 0.9
+    },
+    {
+      "text": "垂拱三年七月",
+      "normalized": "垂拱三年七月",
+      "evidence": "垂拱三年七月，遂各起兵赴神都。",
+      "confidence": 0.95
+    },
+    {
+      "text": "乾封初",
+      "normalized": "乾封初年",
+      "evidence": "乾封初，詔曰：「素節旣患舊疾，宜不須入朝。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "天授中",
+      "normalized": "天授年間",
+      "evidence": "天授中，與澤王上金同被誣告，追赴都。",
+      "confidence": 0.9
+    },
+    {
+      "text": "神龍初",
+      "normalized": "神龍初年",
+      "evidence": "神龍初，侍中敬暉等以沖父子翼戴皇家，義存社稷，請復其官爵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元四年",
+      "normalized": "開元四年",
+      "evidence": "開元四年，詔追復爵土，令備禮改葬。",
+      "confidence": 0.95
+    },
+    {
+      "text": "五年",
+      "normalized": "開元五年",
+      "evidence": "五年，又下詔封貞姪孫琳爲嗣越王，以奉其祀",
+      "confidence": 0.85
+    },
+    {
+      "text": "至開成四年六月",
+      "normalized": "開成四年六月",
+      "evidence": "至開成四年六月，其裔孫女道士元貞，護先代數喪歸葬",
+      "confidence": 0.95
+    },
+    {
+      "text": "建中三年",
+      "normalized": "建中三年",
+      "evidence": "建中三年薨。",
+      "confidence": 0.95
+    },
+    {
+      "text": "乾元二年七月",
+      "normalized": "乾元二年七月",
+      "evidence": "乾元二年七月，爲天下兵馬元帥。",
+      "confidence": 0.95
+    },
+    {
+      "text": "高祖崩",
+      "normalized": "唐高祖駕崩時",
+      "evidence": "高祖崩，去職，毀瘠過禮",
+      "confidence": 0.85
+    },
+    {
+      "text": "高宗崩",
+      "normalized": "唐高宗駕崩時",
+      "evidence": "高宗崩，與侍中劉齊賢等知山陵事",
+      "confidence": 0.85
+    }
+  ],
+  "people": [
+    {
+      "name": "王溥",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "author=王溥"
+      ]
+    },
+    {
+      "name": "太平公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "垂拱中，太平至一千二百戶。",
+        "聖曆初，皇嗣封爲相王，太平公主皆三千戶。",
+        "神龍初，相王、太平公主同至五千戶..."
+      ]
+    },
+    {
+      "name": "相王",
+      "aliases": [
+        "李旦（据史实，原文未提本名）",
+        "皇嗣"
+      ],
+      "roles": [
+        "亲王",
+        "皇嗣"
+      ],
+      "offices": [
+        "储位（后升）"
+      ],
+      "evidence": [
+        "聖曆初，皇嗣封爲相王...",
+        "神龍初，相王、太平公主同至五千戶...",
+        "衞王升儲位，相王加至七千戶..."
+      ]
+    },
+    {
+      "name": "衞王重俊",
+      "aliases": [
+        "卫王"
+      ],
+      "roles": [
+        "亲王",
+        "太子"
+      ],
+      "offices": [
+        "太子"
+      ],
+      "evidence": [
+        "衞王重俊爲太子，又與成王千里等起兵，將誅韋后..."
+      ]
+    },
+    {
+      "name": "溫王重茂",
+      "aliases": [
+        "温王"
+      ],
+      "roles": [
+        "亲王"
+      ],
+      "offices": [],
+      "evidence": [
+        "溫王重茂雖年十六七，竟亦居宮中。"
+      ]
+    },
+    {
+      "name": "成王千里",
+      "aliases": [
+        "成王"
+      ],
+      "roles": [
+        "亲王"
+      ],
+      "offices": [],
+      "evidence": [
+        "衞王重俊爲太子，又與成王千里等起兵..."
+      ]
+    },
+    {
+      "name": "安樂公主",
+      "aliases": [
+        "安乐公主"
+      ],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "安樂公主二千戶...",
+        "安樂三千戶..."
+      ]
+    },
+    {
+      "name": "長寧公主",
+      "aliases": [
+        "长宁公主"
+      ],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "長寧一千五百戶...",
+        "長寧二千五百戶..."
+      ]
+    },
+    {
+      "name": "武后",
+      "aliases": [
+        "武则天"
+      ],
+      "roles": [
+        "皇后",
+        "太后"
+      ],
+      "offices": [],
+      "evidence": [
+        "高宗朝，以沛、英、豫三王及太平公主，武后所生..."
+      ]
+    },
+    {
+      "name": "韋后",
+      "aliases": [
+        "韦后"
+      ],
+      "roles": [
+        "皇后"
+      ],
+      "offices": [],
+      "evidence": [
+        "衞王重俊爲太子，又與成王千里等起兵，將誅韋后..."
+      ]
+    },
+    {
+      "name": "壽春王",
+      "aliases": [],
+      "roles": [
+        "亲王"
+      ],
+      "offices": [],
+      "evidence": [
+        "長安中，壽春王兄弟五人，各三百戶。",
+        "唐隆中，嗣雍王、壽春王封爲親王..."
+      ]
+    },
+    {
+      "name": "元嘉",
+      "aliases": [
+        "韓王元嘉",
+        "韓王"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "韓王元嘉，少好學，聚書至萬卷",
+        "閨門修整，有類寒素。與其弟靈夔相友愛"
+      ]
+    },
+    {
+      "name": "靈夔",
+      "aliases": [
+        "魯王靈夔"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "與其弟靈夔相友愛",
+        "則天稱制，貞與韓王元嘉、魯王靈夔、霍王元軌等，密有匡復之志"
+      ]
+    },
+    {
+      "name": "譔",
+      "aliases": [
+        "黃公譔"
+      ],
+      "roles": [
+        "宗室子"
+      ],
+      "offices": [],
+      "evidence": [
+        "元嘉子黃公譔，少以文才稱"
+      ]
+    },
+    {
+      "name": "元軌",
+      "aliases": [
+        "蜀王",
+        "吳王",
+        "霍王元軌"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "絳州刺史",
+        "徐州刺史",
+        "定州刺史"
+      ],
+      "evidence": [
+        "霍王元軌，初爲蜀王，徙封吳王",
+        "後改封霍王，爲絳州刺史，遷徐州",
+        "爲定州刺史，有突厥來寇"
+      ]
+    },
+    {
+      "name": "魏徵",
+      "aliases": [
+        "侍中魏徵"
+      ],
+      "roles": [
+        "唐朝大臣"
+      ],
+      "offices": [
+        "侍中"
+      ],
+      "evidence": [
+        "侍中魏徵對曰：「臣愚昧，不盡知其能。唯吳王數與臣言，未嘗不自失。」",
+        "因令妻徵女焉"
+      ]
+    },
+    {
+      "name": "劉玄平",
+      "aliases": [
+        "處士劉玄平"
+      ],
+      "roles": [
+        "隱士"
+      ],
+      "offices": [],
+      "evidence": [
+        "在徐州，唯與處士劉玄平爲布衣之交"
+      ]
+    },
+    {
+      "name": "元慶",
+      "aliases": [
+        "道王元慶"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "趙州刺史",
+        "豫州刺史",
+        "滑州刺史",
+        "徐州市刺史",
+        "沁州刺史",
+        "衞州刺史"
+      ],
+      "evidence": [
+        "道王元慶，歷趙、豫、滑、徐、沁、衞州刺史，皆以政聞"
+      ]
+    },
+    {
+      "name": "元裕",
+      "aliases": [
+        "鄧王元裕"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "鄧王元裕好學，善談名理，與典籤盧照鄰爲布衣之交"
+      ]
+    },
+    {
+      "name": "元名",
+      "aliases": [
+        "舒王元名"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "石州刺史",
+        "青州刺史",
+        "鄭州刺史"
+      ],
+      "evidence": [
+        "封王之後，歷數郡刺史",
+        "故在石州向二十年",
+        "垂拱中，轉青州，又拜鄭州"
+      ]
+    },
+    {
+      "name": "元祥",
+      "aliases": [
+        "江王元祥"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "江王元祥，貪鄙多聚金寶，營求無厭，爲民吏所患"
+      ]
+    },
+    {
+      "name": "元嬰",
+      "aliases": [
+        "滕王元嬰"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "金州刺史"
+      ],
+      "evidence": [
+        "滕王元嬰爲金州刺史，頗驕縱，動作無度"
+      ]
+    },
+    {
+      "name": "元恪",
+      "aliases": [
+        "吳王恪"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "安州都督"
+      ],
+      "evidence": [
+        "吳王恪，授安州都督",
+        "永徽中，會房遺愛謀反，遂因事誅恪"
+      ]
+    },
+    {
+      "name": "泰",
+      "aliases": [
+        "東萊郡王",
+        "魏王泰"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "太宗以魏王泰愛文學，特令就府別置文學館",
+        "魏王泰以罪降爵爲東萊郡王"
+      ]
+    },
+    {
+      "name": "愔",
+      "aliases": [
+        "蜀王愔"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "襄州刺史",
+        "益州都督",
+        "虢州刺史",
+        "黃州刺史"
+      ],
+      "evidence": [
+        "蜀王愔，累授襄州刺史，改封蜀王，轉益州都督",
+        "貶愔爲黃州刺史"
+      ]
+    },
+    {
+      "name": "惲",
+      "aliases": [
+        "蔣王惲"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "安州都督",
+        "梁州刺史"
+      ],
+      "evidence": [
+        "蔣王惲，自安州都督除梁州",
+        "惲在安州，多造器用玩具"
+      ]
+    },
+    {
+      "name": "貞",
+      "aliases": [
+        "越王貞"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "相州刺史",
+        "蔡州刺史"
+      ],
+      "evidence": [
+        "越王貞累授相州刺史",
+        "則天稱制，貞與韓王元嘉、魯王靈夔、霍王元軌等，密有匡復之志"
+      ]
+    },
+    {
+      "name": "沖",
+      "aliases": [
+        "琅邪王沖",
+        "貞長子沖"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "密州刺史",
+        "濟州刺史",
+        "博州刺史"
+      ],
+      "evidence": [
+        "諸王子之中，與琅邪王沖爲一時之秀",
+        "貞長子沖，好文學，善騎射。歷密、濟、博三州刺史"
+      ]
+    },
+    {
+      "name": "愼",
+      "aliases": [
+        "紀王愼"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "襄州刺史"
+      ],
+      "evidence": [
+        "紀王愼爲襄州刺史，以善政聞"
+      ]
+    },
+    {
+      "name": "素節",
+      "aliases": [
+        "雍王",
+        "鄱陽郡王",
+        "許王素節"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "雍州牧",
+        "申州刺史",
+        "舒州刺史"
+      ],
+      "evidence": [
+        "許王素節，六歲封雍王，尋授雍州牧",
+        "出爲申州刺史",
+        "除舒州刺史"
+      ]
+    },
+    {
+      "name": "璘",
+      "aliases": [
+        "永王璘"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "山南東路採訪使",
+        "嶺南道採訪使",
+        "江陵郡大都督"
+      ],
+      "evidence": [
+        "詔璘爲山南東路及嶺南等道采訪使、江陵郡大都督",
+        "璘至江陵，召募將土數萬人"
+      ]
+    },
+    {
+      "name": "瑁",
+      "aliases": [
+        "壽王瑁"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "壽王瑁，母武惠妃，頻產夏王、懷王及上僊公主，皆襁褓不育"
+      ]
+    },
+    {
+      "name": "瑱",
+      "aliases": [
+        "恆王瑱"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "恆王瑱，性好道，常服道衣"
+      ]
+    },
+    {
+      "name": "係",
+      "aliases": [
+        "越王係",
+        "儋"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [
+        "天下兵馬元帥"
+      ],
+      "evidence": [
+        "越王係，本名儋。乾元二年七月，爲天下兵馬元帥"
+      ]
+    },
+    {
+      "name": "詳",
+      "aliases": [
+        "肅王詳"
+      ],
+      "roles": [
+        "唐朝宗室",
+        "親王"
+      ],
+      "offices": [],
+      "evidence": [
+        "肅王詳，德宗第五子。建中三年薨"
+      ]
+    },
+    {
+      "name": "元貞",
+      "aliases": [
+        "道士元貞"
+      ],
+      "roles": [
+        "宗室後裔",
+        "道士"
+      ],
+      "offices": [],
+      "evidence": [
+        "至開成四年六月，其裔孫女道士元貞，護先代數喪歸葬"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "安國寺東附苑城",
+      "aliases": [
+        "安国寺东附苑城"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "乃於安國寺東附苑城爲大宅，分院居之，名爲「十王宅」。"
+      ]
+    },
+    {
+      "name": "十王宅",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "名爲「十王宅」。",
+        "十王宮人每院四百餘人..."
+      ]
+    },
+    {
+      "name": "百孫院",
+      "aliases": [
+        "百孙院"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "外諸孫長成，又於十宅外置百孫院。",
+        "百孫院三四十人。"
+      ]
+    },
+    {
+      "name": "華清宮",
+      "aliases": [
+        "华清宫"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "每歲幸華清宮，側亦有十王宅、百孫院。"
+      ]
+    },
+    {
+      "name": "崇仁里",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "婚嫁則同親王、公主，於崇仁里之禮院。"
+      ]
+    },
+    {
+      "name": "夾城",
+      "aliases": [
+        "夹城"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "於夾城中起居，每日家令進膳。"
+      ]
+    },
+    {
+      "name": "維城庫",
+      "aliases": [
+        "维城库"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "又於宮中置維城庫，以給諸王月俸。"
+      ]
+    },
+    {
+      "name": "絳州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "後改封霍王，爲絳州刺史"
+      ]
+    },
+    {
+      "name": "徐州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "遷徐州",
+        "在徐州，唯與處士劉玄平爲布衣之交"
+      ]
+    },
+    {
+      "name": "定州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "爲定州刺史，有突厥來寇"
+      ]
+    },
+    {
+      "name": "武德殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "貞觀十六年四月，詔泰移居武德殿"
+      ]
+    },
+    {
+      "name": "神都",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "垂拱三年七月，遂各起兵赴神都"
+      ]
+    },
+    {
+      "name": "江陵",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "璘至江陵，召募將土數萬人"
+      ]
+    },
+    {
+      "name": "廣陵",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "遂擅領舟師東下，甲仗五千人，趨廣陵"
+      ]
+    },
+    {
+      "name": "龍門東岑",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "孩孺而薨，時駕在東都，葬於城南龍門東岑"
+      ]
+    },
+    {
+      "name": "北苑",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "詔幽泰於北苑"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "武后",
+      "to": "太平公主",
+      "relation": "母女",
+      "time": "高宗朝",
+      "place": "",
+      "evidence": "高宗朝，以沛、英、豫三王及太平公主，武后所生，食封逾於常制。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "武后",
+      "to": "沛王、英王、豫王",
+      "relation": "母子",
+      "time": "高宗朝",
+      "place": "",
+      "evidence": "高宗朝，以沛、英、豫三王及太平公主，武后所生，食封逾於常制。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "相王",
+      "to": "皇嗣",
+      "relation": "曾任",
+      "time": "聖曆初前",
+      "place": "",
+      "evidence": "聖曆初，皇嗣封爲相王...",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "衞王重俊",
+      "to": "太子",
+      "relation": "担任",
+      "time": "中宗时",
+      "place": "",
+      "evidence": "衞王重俊爲太子，又與成王千里等起兵...",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "皇子",
+      "to": "十王宅",
+      "relation": "居所",
+      "time": "東封後",
+      "place": "安國寺東附苑城",
+      "evidence": "東封後，以年漸長成，乃於安國寺東附苑城爲大宅，分院居之，名爲「十王宅」。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "諸孫",
+      "to": "百孫院",
+      "relation": "居所",
+      "time": "十王宅建立后",
+      "place": "",
+      "evidence": "外諸孫長成，又於十宅外置百孫院。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "元嘉",
+      "to": "靈夔",
+      "relation": "兄弟",
+      "time": "",
+      "place": "",
+      "evidence": "與其弟靈夔相友愛，兄弟集見，如布衣之禮",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "元軌",
+      "to": "魏徵",
+      "relation": "姻親（元軌娶魏徵女）",
+      "time": "",
+      "place": "",
+      "evidence": "因令妻徵女焉",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "元軌",
+      "to": "劉玄平",
+      "relation": "布衣之交",
+      "time": "",
+      "place": "徐州",
+      "evidence": "在徐州，唯與處士劉玄平爲布衣之交",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "元裕",
+      "to": "盧照鄰",
+      "relation": "布衣之交",
+      "time": "",
+      "place": "",
+      "evidence": "與典籤盧照鄰爲布衣之交",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "元名",
+      "to": "亶",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "嘗誡其子豫章王亶等曰",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "貞",
+      "to": "沖",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "貞長子沖，好文學，善騎射",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "元軌",
+      "to": "絳州刺史",
+      "relation": "任職",
+      "time": "",
+      "place": "絳州",
+      "evidence": "後改封霍王，爲絳州刺史",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "元軌",
+      "to": "定州刺史",
+      "relation": "任職",
+      "time": "",
+      "place": "定州",
+      "evidence": "爲定州刺史，有突厥來寇",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "泰",
+      "to": "文學館學士召集者",
+      "relation": "主持",
+      "time": "",
+      "place": "",
+      "evidence": "特令就府別置文學館，任自引召學士",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "泰",
+      "to": "武德殿",
+      "relation": "居所",
+      "time": "貞觀十六年四月",
+      "place": "武德殿",
+      "evidence": "貞觀十六年四月，詔泰移居武德殿",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "元軌",
+      "to": "定州退突厥",
+      "relation": "主導",
+      "time": "",
+      "place": "定州",
+      "evidence": "元軌令開門偃旗，虜疑有伏，懼而宵遁",
+      "confidence": 0.95
+    }
+  ],
+  "events": [
+    {
+      "event_name": "太平公主食封增至一千二百户",
+      "event_type": "食封调整",
+      "time": "垂拱中",
+      "place": "",
+      "participants": [
+        "太平公主"
+      ],
+      "description": "太平公主食封数额突破常规，增至一千二百户",
+      "outcomes": [
+        "食封数额达一千二百户"
+      ],
+      "evidence": [
+        "垂拱中，太平至一千二百戶。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "相王与太平公主食封同增至五千户",
+      "event_type": "食封调整",
+      "time": "神龍初",
+      "place": "",
+      "participants": [
+        "相王",
+        "太平公主"
+      ],
+      "description": "神龙初年，相王与太平公主食封同步提升至五千户",
+      "outcomes": [
+        "相王、太平公主食封各五千户"
+      ],
+      "evidence": [
+        "神龍初，相王、太平公主同至五千戶..."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "衞王重俊联合成王千里起兵诛韦后",
+      "event_type": "军事行动",
+      "time": "中宗时",
+      "place": "",
+      "participants": [
+        "衞王重俊",
+        "成王千里",
+        "韋后"
+      ],
+      "description": "太子衞王重俊与成王千里等发动兵变，意图诛杀韦后",
+      "outcomes": [
+        "起兵行动（原文未载结果）"
+      ],
+      "evidence": [
+        "衞王重俊爲太子，又與成王千里等起兵，將誅韋后..."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "十王宅制度建立",
+      "event_type": "制度设立",
+      "time": "東封後",
+      "place": "安國寺東附苑城",
+      "participants": [
+        "皇子"
+      ],
+      "description": "于安国寺东附苑城建篶大宅，分院安置年长皇子，设中官押领、侍读教导",
+      "outcomes": [
+        "皇子分院居十王宅，日常起居、教育制度化"
+      ],
+      "evidence": [
+        "東封後，以年漸長成，乃於安國寺東附苑城爲大宅，分院居之，名爲「十王宅」。令中官押之...又引詞學工書之士入敎，謂之侍讀。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "嗣雍王、壽春王封亲王并增食封",
+      "event_type": "封爵调整",
+      "time": "唐隆中",
+      "place": "",
+      "participants": [
+        "嗣雍王",
+        "壽春王"
+      ],
+      "description": "唐隆年间，嗣雍王与壽春王受封亲王，食封各增至一千户",
+      "outcomes": [
+        "二人获亲王爵位，食封达一千户"
+      ],
+      "evidence": [
+        "唐隆中，嗣雍王、壽春王封爲親王，各加至一千戶。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "霍王元軌定州退突厥",
+      "event_type": "軍事防禦",
+      "time": "",
+      "place": "定州",
+      "participants": [
+        "元軌",
+        "突厥"
+      ],
+      "description": "突厥來寇定州，元軌令開門偃旗，敵軍疑有埋伏而夜遁。",
+      "outcomes": [
+        "突厥宵遁，定州得安"
+      ],
+      "evidence": [
+        "爲定州刺史，有突厥來寇，元軌令開門偃旗，虜疑有伏，懼而宵遁"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "魏王泰移居武德殿及被諫",
+      "event_type": "宮廷事件",
+      "time": "貞觀十六年四月",
+      "place": "武德殿",
+      "participants": [
+        "泰",
+        "唐太宗",
+        "魏徵"
+      ],
+      "description": "太宗詔泰移居武德殿，魏徵上疏諫其處嫌疑之地，太宗納諫遣泰歸第。",
+      "outcomes": [
+        "泰被遣歸本第",
+        "太宗反思儲位安排"
+      ],
+      "evidence": [
+        "貞觀十六年四月，詔泰移居武德殿。魏徵上疏諫曰：「陛下愛魏王，宜使知定分，抑其驕奢，不處嫌疑之地。今武德殿近儲后焉，上陵下替，不可以訓。」太宗曰︰「我幾錯誤。」遂遣泰歸本第。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "越王貞等起兵匡復",
+      "event_type": "軍事叛亂",
+      "time": "垂拱三年七月",
+      "place": "神都（洛陽）",
+      "participants": [
+        "貞",
+        "元嘉",
+        "靈夔",
+        "元軌",
+        "沖",
+        "趙瓌",
+        "常樂公主"
+      ],
+      "description": "越王貞聯合韓王元嘉、魯王靈夔、霍王元軌等起兵赴神都，欲匡復李唐，遭武則天派兵鎮壓。",
+      "outcomes": [
+        "起兵失敗，貞、沖等梟首",
+        "趙瓌與常樂公主被殺"
+      ],
+      "evidence": [
+        "垂拱三年七月，遂各起兵赴神都。則天命左豹韜衞大將軍麴崇裕等，率兵十萬討之，其衆大潰，貞等首並梟闕下。",
+        "瓌妻常樂公主……謂其使者曰：「爲我報王，與其進不與其退……」及貞等敗，瓌與公主皆死。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "許王素節被誣縊死",
+      "event_type": "政治迫害",
+      "time": "天授中",
+      "place": "都城南",
+      "participants": [
+        "素節",
+        "武則天"
+      ],
+      "description": "素節被誣告贓賄，追赴都城，行至城南被縊殺。",
+      "outcomes": [
+        "素節死亡"
+      ],
+      "evidence": [
+        "天授中，與澤王上金同被誣告，追赴都。……行至都城南，被縊死。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "永王璘江陵起兵",
+      "event_type": "軍事叛亂",
+      "time": "",
+      "place": "江陵、廣陵",
+      "participants": [
+        "璘",
+        "肅宗",
+        "李希言",
+        "季廣琛",
+        "皇甫侁"
+      ],
+      "description": "璘在江陵募兵數萬，擅領舟師東下廣陵，與朝廷軍隊交戰敗亡。",
+      "outcomes": [
+        "璘兵敗被擒，中流矢而死"
+      ],
+      "evidence": [
+        "璘至江陵，召募將土數萬人……遂擅領舟師東下，甲仗五千人，趨廣陵",
+        "後兵敗，將南投嶺外，爲江西采訪使皇甫侁下防禦兵所擒，因中流矢而死。"
+      ],
+      "confidence": 0.95
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_tanghuiyao_005_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "諸王",
+      "item_ids": [
+        "wikisource_tanghuiyao_005_00002",
+        "wikisource_tanghuiyao_005_00003",
+        "wikisource_tanghuiyao_005_00004",
+        "wikisource_tanghuiyao_005_00005",
+        "wikisource_tanghuiyao_005_00006",
+        "wikisource_tanghuiyao_005_00007",
+        "wikisource_tanghuiyao_005_00008",
+        "wikisource_tanghuiyao_005_00009",
+        "wikisource_tanghuiyao_005_00010",
+        "wikisource_tanghuiyao_005_00011",
+        "wikisource_tanghuiyao_005_00012",
+        "wikisource_tanghuiyao_005_00013",
+        "wikisource_tanghuiyao_005_00014",
+        "wikisource_tanghuiyao_005_00015",
+        "wikisource_tanghuiyao_005_00016",
+        "wikisource_tanghuiyao_005_00017",
+        "wikisource_tanghuiyao_005_00018",
+        "wikisource_tanghuiyao_005_00019",
+        "wikisource_tanghuiyao_005_00020",
+        "wikisource_tanghuiyao_005_00021",
+        "wikisource_tanghuiyao_005_00022"
+      ]
+    },
+    {
+      "section_id": "sec_0003",
+      "section_title": "雜錄",
+      "item_ids": [
+        "wikisource_tanghuiyao_005_00023",
+        "wikisource_tanghuiyao_005_00024",
+        "wikisource_tanghuiyao_005_00025",
+        "wikisource_tanghuiyao_005_00026",
+        "wikisource_tanghuiyao_005_00027",
+        "wikisource_tanghuiyao_005_00028",
+        "wikisource_tanghuiyao_005_00029",
+        "wikisource_tanghuiyao_005_00030",
+        "wikisource_tanghuiyao_005_00031",
+        "wikisource_tanghuiyao_005_00032",
+        "wikisource_tanghuiyao_005_00033",
+        "wikisource_tanghuiyao_005_00034",
+        "wikisource_tanghuiyao_005_00035",
+        "wikisource_tanghuiyao_005_00036",
+        "wikisource_tanghuiyao_005_00037",
+        "wikisource_tanghuiyao_005_00038",
+        "wikisource_tanghuiyao_005_00039",
+        "wikisource_tanghuiyao_005_00040",
+        "wikisource_tanghuiyao_005_00041",
+        "wikisource_tanghuiyao_005_00042"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1318 @@
+{
+  "work": "新唐書",
+  "volume": "009",
+  "page_title": "新唐書/卷009",
+  "url": "https://zh.wikisource.org/wiki/%E6%96%B0%E5%94%90%E6%9B%B8%2F%E5%8D%B7009",
+  "generated_at": "2026-02-16T05:24:34.273599+00:00",
+  "time_anchors": [
+    {
+      "text": "懿宗",
+      "normalized": "唐懿宗在位期间",
+      "evidence": "新唐書-{卷}-九 本紀第九 懿宗 僖宗",
+      "confidence": 0.9
+    },
+    {
+      "text": "僖宗",
+      "normalized": "唐僖宗在位期间",
+      "evidence": "新唐書-{卷}-九 本紀第九 懿宗 僖宗",
+      "confidence": 0.9
+    },
+    {
+      "text": "大中十三年八月",
+      "normalized": "大中13年8月",
+      "evidence": "大中十三年八月，宣宗疾大漸，以夔王屬內樞密使王歸長馬公儒、宣徽南院使王居方等。",
+      "confidence": 0.95
+    },
+    {
+      "text": "癸巳",
+      "normalized": "大中13年8月癸巳",
+      "evidence": "癸巳，即皇帝位于柩前。",
+      "confidence": 0.95
+    },
+    {
+      "text": "是歲",
+      "normalized": "大中13年",
+      "evidence": "是歲，雲南蠻陷播州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "咸通元年正月",
+      "normalized": "咸通1年1月",
+      "evidence": "咸通元年正月，浙東人仇甫反，<ref>浙東人仇甫反　「仇甫」，本書卷五八藝文志及通鑑卷二四九均作「裘甫」。</ref>安南經略使王式為浙江東道觀察使以討之。",
+      "confidence": 0.95
+    },
+    {
+      "text": "咸通十四年七月辛巳",
+      "normalized": "咸通14年7月辛巳",
+      "evidence": "七月辛巳，皇帝崩于咸寧殿，年四十一。",
+      "confidence": 0.95
+    },
+    {
+      "text": "咸通十四年七月",
+      "normalized": "咸通十四年七月",
+      "evidence": "咸通十四年七月，懿宗疾大漸，左右神策護軍中尉劉行深、韓文約立普王為皇太子。",
+      "confidence": 0.95
+    },
+    {
+      "text": "辛巳",
+      "normalized": "咸通十四年七月辛巳",
+      "evidence": "辛巳，即皇帝位于柩前。",
+      "confidence": 0.92
+    },
+    {
+      "text": "八月癸巳",
+      "normalized": "咸通十四年八月癸巳",
+      "evidence": "八月癸巳，始聽政。",
+      "confidence": 0.95
+    },
+    {
+      "text": "丁未",
+      "normalized": "咸通十四年八月丁未",
+      "evidence": "丁未，追尊母為皇太后。",
+      "confidence": 0.93
+    },
+    {
+      "text": "乙卯",
+      "normalized": "咸通十四年八月乙卯",
+      "evidence": "乙卯，韋保衡為司徒。",
+      "confidence": 0.94
+    },
+    {
+      "text": "九月",
+      "normalized": "咸通十四年九月",
+      "evidence": "九月，貶保衡為賀州刺史。",
+      "confidence": 0.95
+    },
+    {
+      "text": "十月乙未",
+      "normalized": "咸通十四年十月乙未",
+      "evidence": "十月乙未，尚書左僕射蕭倣為中書侍郎、同中書門下平章事。",
+      "confidence": 0.94
+    },
+    {
+      "text": "十二月",
+      "normalized": "咸通十四年十二月",
+      "evidence": "十二月，震電。",
+      "confidence": 0.95
+    },
+    {
+      "text": "癸卯",
+      "normalized": "咸通十四年十二月癸卯",
+      "evidence": "癸卯，大赦，免水旱州縣租賦，罷貢鷹鶻。",
+      "confidence": 0.93
+    },
+    {
+      "text": "乾符元年二月甲午",
+      "normalized": "乾符元年二月甲午",
+      "evidence": "乾符元年二月甲午，葬昭聖恭惠孝皇帝于簡陵。",
+      "confidence": 0.95
+    },
+    {
+      "text": "穆宗以來",
+      "normalized": "穆宗以来",
+      "evidence": "唐自穆宗以來八世",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾符之際",
+      "normalized": "乾符之际",
+      "evidence": "乾符之際，歲大旱蝗",
+      "confidence": 0.9
+    }
+  ],
+  "people": [
+    {
+      "name": "懿宗",
+      "aliases": [
+        "昭聖恭惠孝皇帝",
+        "唐懿宗"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "咸通十四年七月，懿宗疾大漸",
+        "新唐書-{卷}-九 本紀第九 懿宗 僖宗",
+        "僖宗惠聖恭定孝皇帝諱儇，懿宗第五子也。",
+        "懿、僖當唐政之始衰",
+        "乾符元年二月甲午，葬昭聖恭惠孝皇帝于簡陵。"
+      ]
+    },
+    {
+      "name": "僖宗",
+      "aliases": [
+        "唐僖宗",
+        "儇",
+        "儼",
+        "惠聖恭定孝皇帝",
+        "普王"
+      ],
+      "roles": [
+        "皇太子",
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "辛巳，即皇帝位于柩前。",
+        "新唐書-{卷}-九 本紀第九 懿宗 僖宗",
+        "僖宗惠聖恭定孝皇帝諱儇，懿宗第五子也。",
+        "懿、僖當唐政之始衰",
+        "左右神策護軍中尉劉行深、韓文約立普王為皇太子。",
+        "始封普王，名儼。"
+      ]
+    },
+    {
+      "name": "歐陽修",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "宋 [[作者:歐陽修|歐陽修]] [[作者:宋祁|宋祁]] 等"
+      ]
+    },
+    {
+      "name": "宋祁",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "宋 [[作者:歐陽修|歐陽修]] [[作者:宋祁|宋祁]] 等"
+      ]
+    },
+    {
+      "name": "漼",
+      "aliases": [
+        "懿宗",
+        "昭聖恭惠孝皇帝",
+        "鄆王"
+      ],
+      "roles": [
+        "皇帝",
+        "宣宗長子"
+      ],
+      "offices": [
+        "皇太子"
+      ],
+      "evidence": [
+        "懿宗昭聖恭惠孝皇帝諱漼，宣宗長子也。",
+        "始封鄆王。",
+        "癸巳，即皇帝位于柩前。"
+      ]
+    },
+    {
+      "name": "李漼",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": []
+    },
+    {
+      "name": "宣宗",
+      "aliases": [
+        "聖武獻文孝皇帝"
+      ],
+      "roles": [
+        "皇帝",
+        "父"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣宗愛夔王滋，欲立為皇太子",
+        "二月丙申，葬聖武獻文孝皇帝于貞陵。"
+      ]
+    },
+    {
+      "name": "鼂氏",
+      "aliases": [
+        "元昭皇太后",
+        "皇太后",
+        "孝明太皇太后",
+        "太皇太后"
+      ],
+      "roles": [
+        "母",
+        "太后"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰元昭皇太后鼂氏。",
+        "尊皇太后曰太皇太后。",
+        "五月甲辰，葬孝明太皇太后于景陵之園。"
+      ]
+    },
+    {
+      "name": "滋",
+      "aliases": [
+        "夔王"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣宗愛夔王滋，欲立為皇太子",
+        "八月，夔王滋薨。"
+      ]
+    },
+    {
+      "name": "王宗實",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "左神策護軍中尉"
+      ],
+      "evidence": [
+        "而左神策護軍中尉王宗實、副使丌元實矯詔立鄆王為皇太子。",
+        "王宗實殺王歸長、馬公儒、王居方。"
+      ]
+    },
+    {
+      "name": "仇甫",
+      "aliases": [
+        "裘甫"
+      ],
+      "roles": [
+        "反者"
+      ],
+      "offices": [],
+      "evidence": [
+        "咸通元年正月，浙東人仇甫反，<ref>浙東人仇甫反　「仇甫」，本書卷五八藝文志及通鑑卷二四九均作「裘甫」。</ref>"
+      ]
+    },
+    {
+      "name": "龐勛",
+      "aliases": [],
+      "roles": [
+        "反者"
+      ],
+      "offices": [
+        "武寧軍節度糧料判官"
+      ],
+      "evidence": [
+        "七月，武寧軍節度糧料判官龐勛反于桂州。",
+        "九月癸酉，龐勛伏誅。"
+      ]
+    },
+    {
+      "name": "高駢",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "秦州經略使",
+        "安南經略招討使"
+      ],
+      "evidence": [
+        "秦州經略使高駢為安南經略招討使。",
+        "十月，高駢克安南。"
+      ]
+    },
+    {
+      "name": "令狐綯",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "司空"
+      ],
+      "evidence": [
+        "癸卯，令狐綯為司空。",
+        "丁酉，令狐綯罷。"
+      ]
+    },
+    {
+      "name": "惠安皇太后王氏",
+      "aliases": [
+        "王氏"
+      ],
+      "roles": [
+        "皇太后",
+        "母亲"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰惠安皇太后王氏。",
+        "丁未，追尊母為皇太后。"
+      ]
+    },
+    {
+      "name": "劉行深",
+      "aliases": [],
+      "roles": [
+        "神策护军中尉"
+      ],
+      "offices": [
+        "左右神策護軍中尉"
+      ],
+      "evidence": [
+        "左右神策護軍中尉劉行深、韓文約立普王為皇太子。"
+      ]
+    },
+    {
+      "name": "韓文約",
+      "aliases": [],
+      "roles": [
+        "神策护军中尉"
+      ],
+      "offices": [
+        "左右神策護軍中尉"
+      ],
+      "evidence": [
+        "左右神策護軍中尉劉行深、韓文約立普王為皇太子。"
+      ]
+    },
+    {
+      "name": "韋保衡",
+      "aliases": [],
+      "roles": [
+        "官员"
+      ],
+      "offices": [
+        "司徒",
+        "賀州刺史"
+      ],
+      "evidence": [
+        "乙卯，韋保衡為司徒。",
+        "九月，貶保衡為賀州刺史。"
+      ]
+    },
+    {
+      "name": "蕭倣",
+      "aliases": [],
+      "roles": [
+        "官员"
+      ],
+      "offices": [
+        "尚書左僕射",
+        "中書侍郎、同中書門下平章事",
+        "司空"
+      ],
+      "evidence": [
+        "十月乙未，尚書左僕射蕭倣為中書侍郎、同中書門下平章事。",
+        "是月，蕭倣為司空。"
+      ]
+    },
+    {
+      "name": "穆宗",
+      "aliases": [
+        "唐穆宗"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "唐自穆宗以來八世"
+      ]
+    },
+    {
+      "name": "宦官",
+      "aliases": [],
+      "roles": [
+        "宦官"
+      ],
+      "offices": [],
+      "evidence": [
+        "為宦官所立者七君"
+      ]
+    },
+    {
+      "name": "民",
+      "aliases": [
+        "民众"
+      ],
+      "roles": [
+        "百姓"
+      ],
+      "offices": [],
+      "evidence": [
+        "民愁盜起"
+      ]
+    },
+    {
+      "name": "盗",
+      "aliases": [
+        "盗贼"
+      ],
+      "roles": [
+        "叛乱者"
+      ],
+      "offices": [],
+      "evidence": [
+        "民愁盜起"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "宋",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "宋 [[作者:歐陽修|歐陽修]] [[作者:宋祁|宋祁]] 等"
+      ]
+    },
+    {
+      "name": "播州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "是歲，雲南蠻陷播州。",
+        "十月，安南都護李鄠克播州。"
+      ]
+    },
+    {
+      "name": "安南",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "安南經略使王式為浙江東道觀察使以討之。",
+        "十二月戊申，雲南蠻寇安南。",
+        "四年...雲南蠻陷安南，蔡襲死之。"
+      ]
+    },
+    {
+      "name": "貞陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "二月丙申，葬聖武獻文孝皇帝于貞陵。",
+        "十月，貞陵隧陷。"
+      ]
+    },
+    {
+      "name": "咸寧殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "七月辛巳，皇帝崩于咸寧殿，年四十一。"
+      ]
+    },
+    {
+      "name": "桂州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "七月，武寧軍節度糧料判官龐勛反于桂州。"
+      ]
+    },
+    {
+      "name": "徐州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "丁丑，陷徐州，觀察使崔彥曾死之。",
+        "十月戊戌，免徐、宿、濠、泗四州三歲稅役。"
+      ]
+    },
+    {
+      "name": "黎州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "雲南蠻寇黎州。"
+      ]
+    },
+    {
+      "name": "簡陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "乾符元年二月甲午，葬昭聖恭惠孝皇帝于簡陵。"
+      ]
+    },
+    {
+      "name": "賀州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "九月，貶保衡為賀州刺史。"
+      ]
+    },
+    {
+      "name": "太清宮",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "二年正月己丑，朝獻于太清宮。"
+      ]
+    },
+    {
+      "name": "太廟",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "庚寅，朝享于太廟。"
+      ]
+    },
+    {
+      "name": "朝廷",
+      "aliases": [],
+      "type": "OTHER",
+      "evidence": [
+        "蓋朝廷天下之本也"
+      ]
+    },
+    {
+      "name": "天下",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "蓋朝廷天下之本也"
+      ]
+    },
+    {
+      "name": "方鎮",
+      "aliases": [
+        "藩镇"
+      ],
+      "type": "REGION",
+      "evidence": [
+        "豈止方鎮之患？"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PLACE",
+      "from": "歐陽修",
+      "to": "宋",
+      "relation": "所属朝代",
+      "time": "",
+      "place": "",
+      "evidence": "宋 [[作者:歐陽修|歐陽修]]",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "宋祁",
+      "to": "宋",
+      "relation": "所属朝代",
+      "time": "",
+      "place": "",
+      "evidence": "宋 [[作者:宋祁|宋祁]]",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "漼",
+      "to": "宣宗",
+      "relation": "長子",
+      "time": "大中13年",
+      "place": "",
+      "evidence": "懿宗昭聖恭惠孝皇帝諱漼，宣宗長子也。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "漼",
+      "to": "鼂氏",
+      "relation": "母子",
+      "time": "大中13年",
+      "place": "",
+      "evidence": "母曰元昭皇太后鼂氏。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "漼",
+      "to": "皇太子",
+      "relation": "被立為",
+      "time": "大中13年8月",
+      "place": "",
+      "evidence": "而左神策護軍中尉王宗實、副使丌元實矯詔立鄆王為皇太子。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "令狐綯",
+      "to": "司空",
+      "relation": "任職",
+      "time": "大中13年8月",
+      "place": "",
+      "evidence": "癸卯，令狐綯為司空。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "龐勛",
+      "to": "桂州",
+      "relation": "起事於",
+      "time": "咸通9年7月",
+      "place": "桂州",
+      "evidence": "七月，武寧軍節度糧料判官龐勛反于桂州。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "王宗實",
+      "to": "矯詔立儲",
+      "relation": "主導",
+      "time": "大中13年8月",
+      "place": "",
+      "evidence": "而左神策護軍中尉王宗實、副使丌元實矯詔立鄆王為皇太子。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "僖宗",
+      "to": "懿宗",
+      "relation": "父子",
+      "time": "咸通十四年七月",
+      "place": "",
+      "evidence": "僖宗惠聖恭定孝皇帝諱儇，懿宗第五子也。",
+      "confidence": 0.96
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "僖宗",
+      "to": "惠安皇太后王氏",
+      "relation": "母子",
+      "time": "",
+      "place": "",
+      "evidence": "母曰惠安皇太后王氏。",
+      "confidence": 0.96
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "劉行深",
+      "to": "僖宗",
+      "relation": "拥立",
+      "time": "咸通十四年七月",
+      "place": "",
+      "evidence": "左右神策護軍中尉劉行深、韓文約立普王為皇太子。",
+      "confidence": 0.93
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "韓文約",
+      "to": "僖宗",
+      "relation": "拥立",
+      "time": "咸通十四年七月",
+      "place": "",
+      "evidence": "左右神策護軍中尉劉行深、韓文約立普王為皇太子。",
+      "confidence": 0.93
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "韋保衡",
+      "to": "司徒",
+      "relation": "任命",
+      "time": "咸通十四年八月乙卯",
+      "place": "",
+      "evidence": "乙卯，韋保衡為司徒。",
+      "confidence": 0.94
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "韋保衡",
+      "to": "賀州刺史",
+      "relation": "贬谪",
+      "time": "咸通十四年九月",
+      "place": "",
+      "evidence": "九月，貶保衡為賀州刺史。",
+      "confidence": 0.94
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "蕭倣",
+      "to": "中書侍郎、同中書門下平章事",
+      "relation": "任命",
+      "time": "咸通十四年十月乙未",
+      "place": "",
+      "evidence": "十月乙未，尚書左僕射蕭倣為中書侍郎、同中書門下平章事。",
+      "confidence": 0.94
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "宦官",
+      "to": "宦官拥立七君",
+      "relation": "主导",
+      "time": "穆宗以来",
+      "place": "",
+      "evidence": "為宦官所立者七君",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "民",
+      "to": "乾符旱蝗",
+      "relation": "受影响",
+      "time": "乾符之际",
+      "place": "",
+      "evidence": "歲大旱蝗，民愁",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "民",
+      "to": "民变",
+      "relation": "参与",
+      "time": "乾符之际",
+      "place": "",
+      "evidence": "民愁盜起",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "盗",
+      "to": "民变",
+      "relation": "参与",
+      "time": "乾符之际",
+      "place": "",
+      "evidence": "民愁盜起",
+      "confidence": 0.9
+    }
+  ],
+  "events": [
+    {
+      "event_name": "懿宗即位",
+      "event_type": "即位",
+      "time": "大中13年8月癸巳",
+      "place": "柩前",
+      "participants": [
+        "漼",
+        "王宗實",
+        "丌元實"
+      ],
+      "description": "王宗實等矯詔立鄆王漼為皇太子，隨即於宣宗靈柩前即皇帝位",
+      "outcomes": [
+        "漼登基為帝",
+        "王歸長等被殺"
+      ],
+      "evidence": [
+        "而左神策護軍中尉王宗實、副使丌元實矯詔立鄆王為皇太子。癸巳，即皇帝位于柩前。王宗實殺王歸長、馬公儒、王居方。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "雲南蠻陷播州",
+      "event_type": "軍事衝突",
+      "time": "大中13年",
+      "place": "播州",
+      "participants": [
+        "雲南蠻"
+      ],
+      "description": "雲南蠻攻陷播州",
+      "outcomes": [
+        "播州失陷"
+      ],
+      "evidence": "是歲，雲南蠻陷播州。",
+      "confidence": 0.9
+    },
+    {
+      "event_name": "仇甫之亂",
+      "event_type": "叛亂",
+      "time": "咸通1年1月-8月",
+      "place": "浙東",
+      "participants": [
+        "仇甫",
+        "王式"
+      ],
+      "description": "浙東人仇甫（裘甫）起兵反唐，王式任觀察使討伐",
+      "outcomes": [
+        "八月己卯，仇甫伏誅"
+      ],
+      "evidence": [
+        "咸通元年正月，浙東人仇甫反...",
+        "八月...己卯，仇甫伏誅。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "龐勛之亂",
+      "event_type": "叛亂",
+      "time": "咸通9年7月-10年9月",
+      "place": "桂州、徐州等地",
+      "participants": [
+        "龐勛",
+        "康承訓",
+        "崔彥曾"
+      ],
+      "description": "龐勛於桂州起兵，連陷宿、徐、濠等州，官軍征討",
+      "outcomes": [
+        "龐勛伏誅",
+        "多地官員戰死",
+        "朝廷免四州稅役"
+      ],
+      "evidence": [
+        "七月，武寧軍節度糧料判官龐勛反于桂州。十月庚午，陷宿州。丁丑，陷徐州，觀察使崔彥曾死之。...九月癸酉，龐勛伏誅。十月戊戌，免徐、宿、濠、泗四州三歲稅役。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "懿宗駕崩",
+      "event_type": "死亡",
+      "time": "咸通14年7月辛巳",
+      "place": "咸寧殿",
+      "participants": [
+        "漼"
+      ],
+      "description": "唐懿宗崩於咸寧殿",
+      "outcomes": [
+        "終年四十一歲"
+      ],
+      "evidence": "七月辛巳，皇帝崩于咸寧殿，年四十一。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "僖宗即位",
+      "event_type": "即位",
+      "time": "咸通十四年七月辛巳",
+      "place": "",
+      "participants": [
+        "僖宗",
+        "劉行深",
+        "韓文約"
+      ],
+      "description": "懿宗病危，神策军中尉刘行深、韩文约立普王为皇太子，辛巳日于柩前即皇帝位。",
+      "outcomes": [
+        "僖宗登基为帝"
+      ],
+      "evidence": [
+        "咸通十四年七月，懿宗疾大漸，左右神策護軍中尉劉行深、韓文約立普王為皇太子。",
+        "辛巳，即皇帝位于柩前。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "追尊皇太后",
+      "event_type": "追尊",
+      "time": "咸通十四年八月丁未",
+      "place": "",
+      "participants": [
+        "僖宗",
+        "惠安皇太后王氏"
+      ],
+      "description": "僖宗追尊生母王氏为皇太后。",
+      "outcomes": [
+        "王氏获尊皇太后号"
+      ],
+      "evidence": [
+        "丁未，追尊母為皇太后。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "韋保衡任司徒",
+      "event_type": "人事任命",
+      "time": "咸通十四年八月乙卯",
+      "place": "",
+      "participants": [
+        "韋保衡"
+      ],
+      "description": "韦保衡被任命为司徒。",
+      "outcomes": [
+        "韦保衡任司徒"
+      ],
+      "evidence": [
+        "乙卯，韋保衡為司徒。"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "event_name": "貶韋保衡為賀州刺史",
+      "event_type": "贬谪",
+      "time": "咸通十四年九月",
+      "place": "",
+      "participants": [
+        "韋保衡"
+      ],
+      "description": "韦保衡被贬出京，任贺州刺史。",
+      "outcomes": [
+        "韦保衡离京赴任"
+      ],
+      "evidence": [
+        "九月，貶保衡為賀州刺史。"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "event_name": "雲南蠻寇黎州",
+      "event_type": "边境冲突",
+      "time": "咸通十四年十二月",
+      "place": "黎州",
+      "participants": [
+        "雲南蠻"
+      ],
+      "description": "云南蛮族军队进犯黎州。",
+      "outcomes": [
+        "黎州遭侵扰"
+      ],
+      "evidence": [
+        "雲南蠻寇黎州。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "大赦與減賦",
+      "event_type": "赦免与政策",
+      "time": "咸通十四年十二月癸卯",
+      "place": "",
+      "participants": [],
+      "description": "颁布大赦令，减免水旱灾区租赋，停止进贡鹰鹘。",
+      "outcomes": [
+        "罪囚获赦，灾区减负，贡制调整"
+      ],
+      "evidence": [
+        "癸卯，大赦，免水旱州縣租賦，罷貢鷹鶻。"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "event_name": "葬懿宗于簡陵",
+      "event_type": "葬礼",
+      "time": "乾符元年二月甲午",
+      "place": "簡陵",
+      "participants": [
+        "懿宗"
+      ],
+      "description": "将已故懿宗皇帝安葬于简陵。",
+      "outcomes": [
+        "懿宗入葬"
+      ],
+      "evidence": [
+        "乾符元年二月甲午，葬昭聖恭惠孝皇帝于簡陵。"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "event_name": "宦官拥立七君",
+      "event_type": "政治事件",
+      "time": "穆宗以来",
+      "place": "",
+      "participants": [
+        "宦官"
+      ],
+      "description": "唐朝自穆宗以来八代皇帝中，有七位由宦官拥立",
+      "outcomes": [
+        "朝廷根基不正，加速唐室衰亡"
+      ],
+      "evidence": [
+        "唐自穆宗以來八世，而為宦官所立者七君"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "乾符旱蝗",
+      "event_type": "自然灾害",
+      "time": "乾符之际",
+      "place": "",
+      "participants": [
+        "民"
+      ],
+      "description": "乾符年间发生严重旱灾与蝗灾",
+      "outcomes": [
+        "民生困苦，社会动荡加剧"
+      ],
+      "evidence": [
+        "乾符之際，歲大旱蝗"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "民变",
+      "event_type": "社会动乱",
+      "time": "乾符之际",
+      "place": "",
+      "participants": [
+        "民",
+        "盗"
+      ],
+      "description": "民众因灾荒愁苦，盗贼势力兴起",
+      "outcomes": [
+        "动乱蔓延，唐朝统治难以维系"
+      ],
+      "evidence": [
+        "民愁盜起"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_xintangshu_009_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "懿宗",
+      "item_ids": [
+        "wikisource_xintangshu_009_00002",
+        "wikisource_xintangshu_009_00003",
+        "wikisource_xintangshu_009_00004",
+        "wikisource_xintangshu_009_00005",
+        "wikisource_xintangshu_009_00006",
+        "wikisource_xintangshu_009_00007",
+        "wikisource_xintangshu_009_00008",
+        "wikisource_xintangshu_009_00009",
+        "wikisource_xintangshu_009_00010",
+        "wikisource_xintangshu_009_00011",
+        "wikisource_xintangshu_009_00012",
+        "wikisource_xintangshu_009_00013",
+        "wikisource_xintangshu_009_00014",
+        "wikisource_xintangshu_009_00015",
+        "wikisource_xintangshu_009_00016",
+        "wikisource_xintangshu_009_00017",
+        "wikisource_xintangshu_009_00018",
+        "wikisource_xintangshu_009_00019",
+        "wikisource_xintangshu_009_00020",
+        "wikisource_xintangshu_009_00021",
+        "wikisource_xintangshu_009_00022",
+        "wikisource_xintangshu_009_00023",
+        "wikisource_xintangshu_009_00024",
+        "wikisource_xintangshu_009_00025",
+        "wikisource_xintangshu_009_00026",
+        "wikisource_xintangshu_009_00027",
+        "wikisource_xintangshu_009_00028",
+        "wikisource_xintangshu_009_00029",
+        "wikisource_xintangshu_009_00030",
+        "wikisource_xintangshu_009_00031",
+        "wikisource_xintangshu_009_00032",
+        "wikisource_xintangshu_009_00033",
+        "wikisource_xintangshu_009_00034",
+        "wikisource_xintangshu_009_00035",
+        "wikisource_xintangshu_009_00036",
+        "wikisource_xintangshu_009_00037",
+        "wikisource_xintangshu_009_00038",
+        "wikisource_xintangshu_009_00039",
+        "wikisource_xintangshu_009_00040",
+        "wikisource_xintangshu_009_00041",
+        "wikisource_xintangshu_009_00042",
+        "wikisource_xintangshu_009_00043",
+        "wikisource_xintangshu_009_00044",
+        "wikisource_xintangshu_009_00045",
+        "wikisource_xintangshu_009_00046",
+        "wikisource_xintangshu_009_00047",
+        "wikisource_xintangshu_009_00048",
+        "wikisource_xintangshu_009_00049",
+        "wikisource_xintangshu_009_00050",
+        "wikisource_xintangshu_009_00051",
+        "wikisource_xintangshu_009_00052",
+        "wikisource_xintangshu_009_00053",
+        "wikisource_xintangshu_009_00054",
+        "wikisource_xintangshu_009_00055",
+        "wikisource_xintangshu_009_00056",
+        "wikisource_xintangshu_009_00057",
+        "wikisource_xintangshu_009_00058",
+        "wikisource_xintangshu_009_00059",
+        "wikisource_xintangshu_009_00060",
+        "wikisource_xintangshu_009_00061",
+        "wikisource_xintangshu_009_00062",
+        "wikisource_xintangshu_009_00063",
+        "wikisource_xintangshu_009_00064",
+        "wikisource_xintangshu_009_00065",
+        "wikisource_xintangshu_009_00066",
+        "wikisource_xintangshu_009_00067",
+        "wikisource_xintangshu_009_00068",
+        "wikisource_xintangshu_009_00069",
+        "wikisource_xintangshu_009_00070",
+        "wikisource_xintangshu_009_00071",
+        "wikisource_xintangshu_009_00072",
+        "wikisource_xintangshu_009_00073",
+        "wikisource_xintangshu_009_00074",
+        "wikisource_xintangshu_009_00075",
+        "wikisource_xintangshu_009_00076",
+        "wikisource_xintangshu_009_00077",
+        "wikisource_xintangshu_009_00078",
+        "wikisource_xintangshu_009_00079",
+        "wikisource_xintangshu_009_00080",
+        "wikisource_xintangshu_009_00081",
+        "wikisource_xintangshu_009_00082",
+        "wikisource_xintangshu_009_00083",
+        "wikisource_xintangshu_009_00084",
+        "wikisource_xintangshu_009_00085",
+        "wikisource_xintangshu_009_00086",
+        "wikisource_xintangshu_009_00087",
+        "wikisource_xintangshu_009_00088",
+        "wikisource_xintangshu_009_00089",
+        "wikisource_xintangshu_009_00090",
+        "wikisource_xintangshu_009_00091",
+        "wikisource_xintangshu_009_00092",
+        "wikisource_xintangshu_009_00093",
+        "wikisource_xintangshu_009_00094"
+      ]
+    },
+    {
+      "section_id": "sec_0003",
+      "section_title": "僖宗",
+      "item_ids": [
+        "wikisource_xintangshu_009_00095",
+        "wikisource_xintangshu_009_00096",
+        "wikisource_xintangshu_009_00097",
+        "wikisource_xintangshu_009_00098",
+        "wikisource_xintangshu_009_00099",
+        "wikisource_xintangshu_009_00100",
+        "wikisource_xintangshu_009_00101",
+        "wikisource_xintangshu_009_00102",
+        "wikisource_xintangshu_009_00103",
+        "wikisource_xintangshu_009_00104",
+        "wikisource_xintangshu_009_00105",
+        "wikisource_xintangshu_009_00106",
+        "wikisource_xintangshu_009_00107",
+        "wikisource_xintangshu_009_00108",
+        "wikisource_xintangshu_009_00109",
+        "wikisource_xintangshu_009_00110",
+        "wikisource_xintangshu_009_00111",
+        "wikisource_xintangshu_009_00112",
+        "wikisource_xintangshu_009_00113",
+        "wikisource_xintangshu_009_00114",
+        "wikisource_xintangshu_009_00115",
+        "wikisource_xintangshu_009_00116",
+        "wikisource_xintangshu_009_00117",
+        "wikisource_xintangshu_009_00118",
+        "wikisource_xintangshu_009_00119",
+        "wikisource_xintangshu_009_00120",
+        "wikisource_xintangshu_009_00121",
+        "wikisource_xintangshu_009_00122",
+        "wikisource_xintangshu_009_00123",
+        "wikisource_xintangshu_009_00124",
+        "wikisource_xintangshu_009_00125",
+        "wikisource_xintangshu_009_00126",
+        "wikisource_xintangshu_009_00127",
+        "wikisource_xintangshu_009_00128",
+        "wikisource_xintangshu_009_00129",
+        "wikisource_xintangshu_009_00130",
+        "wikisource_xintangshu_009_00131",
+        "wikisource_xintangshu_009_00132",
+        "wikisource_xintangshu_009_00133",
+        "wikisource_xintangshu_009_00134",
+        "wikisource_xintangshu_009_00135",
+        "wikisource_xintangshu_009_00136",
+        "wikisource_xintangshu_009_00137",
+        "wikisource_xintangshu_009_00138",
+        "wikisource_xintangshu_009_00139",
+        "wikisource_xintangshu_009_00140",
+        "wikisource_xintangshu_009_00141",
+        "wikisource_xintangshu_009_00142",
+        "wikisource_xintangshu_009_00143",
+        "wikisource_xintangshu_009_00144",
+        "wikisource_xintangshu_009_00145",
+        "wikisource_xintangshu_009_00146",
+        "wikisource_xintangshu_009_00147",
+        "wikisource_xintangshu_009_00148",
+        "wikisource_xintangshu_009_00149",
+        "wikisource_xintangshu_009_00150",
+        "wikisource_xintangshu_009_00151",
+        "wikisource_xintangshu_009_00152",
+        "wikisource_xintangshu_009_00153",
+        "wikisource_xintangshu_009_00154",
+        "wikisource_xintangshu_009_00155",
+        "wikisource_xintangshu_009_00156",
+        "wikisource_xintangshu_009_00157",
+        "wikisource_xintangshu_009_00158",
+        "wikisource_xintangshu_009_00159",
+        "wikisource_xintangshu_009_00160",
+        "wikisource_xintangshu_009_00161",
+        "wikisource_xintangshu_009_00162",
+        "wikisource_xintangshu_009_00163",
+        "wikisource_xintangshu_009_00164",
+        "wikisource_xintangshu_009_00165",
+        "wikisource_xintangshu_009_00166",
+        "wikisource_xintangshu_009_00167",
+        "wikisource_xintangshu_009_00168",
+        "wikisource_xintangshu_009_00169",
+        "wikisource_xintangshu_009_00170",
+        "wikisource_xintangshu_009_00171",
+        "wikisource_xintangshu_009_00172",
+        "wikisource_xintangshu_009_00173",
+        "wikisource_xintangshu_009_00174",
+        "wikisource_xintangshu_009_00175",
+        "wikisource_xintangshu_009_00176",
+        "wikisource_xintangshu_009_00177",
+        "wikisource_xintangshu_009_00178",
+        "wikisource_xintangshu_009_00179",
+        "wikisource_xintangshu_009_00180",
+        "wikisource_xintangshu_009_00181",
+        "wikisource_xintangshu_009_00182",
+        "wikisource_xintangshu_009_00183",
+        "wikisource_xintangshu_009_00184",
+        "wikisource_xintangshu_009_00185",
+        "wikisource_xintangshu_009_00186",
+        "wikisource_xintangshu_009_00187",
+        "wikisource_xintangshu_009_00188",
+        "wikisource_xintangshu_009_00189",
+        "wikisource_xintangshu_009_00190",
+        "wikisource_xintangshu_009_00191",
+        "wikisource_xintangshu_009_00192",
+        "wikisource_xintangshu_009_00193",
+        "wikisource_xintangshu_009_00194",
+        "wikisource_xintangshu_009_00195",
+        "wikisource_xintangshu_009_00196",
+        "wikisource_xintangshu_009_00197",
+        "wikisource_xintangshu_009_00198",
+        "wikisource_xintangshu_009_00199",
+        "wikisource_xintangshu_009_00200",
+        "wikisource_xintangshu_009_00201",
+        "wikisource_xintangshu_009_00202",
+        "wikisource_xintangshu_009_00203",
+        "wikisource_xintangshu_009_00204",
+        "wikisource_xintangshu_009_00205",
+        "wikisource_xintangshu_009_00206",
+        "wikisource_xintangshu_009_00207",
+        "wikisource_xintangshu_009_00208",
+        "wikisource_xintangshu_009_00209",
+        "wikisource_xintangshu_009_00210",
+        "wikisource_xintangshu_009_00211",
+        "wikisource_xintangshu_009_00212",
+        "wikisource_xintangshu_009_00213",
+        "wikisource_xintangshu_009_00214",
+        "wikisource_xintangshu_009_00215",
+        "wikisource_xintangshu_009_00216",
+        "wikisource_xintangshu_009_00217",
+        "wikisource_xintangshu_009_00218",
+        "wikisource_xintangshu_009_00219",
+        "wikisource_xintangshu_009_00220",
+        "wikisource_xintangshu_009_00221",
+        "wikisource_xintangshu_009_00222",
+        "wikisource_xintangshu_009_00223",
+        "wikisource_xintangshu_009_00224",
+        "wikisource_xintangshu_009_00225",
+        "wikisource_xintangshu_009_00226",
+        "wikisource_xintangshu_009_00227",
+        "wikisource_xintangshu_009_00228",
+        "wikisource_xintangshu_009_00229",
+        "wikisource_xintangshu_009_00230",
+        "wikisource_xintangshu_009_00231",
+        "wikisource_xintangshu_009_00232",
+        "wikisource_xintangshu_009_00233",
+        "wikisource_xintangshu_009_00234",
+        "wikisource_xintangshu_009_00235",
+        "wikisource_xintangshu_009_00236",
+        "wikisource_xintangshu_009_00237",
+        "wikisource_xintangshu_009_00238",
+        "wikisource_xintangshu_009_00239",
+        "wikisource_xintangshu_009_00240",
+        "wikisource_xintangshu_009_00241",
+        "wikisource_xintangshu_009_00242",
+        "wikisource_xintangshu_009_00243",
+        "wikisource_xintangshu_009_00244",
+        "wikisource_xintangshu_009_00245",
+        "wikisource_xintangshu_009_00246",
+        "wikisource_xintangshu_009_00247",
+        "wikisource_xintangshu_009_00248",
+        "wikisource_xintangshu_009_00249",
+        "wikisource_xintangshu_009_00250",
+        "wikisource_xintangshu_009_00251",
+        "wikisource_xintangshu_009_00252",
+        "wikisource_xintangshu_009_00253",
+        "wikisource_xintangshu_009_00254"
+      ]
+    },
+    {
+      "section_id": "sec_0004",
+      "section_title": "【贊】",
+      "item_ids": [
+        "wikisource_xintangshu_009_00255",
+        "wikisource_xintangshu_009_00256",
+        "wikisource_xintangshu_009_00257"
+      ]
+    }
+  ]
+}

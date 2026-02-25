@@ -1,0 +1,459 @@
+{
+  "work": "唐會要",
+  "volume": "008",
+  "page_title": "唐會要/卷008",
+  "url": "https://zh.wikisource.org/wiki/%E5%94%90%E6%9C%83%E8%A6%81%2F%E5%8D%B7008",
+  "generated_at": "2026-02-16T04:11:13.487470+00:00",
+  "time_anchors": [
+    {
+      "text": "玄宗開元十二年閏十二月辛酉",
+      "normalized": "724年闰十二月辛酉日",
+      "evidence": "玄宗開元十二年閏十二月辛酉，文武百官吏部尚書裴漼等上請封東岳",
+      "confidence": 0.95
+    },
+    {
+      "text": "甲子",
+      "normalized": "724年闰十二月甲子日",
+      "evidence": "甲子，侍中臣乾曜、中書令臣說等奏",
+      "confidence": 0.95
+    },
+    {
+      "text": "丁卯",
+      "normalized": "724年闰十二月丁卯日",
+      "evidence": "丁卯，下詔曰：「自古受命而王者，曷嘗不封泰山，禪梁父……可以開元十三年十一月十日，式遵故實，有事泰山。」",
+      "confidence": 0.95
+    },
+    {
+      "text": "開元十三年十一月十日",
+      "normalized": "725年11月10日",
+      "evidence": "可以開元十三年十一月十日，式遵故實，有事泰山。",
+      "confidence": 0.95
+    },
+    {
+      "text": "十二年十一月丙戌",
+      "normalized": "725年11月丙戌日（原文作“十二年”，结合上下文指十三年）",
+      "evidence": "十二年十一月丙戌，至泰山，去山趾五里，西去社首山三里。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元十三年四月乙丑",
+      "normalized": "725年4月乙丑日",
+      "evidence": "開元十三年四月乙丑，撫州三脊茅生，有上封事者言曰",
+      "confidence": 0.95
+    }
+  ],
+  "people": [
+    {
+      "name": "李隆基",
+      "aliases": [
+        "玄宗",
+        "臣某",
+        "皇帝",
+        "陛下",
+        "开元神武皇帝"
+      ],
+      "roles": [
+        "皇帝",
+        "封禅主祭"
+      ],
+      "offices": [],
+      "evidence": [
+        "玄宗開元十二年閏十二月辛酉",
+        "帝手詔報曰",
+        "玄宗問：「前世何爲秘玉牒？」",
+        "庚寅，祀昊天上帝於山上封臺之前壇，高祖神堯皇帝配享焉"
+      ]
+    },
+    {
+      "name": "裴漼",
+      "aliases": [],
+      "roles": [
+        "上表臣"
+      ],
+      "offices": [
+        "吏部尚书"
+      ],
+      "evidence": [
+        "文武百官吏部尚書裴漼等上請封東岳"
+      ]
+    },
+    {
+      "name": "张说",
+      "aliases": [
+        "說"
+      ],
+      "roles": [
+        "倡议者",
+        "仪注制定者",
+        "封禅使"
+      ],
+      "offices": [
+        "中书令"
+      ],
+      "evidence": [
+        "中書令臣說等奏",
+        "中書令張說又固請，乃下制以十三年有事泰山",
+        "說與右散騎常侍徐堅、太常少卿韋縚、秘書少監康子元、國子博士侯行果刊定儀注",
+        "案《唐書》列傳，張說爲中書令，倡封禪議"
+      ]
+    },
+    {
+      "name": "源乾曜",
+      "aliases": [
+        "乾曜"
+      ],
+      "roles": [
+        "上奏臣"
+      ],
+      "offices": [
+        "侍中"
+      ],
+      "evidence": [
+        "侍中臣乾曜、中書令臣說等奏"
+      ]
+    },
+    {
+      "name": "徐坚",
+      "aliases": [
+        "堅"
+      ],
+      "roles": [
+        "仪注制定者"
+      ],
+      "offices": [
+        "右散騎常侍"
+      ],
+      "evidence": [
+        "說與右散騎常侍徐堅……刊定儀注",
+        "《徐堅傳》：玄宗時，堅充集賢學士，從上封泰山，以參定儀典"
+      ]
+    },
+    {
+      "name": "康子元",
+      "aliases": [],
+      "roles": [
+        "仪注制定者"
+      ],
+      "offices": [
+        "秘书少监"
+      ],
+      "evidence": [
+        "說與……秘書少監康子元……刊定儀注",
+        "《康子元傳》：……玄宗將東之泰山，說引子元、行果、徐堅、韋縚商裁封禪儀"
+      ]
+    },
+    {
+      "name": "侯行果",
+      "aliases": [],
+      "roles": [
+        "仪注制定者"
+      ],
+      "offices": [
+        "国子博士"
+      ],
+      "evidence": [
+        "說與……國子博士侯行果刊定儀注",
+        "考功員外郎趙冬曦、太學博士侯行果曰"
+      ]
+    },
+    {
+      "name": "贺知章",
+      "aliases": [],
+      "roles": [
+        "礼议参与者"
+      ],
+      "offices": [
+        "学士"
+      ],
+      "evidence": [
+        "學士賀知章等言：「昊天上帝，君也。五方精帝，臣也……」",
+        "因召禮官學士賀知章等入講儀注"
+      ]
+    },
+    {
+      "name": "李守礼",
+      "aliases": [
+        "邠王守礼"
+      ],
+      "roles": [
+        "亚献"
+      ],
+      "offices": [
+        "邠王"
+      ],
+      "evidence": [
+        "邠王守禮亞獻",
+        "邠王守禮等賀曰"
+      ]
+    },
+    {
+      "name": "李宪",
+      "aliases": [
+        "宁王宪"
+      ],
+      "roles": [
+        "终献",
+        "太常卿"
+      ],
+      "offices": [
+        "宁王",
+        "太常卿"
+      ],
+      "evidence": [
+        "寧王憲終獻",
+        "時從山上布兵……太常卿寧王憲奏請郊壇時祭"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "泰山",
+      "aliases": [
+        "岱岳",
+        "东岳",
+        "介丘",
+        "岱宗"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "上請封東岳",
+        "可以開元十三年十一月十日，式遵故實，有事泰山",
+        "庚寅，祀昊天上帝於山上封臺之前壇"
+      ]
+    },
+    {
+      "name": "社首山",
+      "aliases": [
+        "社首"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "西去社首山三里",
+        "辛卯，享皇地祇於社首之泰折壇",
+        "禪于社首"
+      ]
+    },
+    {
+      "name": "圆台",
+      "aliases": [
+        "山上坛",
+        "封坛"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "立圓臺於山上，廣五丈，高九尺，土色各依其方",
+        "山上作圓臺四階，謂之封壇"
+      ]
+    },
+    {
+      "name": "方坛",
+      "aliases": [
+        "石䃭"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "又於圓臺上起方壇，廣一丈二尺，高九尺",
+        "臺上有方石再累，謂之石䃭"
+      ]
+    },
+    {
+      "name": "山下坛",
+      "aliases": [
+        "泰折坛",
+        "圜丘坛"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "又爲圓壇於山下，三成，十二階，如圜丘之制",
+        "辛卯，享皇地祇於社首之泰折壇"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_OFFICE",
+      "from": "张说",
+      "to": "中书令",
+      "relation": "担任",
+      "time": "开元十二年",
+      "place": "",
+      "evidence": "中書令臣說等奏",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李隆基",
+      "to": "张说",
+      "relation": "君臣",
+      "time": "开元十二年至十三年",
+      "place": "长安、泰山",
+      "evidence": "中書令張說又固請，乃下制以十三年有事泰山",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "李守礼",
+      "to": "封禅泰山仪式",
+      "relation": "担任亚献",
+      "time": "开元十三年十一月庚寅",
+      "place": "泰山圆台",
+      "evidence": "邠王守禮亞獻",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "李隆基",
+      "to": "泰山",
+      "relation": "亲临祭祀",
+      "time": "开元十三年十一月",
+      "place": "泰山",
+      "evidence": "庚寅，祀昊天上帝於山上封臺之前壇，高祖神堯皇帝配享焉",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "源乾曜",
+      "to": "侍中",
+      "relation": "担任",
+      "time": "开元十二年",
+      "place": "",
+      "evidence": "侍中臣乾曜、中書令臣說等奏",
+      "confidence": 0.95
+    }
+  ],
+  "events": [
+    {
+      "event_name": "群臣首次上表请封泰山",
+      "event_type": "政治请愿",
+      "time": "开元十二年闰十二月辛酉",
+      "place": "朝堂",
+      "participants": [
+        "裴漼",
+        "文武百官",
+        "李隆基"
+      ],
+      "description": "吏部尚书裴漼率百官上表，援引符瑞与先王典制，恳请玄宗封禅东岳泰山。",
+      "outcomes": [
+        "玄宗手诏婉拒，称德未加于百姓，化未覃于四海"
+      ],
+      "evidence": "文武百官吏部尚書裴漼等上請封東岳，曰︰「臣聞道協乾坤……無任勤懇之至，謹於朝堂奉表陳情以聞。」帝手詔報曰︰「自中朝有故……難違兆庶之情，未議封崇之禮。」",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "玄宗下诏定封禅日",
+      "event_type": "诏令颁布",
+      "time": "开元十二年闰十二月丁卯",
+      "place": "长安",
+      "participants": [
+        "李隆基",
+        "张说",
+        "源乾曜"
+      ],
+      "description": "经张说等多次恳请，玄宗终下诏定于开元十三年十一月十日封禅泰山，并命详定仪注、务存节俭。",
+      "outcomes": [
+        "正式启动封禅筹备，张说等刊定仪注"
+      ],
+      "evidence": "丁卯，下詔曰：「自古受命而王者……可以開元十三年十一月十日，式遵故實，有事泰山。所司與公卿諸儒，詳擇典禮……」",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "泰山封禅大典",
+      "event_type": "国家祭祀",
+      "time": "开元十三年十一月庚寅",
+      "place": "泰山圆台",
+      "participants": [
+        "李隆基",
+        "李守礼",
+        "李宪",
+        "张说",
+        "百官",
+        "蕃夷使节"
+      ],
+      "description": "玄宗于泰山圆台祀昊天上帝，高祖配享；亲封玉牒于石䃭；示玉牒于百官；燎柴告天；山下坛祭五方帝及诸神。",
+      "outcomes": [
+        "礼成，大赦天下，封泰山神为天齐王；制《纪泰山铭》勒石"
+      ],
+      "evidence": "庚寅，祀昊天上帝於山上封臺之前壇，高祖神堯皇帝配享焉。邠王守禮亞獻，寧王憲終獻……納二玉匱於䃭中……皇帝就望燎位，火發，羣臣稱萬歲……制曰：「……可大赦天下，封太山神爲天齊王……」玄宗製《紀泰山銘》，御書勒於山頂石壁之上。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "社首山禅地礼",
+      "event_type": "国家祭祀",
+      "time": "开元十三年十一月辛卯",
+      "place": "社首山泰折坛",
+      "participants": [
+        "李隆基",
+        "李宪",
+        "百官"
+      ],
+      "description": "玄宗于社首山泰折坛祀皇地祇，睿宗配享，藏玉策于石䃭，仪如方丘。",
+      "outcomes": [
+        "完成封禅核心环节“封泰山、禅社首”"
+      ],
+      "evidence": "辛卯，享皇地祇於社首之泰折壇，睿宗大聖貞皇帝配祀。五色雲見，日重輪。藏玉策於石䃭，如封壇之儀。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "朝觐群臣与颁赦",
+      "event_type": "政治仪式",
+      "time": "开元十三年十一月壬辰",
+      "place": "朝觐坛",
+      "participants": [
+        "李隆基",
+        "文武百官",
+        "二王后",
+        "孔子后",
+        "蕃夷使节"
+      ],
+      "description": "玄宗御朝觐帐殿，受百官及四夷朝贺，宣制大赦，申明封禅乃答天休、报祖德、福苍生之举。",
+      "outcomes": [
+        "强化皇权威仪，彰显“九有大宁，群氓乐业”盛世景象"
+      ],
+      "evidence": "壬辰，玄宗御朝覲之帳殿……制曰：「朕聞天監惟后……可大赦天下……」",
+      "confidence": 0.95
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_tanghuiyao_008_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "郊議",
+      "item_ids": [
+        "wikisource_tanghuiyao_008_00002",
+        "wikisource_tanghuiyao_008_00003",
+        "wikisource_tanghuiyao_008_00004",
+        "wikisource_tanghuiyao_008_00005",
+        "wikisource_tanghuiyao_008_00006",
+        "wikisource_tanghuiyao_008_00007",
+        "wikisource_tanghuiyao_008_00008",
+        "wikisource_tanghuiyao_008_00009",
+        "wikisource_tanghuiyao_008_00010",
+        "wikisource_tanghuiyao_008_00011",
+        "wikisource_tanghuiyao_008_00012",
+        "wikisource_tanghuiyao_008_00013",
+        "wikisource_tanghuiyao_008_00014",
+        "wikisource_tanghuiyao_008_00015",
+        "wikisource_tanghuiyao_008_00016",
+        "wikisource_tanghuiyao_008_00017",
+        "wikisource_tanghuiyao_008_00018",
+        "wikisource_tanghuiyao_008_00019",
+        "wikisource_tanghuiyao_008_00020",
+        "wikisource_tanghuiyao_008_00021",
+        "wikisource_tanghuiyao_008_00022",
+        "wikisource_tanghuiyao_008_00023",
+        "wikisource_tanghuiyao_008_00024",
+        "wikisource_tanghuiyao_008_00025",
+        "wikisource_tanghuiyao_008_00026",
+        "wikisource_tanghuiyao_008_00027",
+        "wikisource_tanghuiyao_008_00028",
+        "wikisource_tanghuiyao_008_00029"
+      ]
+    }
+  ]
+}

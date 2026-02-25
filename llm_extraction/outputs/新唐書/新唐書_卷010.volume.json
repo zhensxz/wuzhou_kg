@@ -1,0 +1,2210 @@
+{
+  "work": "新唐書",
+  "volume": "010",
+  "page_title": "新唐書/卷010",
+  "url": "https://zh.wikisource.org/wiki/%E6%96%B0%E5%94%90%E6%9B%B8%2F%E5%8D%B7010",
+  "generated_at": "2026-02-16T05:31:23.814362+00:00",
+  "time_anchors": [
+    {
+      "text": "昭宗",
+      "normalized": "昭宗时期",
+      "evidence": "新唐書-{卷}-十 本紀第十 昭宗 哀帝",
+      "confidence": 0.9
+    },
+    {
+      "text": "哀帝",
+      "normalized": "哀帝时期",
+      "evidence": "新唐書-{卷}-十 本紀第十 昭宗 哀帝",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾符三年",
+      "normalized": "乾符三年",
+      "evidence": "乾符三年，領幽州盧龍軍節度使。",
+      "confidence": 0.9
+    },
+    {
+      "text": "文德元年三月",
+      "normalized": "文德元年三月",
+      "evidence": "文德元年三月，僖宗疾大漸，羣臣以吉王長，且欲立之。觀軍容使楊復恭率兵迎壽王，立為皇太弟，改名敏。乙巳，即皇帝位于柩前。",
+      "confidence": 0.9
+    },
+    {
+      "text": "文德元年三月乙巳",
+      "normalized": "文德元年三月乙巳",
+      "evidence": "乙巳，即皇帝位于柩前。",
+      "confidence": 0.9
+    },
+    {
+      "text": "文德元年四月戊辰",
+      "normalized": "文德元年四月戊辰",
+      "evidence": "四月戊辰，孫儒陷揚州，自稱淮南節度使，楊行密奔于廬州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "龍紀元年正月癸巳",
+      "normalized": "龍紀元年正月癸巳",
+      "evidence": "龍紀元年正月癸巳，大赦，改元。",
+      "confidence": 0.9
+    },
+    {
+      "text": "天祐元年八月丙午",
+      "normalized": "天祐元年八月丙午",
+      "evidence": "天祐元年八月丙午，即皇帝位于柩前。",
+      "confidence": 0.9
+    },
+    {
+      "text": "九月庚午",
+      "normalized": "天祐元年九月庚午",
+      "evidence": "九月庚午，尊皇后為皇太后。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十月辛卯朔",
+      "normalized": "天祐元年十月辛卯朔",
+      "evidence": "十月辛卯朔，日有食之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "癸巳",
+      "normalized": "天祐元年十月癸巳",
+      "evidence": "癸巳，朱全忠來朝。",
+      "confidence": 0.9
+    },
+    {
+      "text": "甲午",
+      "normalized": "天祐元年十月甲午",
+      "evidence": "甲午，全忠殺朱友恭、氏叔琮。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十一月",
+      "normalized": "天祐元年十一月",
+      "evidence": "十一月，全忠陷光州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "是歲",
+      "normalized": "天祐元年",
+      "evidence": "是歲，虔州刺史盧光稠卒，衙將李圖自稱知州事。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二年正月",
+      "normalized": "天祐二年正月",
+      "evidence": "二年正月，盧約陷溫州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "丁丑",
+      "normalized": "天祐二年正月丁丑",
+      "evidence": "丁丑，盜焚乾陵下宮。",
+      "confidence": 0.9
+    },
+    {
+      "text": "戊戌",
+      "normalized": "天祐二年二月戊戌",
+      "evidence": "戊戌，朱全忠殺德王裕及棣王祤、虔王禊、遂王禕、景王祕、祁王祺、瓊王祥。",
+      "confidence": 0.9
+    },
+    {
+      "text": "己酉",
+      "normalized": "天祐二年二月己酉",
+      "evidence": "己酉，葬聖穆景文孝皇帝于和陵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "三月甲子",
+      "normalized": "天祐二年三月甲子",
+      "evidence": "三月甲子，裴樞罷。",
+      "confidence": 0.9
+    },
+    {
+      "text": "戊寅",
+      "normalized": "天祐二年三月戊寅",
+      "evidence": "戊寅，獨孤損罷。",
+      "confidence": 0.9
+    },
+    {
+      "text": "甲申",
+      "normalized": "天祐二年三月甲申",
+      "evidence": "甲申，崔遠罷。",
+      "confidence": 0.9
+    },
+    {
+      "text": "四月乙未",
+      "normalized": "天祐二年四月乙未",
+      "evidence": "四月乙未，以旱避正殿，減膳。",
+      "confidence": 0.9
+    },
+    {
+      "text": "庚子",
+      "normalized": "天祐二年四月庚子",
+      "evidence": "庚子，有彗星出于西北；",
+      "confidence": 0.9
+    },
+    {
+      "text": "甲辰",
+      "normalized": "天祐二年四月甲辰",
+      "evidence": "甲辰，出于北河。",
+      "confidence": 0.9
+    },
+    {
+      "text": "辛亥",
+      "normalized": "天祐二年四月辛亥",
+      "evidence": "辛亥，降京畿死罪以下，給復山陵役者一年。",
+      "confidence": 0.9
+    },
+    {
+      "text": "五月",
+      "normalized": "天祐二年五月",
+      "evidence": "五月，王建陷金州，戎昭軍節度使馮行襲奔于均州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "六月",
+      "normalized": "天祐二年六月",
+      "evidence": "六月，行襲克金州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "戊子",
+      "normalized": "天祐二年六月戊子",
+      "evidence": "戊子，朱全忠殺裴樞及靜海軍節度使獨孤損、左僕射崔遠、吏部尚書陸扆、工部尚書王溥、司空致仕裴贄、檢校司空兼太子太保致仕趙崇、兵部侍郎王贊。",
+      "confidence": 0.9
+    },
+    {
+      "text": "七月",
+      "normalized": "天祐二年七月",
+      "evidence": "七月，卜郊。",
+      "confidence": 0.9
+    },
+    {
+      "text": "九月甲子",
+      "normalized": "天祐二年九月甲子",
+      "evidence": "九月甲子，朱全忠陷襄州，忠義軍節度使趙匡凝奔于淮南。",
+      "confidence": 0.9
+    },
+    {
+      "text": "丙寅",
+      "normalized": "天祐二年九月丙寅",
+      "evidence": "丙寅，封弟禔為潁王，祐蔡王。",
+      "confidence": 0.9
+    },
+    {
+      "text": "乙酉",
+      "normalized": "天祐二年九月乙酉",
+      "evidence": "乙酉，改卜郊。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十月丙戌",
+      "normalized": "天祐二年十月丙戌",
+      "evidence": "十月丙戌，朱全忠為諸道兵馬元帥。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十一月庚午",
+      "normalized": "天祐二年十一月庚午",
+      "evidence": "十一月庚午，三卜郊。",
+      "confidence": 0.9
+    },
+    {
+      "text": "庚辰",
+      "normalized": "天祐二年十一月庚辰",
+      "evidence": "庚辰，淮南節度使楊行密卒，以其子渥為淮南節度副大使、東面諸道行營都統。",
+      "confidence": 0.9
+    },
+    {
+      "text": "辛巳",
+      "normalized": "天祐二年十一月辛巳",
+      "evidence": "辛巳，朱全忠為相國，總百揆，封魏王。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十二月乙未",
+      "normalized": "天祐二年十二月乙未",
+      "evidence": "十二月乙未，全忠為天下兵馬元帥，殺蔣玄暉及豐德庫使應頊、尚食使朱建武。",
+      "confidence": 0.9
+    },
+    {
+      "text": "戊申",
+      "normalized": "天祐二年十二月戊申",
+      "evidence": "戊申，朱全忠弒皇太后。",
+      "confidence": 0.9
+    },
+    {
+      "text": "癸丑",
+      "normalized": "天祐二年十二月癸丑",
+      "evidence": "癸丑，貶柳璨為登州刺史。",
+      "confidence": 0.9
+    },
+    {
+      "text": "甲寅",
+      "normalized": "天祐二年十二月甲寅",
+      "evidence": "甲寅，殺璨及太常卿張廷範。",
+      "confidence": 0.9
+    },
+    {
+      "text": "三年正月壬戌",
+      "normalized": "天祐三年正月壬戌",
+      "evidence": "三年正月壬戌，淮南將王茂章以宣、歙二州叛附于錢鏐。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二月",
+      "normalized": "天祐三年二月",
+      "evidence": "二月，楊渥陷岳州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "癸巳",
+      "normalized": "天祐三年二月癸巳",
+      "evidence": "癸巳，王建陷歸州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "四月癸未朔",
+      "normalized": "天祐三年四月癸未朔",
+      "evidence": "四月癸未朔，日有食之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "六月",
+      "normalized": "天祐三年六月",
+      "evidence": "六月，錢鏐陷衢、睦二州，刺史陳璋、陳詢奔于淮南。",
+      "confidence": 0.9
+    },
+    {
+      "text": "七月",
+      "normalized": "天祐三年七月",
+      "evidence": "七月，楊渥陷饒州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "八月癸未",
+      "normalized": "天祐三年八月癸未",
+      "evidence": "八月癸未，朱全忠陷相州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "九月",
+      "normalized": "天祐三年九月",
+      "evidence": "九月，楊渥陷洪州，執鍾匡時。",
+      "confidence": 0.9
+    },
+    {
+      "text": "乙亥",
+      "normalized": "天祐三年九月乙亥",
+      "evidence": "乙亥，匡國軍節度使劉知俊陷坊州，執刺史劉彥暉。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十月辛巳",
+      "normalized": "天祐三年十月辛巳",
+      "evidence": "十月辛巳，楊崇本會鳳翔、涇原、鄜延、秦隴兵以討朱全忠，戰于美原，敗績。",
+      "confidence": 0.9
+    },
+    {
+      "text": "閏十二月戊辰",
+      "normalized": "天祐三年閏十二月戊辰",
+      "evidence": "閏十二月戊辰，李克用陷潞州，昭義軍節度使丁會叛附于克用。",
+      "confidence": 0.9
+    },
+    {
+      "text": "乙亥",
+      "normalized": "天祐三年閏十二月乙亥",
+      "evidence": "乙亥，震電，雨雪。",
+      "confidence": 0.9
+    },
+    {
+      "text": "四年三月",
+      "normalized": "天祐四年三月",
+      "evidence": "四年三月，劉守光囚其父仁恭，自稱幽州盧龍軍節度使。",
+      "confidence": 0.9
+    },
+    {
+      "text": "四月戊午",
+      "normalized": "天祐四年四月戊午",
+      "evidence": "四月戊午，錢鏐陷溫州。",
+      "confidence": 0.9
+    },
+    {
+      "text": "甲子",
+      "normalized": "天祐四年四月甲子",
+      "evidence": "甲子，皇帝遜于位，徙于曹州，號濟陰王。",
+      "confidence": 0.9
+    },
+    {
+      "text": "梁開平二年二月",
+      "normalized": "梁開平二年二月",
+      "evidence": "梁開平二年二月遇弒，年十七，謚曰哀帝。",
+      "confidence": 0.9
+    },
+    {
+      "text": "唐之亡",
+      "normalized": "唐朝灭亡",
+      "evidence": "自唐之亡也",
+      "confidence": 0.95
+    },
+    {
+      "text": "五代五十餘年",
+      "normalized": "五代时期",
+      "evidence": "更五代五十餘年",
+      "confidence": 0.95
+    }
+  ],
+  "people": [
+    {
+      "name": "昭宗",
+      "aliases": [],
+      "roles": [
+        "亡国之君",
+        "君主",
+        "皇帝"
+      ],
+      "offices": [
+        "皇帝"
+      ],
+      "evidence": [
+        "新唐書-{卷}-十 本紀第十 昭宗 哀帝",
+        "昭宗是已",
+        "朱全忠已弒昭宗",
+        "昭宗為人明雋，初亦有志於興復，而外患已成，內無賢佐，頗亦慨然思得非常之材，而用匪其人，徒以益亂。",
+        "昭宣光烈孝皇帝諱祝，昭宗第九子也。"
+      ]
+    },
+    {
+      "name": "哀帝",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "新唐書-{卷}-十 本紀第十 昭宗 哀帝"
+      ]
+    },
+    {
+      "name": "李曄",
+      "aliases": [
+        "壽王",
+        "昭宗",
+        "敏",
+        "皇太弟"
+      ],
+      "roles": [
+        "皇帝",
+        "懿宗第七子"
+      ],
+      "offices": [
+        "幽州盧龍軍節度使"
+      ],
+      "evidence": [
+        "昭宗聖穆景文孝皇帝諱曄，懿宗第七子也。",
+        "始封壽王。",
+        "乾符三年，領幽州盧龍軍節度使。",
+        "立為皇太弟，改名敏。",
+        "乙巳，即皇帝位于柩前。"
+      ]
+    },
+    {
+      "name": "王氏",
+      "aliases": [
+        "恭憲皇太后"
+      ],
+      "roles": [
+        "皇太后",
+        "昭宗生母"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰恭憲皇太后王氏。",
+        "庚午，追尊母為皇太后。"
+      ]
+    },
+    {
+      "name": "楊復恭",
+      "aliases": [
+        "觀軍容使"
+      ],
+      "roles": [
+        "宦官",
+        "軍將"
+      ],
+      "offices": [
+        "觀軍容使"
+      ],
+      "evidence": [
+        "觀軍容使楊復恭率兵迎壽王，立為皇太弟，改名敏。"
+      ]
+    },
+    {
+      "name": "朱全忠",
+      "aliases": [
+        "全忠"
+      ],
+      "roles": [
+        "軍閥",
+        "節度使"
+      ],
+      "offices": [
+        "相國",
+        "梁王",
+        "中書令",
+        "宣武軍節度使",
+        "天下兵馬元帥",
+        "魏王",
+        "諸道兵馬元帥"
+      ],
+      "evidence": [
+        "甲午，全忠殺朱友恭、氏叔琮。",
+        "十一月，全忠陷光州。",
+        "庚午，朱全忠為中書令。",
+        "十月丙戌，朱全忠為諸道兵馬元帥。",
+        "癸巳，朱全忠來朝。",
+        "十二月乙未，全忠為天下兵馬元帥",
+        "辛卯，朱全忠及秦宗權戰于蔡州，敗之。",
+        "辛巳，朱全忠為相國，總百揆，封魏王。",
+        "朱全忠已弒昭宗，矯詔立為皇太子，監軍國事。",
+        "辛未，封全忠為梁王。"
+      ]
+    },
+    {
+      "name": "李克用",
+      "aliases": [],
+      "roles": [
+        "軍閥",
+        "節度使"
+      ],
+      "offices": [
+        "河東節度使"
+      ],
+      "evidence": [
+        "閏十二月戊辰，李克用陷潞州",
+        "五月，張濬為河東行營都招討宣慰使……以討李克用。",
+        "六月，李克用寇邢州。"
+      ]
+    },
+    {
+      "name": "祝",
+      "aliases": [
+        "輝王",
+        "昭宣光烈孝皇帝",
+        "濟陰王",
+        "哀帝"
+      ],
+      "roles": [
+        "皇帝",
+        "皇太子"
+      ],
+      "offices": [
+        "輝王"
+      ],
+      "evidence": [
+        "昭宣光烈孝皇帝諱祝，昭宗第九子也。",
+        "始封輝王。",
+        "朱全忠已弒昭宗，矯詔立為皇太子，監軍國事。",
+        "天祐元年八月丙午，即皇帝位于柩前。",
+        "甲子，皇帝遜于位，徙于曹州，號濟陰王。"
+      ]
+    },
+    {
+      "name": "何氏",
+      "aliases": [
+        "皇太后"
+      ],
+      "roles": [
+        "皇太后"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰皇太后何氏。",
+        "戊申，朱全忠弒皇太后。"
+      ]
+    },
+    {
+      "name": "楊行密",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "淮南節度使"
+      ],
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+        "庚辰，淮南節度使楊行密卒"
+      ]
+    },
+    {
+      "name": "陳璋",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "衢州刺史"
+      ],
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+        "六月，錢鏐陷衢、睦二州，刺史陳璋、陳詢奔于淮南。"
+      ]
+    },
+    {
+      "name": "陳詢",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "睦州刺史"
+      ],
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+        "六月，錢鏐陷衢、睦二州，刺史陳璋、陳詢奔于淮南。"
+      ]
+    },
+    {
+      "name": "朱友恭",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "甲午，全忠殺朱友恭、氏叔琮。",
+        "戊子，朱全忠殺裴樞及靜海軍節度使獨孤損..."
+      ]
+    },
+    {
+      "name": "氏叔琮",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "甲午，全忠殺朱友恭、氏叔琮。"
+      ]
+    },
+    {
+      "name": "盧光稠",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "虔州刺史"
+      ],
+      "evidence": [
+        "是歲，虔州刺史盧光稠卒"
+      ]
+    },
+    {
+      "name": "李圖",
+      "aliases": [
+        "衙將"
+      ],
+      "roles": [],
+      "offices": [
+        "知州事（自稱）"
+      ],
+      "evidence": [
+        "衙將李圖自稱知州事。"
+      ]
+    },
+    {
+      "name": "盧約",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "二年正月，盧約陷溫州。"
+      ]
+    },
+    {
+      "name": "安仁義",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "平盧軍節度使"
+      ],
+      "evidence": [
+        "楊行密殺平盧軍節度使安仁義。"
+      ]
+    },
+    {
+      "name": "杜洪",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "武昌軍節度使"
+      ],
+      "evidence": [
+        "二月，楊行密陷鄂州，武昌軍節度使杜洪死之。"
+      ]
+    },
+    {
+      "name": "德王裕",
+      "aliases": [
+        "裕"
+      ],
+      "roles": [
+        "德王"
+      ],
+      "offices": [],
+      "evidence": [
+        "戊戌，朱全忠殺德王裕及棣王祤、虔王禊、遂王禕、景王祕、祁王祺、瓊王祥。"
+      ]
+    },
+    {
+      "name": "裴樞",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "三月甲子，裴樞罷。",
+        "戊子，朱全忠殺裴樞及靜海軍節度使獨孤損..."
+      ]
+    },
+    {
+      "name": "獨孤損",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "靜海軍節度使"
+      ],
+      "evidence": [
+        "戊寅，獨孤損罷。",
+        "戊子，朱全忠殺裴樞及靜海軍節度使獨孤損..."
+      ]
+    },
+    {
+      "name": "張文蔚",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "禮部侍郎",
+        "同中書門下平章事"
+      ],
+      "evidence": [
+        "禮部侍郎張文蔚同中書門下平章事。"
+      ]
+    },
+    {
+      "name": "崔遠",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "左僕射"
+      ],
+      "evidence": [
+        "甲申，崔遠罷。",
+        "戊子，朱全忠殺裴樞及...左僕射崔遠..."
+      ]
+    },
+    {
+      "name": "楊涉",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "吏部侍郎",
+        "同中書門下平章事"
+      ],
+      "evidence": [
+        "吏部侍郎楊涉同中書門下平章事。"
+      ]
+    },
+    {
+      "name": "王建",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "五月，王建陷金州...",
+        "癸巳，王建陷歸州。"
+      ]
+    },
+    {
+      "name": "馮行襲",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "戎昭軍節度使"
+      ],
+      "evidence": [
+        "五月，王建陷金州，戎昭軍節度使馮行襲奔于均州。",
+        "六月，行襲克金州。"
+      ]
+    },
+    {
+      "name": "沈夏",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "刺史"
+      ],
+      "evidence": [
+        "楊行密陷婺州，執刺史沈夏。"
+      ]
+    },
+    {
+      "name": "陸扆",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "吏部尚書"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及...吏部尚書陸扆..."
+      ]
+    },
+    {
+      "name": "王溥",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "工部尚書"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及...工部尚書王溥..."
+      ]
+    },
+    {
+      "name": "裴贄",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "司空致仕"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及...司空致仕裴贄..."
+      ]
+    },
+    {
+      "name": "趙崇",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "檢校司空兼太子太保致仕"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及...檢校司空兼太子太保致仕趙崇..."
+      ]
+    },
+    {
+      "name": "王贊",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "兵部侍郎"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及...兵部侍郎王贊。"
+      ]
+    },
+    {
+      "name": "鄧進忠",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "岳州刺史"
+      ],
+      "evidence": [
+        "岳州刺史鄧進忠叛附于馬殷。"
+      ]
+    },
+    {
+      "name": "馬殷",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "岳州刺史鄧進忠叛附于馬殷。"
+      ]
+    },
+    {
+      "name": "趙匡凝",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "忠義軍節度使"
+      ],
+      "evidence": [
+        "九月甲子，朱全忠陷襄州，忠義軍節度使趙匡凝奔于淮南。"
+      ]
+    },
+    {
+      "name": "禔",
+      "aliases": [],
+      "roles": [
+        "潁王"
+      ],
+      "offices": [],
+      "evidence": [
+        "丙寅，封弟禔為潁王"
+      ]
+    },
+    {
+      "name": "祐",
+      "aliases": [],
+      "roles": [
+        "蔡王"
+      ],
+      "offices": [],
+      "evidence": [
+        "丙寅，封弟禔為潁王，祐蔡王。"
+      ]
+    },
+    {
+      "name": "趙匡明",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "留後"
+      ],
+      "evidence": [
+        "朱全忠陷江陵，留後趙匡明奔于成都。"
+      ]
+    },
+    {
+      "name": "蔣玄暉",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "十二月乙未，全忠為天下兵馬元帥，殺蔣玄暉及豐德庫使應頊、尚食使朱建武。"
+      ]
+    },
+    {
+      "name": "應頊",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "豐德庫使"
+      ],
+      "evidence": [
+        "十二月乙未，全忠為天下兵馬元帥，殺蔣玄暉及豐德庫使應頊、尚食使朱建武。"
+      ]
+    },
+    {
+      "name": "朱建武",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "尚食使"
+      ],
+      "evidence": [
+        "十二月乙未，全忠為天下兵馬元帥，殺蔣玄暉及豐德庫使應頊、尚食使朱建武。"
+      ]
+    },
+    {
+      "name": "柳璨",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "司空"
+      ],
+      "evidence": [
+        "癸卯，柳璨為司空。",
+        "癸丑，貶柳璨為登州刺史。",
+        "甲寅，殺璨及太常卿張廷範。"
+      ]
+    },
+    {
+      "name": "張廷範",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "太常卿"
+      ],
+      "evidence": [
+        "甲寅，殺璨及太常卿張廷範。"
+      ]
+    },
+    {
+      "name": "王茂章",
+      "aliases": [
+        "淮南將"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "三年正月壬戌，淮南將王茂章以宣、歙二州叛附于錢鏐。"
+      ]
+    },
+    {
+      "name": "錢鏐",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "三年正月壬戌，淮南將王茂章以宣、歙二州叛附于錢鏐。",
+        "六月，錢鏐陷衢、睦二州...",
+        "四月戊午，錢鏐陷溫州。"
+      ]
+    },
+    {
+      "name": "楊渥",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "淮南節度副大使",
+        "東面諸道行營都統"
+      ],
+      "evidence": [
+        "庚辰，淮南節度使楊行密卒，以其子渥為淮南節度副大使、東面諸道行營都統。",
+        "二月，楊渥陷岳州。",
+        "七月，楊渥陷饒州。",
+        "九月，楊渥陷洪州，執鍾匡時。"
+      ]
+    },
+    {
+      "name": "鍾傳",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "鎮南軍節度使"
+      ],
+      "evidence": [
+        "鎮南軍節度使鍾傳卒，其子匡時自稱留後。"
+      ]
+    },
+    {
+      "name": "鍾匡時",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "留後（自稱）"
+      ],
+      "evidence": [
+        "鎮南軍節度使鍾傳卒，其子匡時自稱留後。",
+        "九月，楊渥陷洪州，執鍾匡時。"
+      ]
+    },
+    {
+      "name": "劉知俊",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "匡國軍節度使"
+      ],
+      "evidence": [
+        "乙亥，匡國軍節度使劉知俊陷坊州，執刺史劉彥暉。"
+      ]
+    },
+    {
+      "name": "劉彥暉",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "刺史"
+      ],
+      "evidence": [
+        "乙亥，匡國軍節度使劉知俊陷坊州，執刺史劉彥暉。"
+      ]
+    },
+    {
+      "name": "楊崇本",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "十月辛巳，楊崇本會鳳翔、涇原、鄜延、秦隴兵以討朱全忠，戰于美原，敗績。"
+      ]
+    },
+    {
+      "name": "高彥",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "忠國軍節度使"
+      ],
+      "evidence": [
+        "十一月，忠國軍節度使高彥卒，其子澧自稱留後。"
+      ]
+    },
+    {
+      "name": "高澧",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "留後（自稱）"
+      ],
+      "evidence": [
+        "十一月，忠國軍節度使高彥卒，其子澧自稱留後。"
+      ]
+    },
+    {
+      "name": "丁會",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "昭義軍節度使"
+      ],
+      "evidence": [
+        "閏十二月戊辰，李克用陷潞州，昭義軍節度使丁會叛附于克用。"
+      ]
+    },
+    {
+      "name": "劉守光",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "幽州盧龍軍節度使（自稱）"
+      ],
+      "evidence": [
+        "四年三月，劉守光囚其父仁恭，自稱幽州盧龍軍節度使。"
+      ]
+    },
+    {
+      "name": "劉仁恭",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "四年三月，劉守光囚其父仁恭"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "幽州",
+      "aliases": [
+        "幽州盧龍軍"
+      ],
+      "type": "REGION",
+      "evidence": [
+        "乾符三年，領幽州盧龍軍節度使。"
+      ]
+    },
+    {
+      "name": "揚州",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "四月戊辰，孫儒陷揚州，自稱淮南節度使"
+      ]
+    },
+    {
+      "name": "廬州",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "楊行密奔于廬州。"
+      ]
+    },
+    {
+      "name": "太廟",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "戊申，朝享于太廟。"
+      ]
+    },
+    {
+      "name": "靖陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "辛卯，葬惠聖恭定孝皇帝于靖陵。"
+      ]
+    },
+    {
+      "name": "衢州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+        "六月，錢鏐陷衢、睦二州"
+      ]
+    },
+    {
+      "name": "睦州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+        "六月，錢鏐陷衢、睦二州"
+      ]
+    },
+    {
+      "name": "光州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "十一月，全忠陷光州。"
+      ]
+    },
+    {
+      "name": "虔州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "是歲，虔州刺史盧光稠卒"
+      ]
+    },
+    {
+      "name": "溫州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "二年正月，盧約陷溫州。",
+        "四月戊午，錢鏐陷溫州。"
+      ]
+    },
+    {
+      "name": "鄂州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "二月，楊行密陷鄂州"
+      ]
+    },
+    {
+      "name": "岳州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "岳州刺史鄧進忠叛附于馬殷。",
+        "二月，楊渥陷岳州。"
+      ]
+    },
+    {
+      "name": "襄州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "九月甲子，朱全忠陷襄州"
+      ]
+    },
+    {
+      "name": "江陵",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "朱全忠陷江陵"
+      ]
+    },
+    {
+      "name": "淮南",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "忠義軍節度使趙匡凝奔于淮南。",
+        "刺史陳璋、陳詢奔于淮南。"
+      ]
+    },
+    {
+      "name": "成都",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "留後趙匡明奔于成都。"
+      ]
+    },
+    {
+      "name": "金州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "五月，王建陷金州",
+        "六月，行襲克金州。"
+      ]
+    },
+    {
+      "name": "均州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "戎昭軍節度使馮行襲奔于均州。"
+      ]
+    },
+    {
+      "name": "婺州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "楊行密陷婺州"
+      ]
+    },
+    {
+      "name": "相州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "八月癸未，朱全忠陷相州。"
+      ]
+    },
+    {
+      "name": "洪州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "九月，楊渥陷洪州"
+      ]
+    },
+    {
+      "name": "坊州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "乙亥，匡國軍節度使劉知俊陷坊州"
+      ]
+    },
+    {
+      "name": "饒州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "七月，楊渥陷饒州。"
+      ]
+    },
+    {
+      "name": "歸州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "癸巳，王建陷歸州。"
+      ]
+    },
+    {
+      "name": "宣州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "淮南將王茂章以宣、歙二州叛附于錢鏐。"
+      ]
+    },
+    {
+      "name": "歙州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "淮南將王茂章以宣、歙二州叛附于錢鏐。"
+      ]
+    },
+    {
+      "name": "潞州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "閏十二月戊辰，李克用陷潞州"
+      ]
+    },
+    {
+      "name": "曹州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "甲子，皇帝遜于位，徙于曹州"
+      ]
+    },
+    {
+      "name": "美原",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "戰于美原，敗績。"
+      ]
+    },
+    {
+      "name": "鳳翔",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "楊崇本會鳳翔、涇原、鄜延、秦隴兵"
+      ]
+    },
+    {
+      "name": "涇原",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "楊崇本會鳳翔、涇原、鄜延、秦隴兵"
+      ]
+    },
+    {
+      "name": "鄜延",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "楊崇本會鳳翔、涇原、鄜延、秦隴兵"
+      ]
+    },
+    {
+      "name": "秦隴",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "楊崇本會鳳翔、涇原、鄜延、秦隴兵"
+      ]
+    },
+    {
+      "name": "乾陵下宮",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "丁丑，盜焚乾陵下宮。"
+      ]
+    },
+    {
+      "name": "和陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "己酉，葬聖穆景文孝皇帝于和陵。"
+      ]
+    },
+    {
+      "name": "溫陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "後唐明宗追謚昭宣光烈孝皇帝，陵曰溫陵。"
+      ]
+    },
+    {
+      "name": "柩前",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "天祐元年八月丙午，即皇帝位于柩前。"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "李曄",
+      "to": "王氏",
+      "relation": "母子",
+      "time": "文德元年之前",
+      "place": "",
+      "evidence": "母曰恭憲皇太后王氏。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李曄",
+      "to": "幽州盧龍軍節度使",
+      "relation": "擔任",
+      "time": "乾符三年",
+      "place": "幽州",
+      "evidence": "乾符三年，領幽州盧龍軍節度使。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "楊復恭",
+      "to": "李曄",
+      "relation": "擁立",
+      "time": "文德元年三月",
+      "place": "",
+      "evidence": "觀軍容使楊復恭率兵迎壽王，立為皇太弟",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "楊行密",
+      "to": "廬州",
+      "relation": "奔至",
+      "time": "文德元年四月戊辰",
+      "place": "廬州",
+      "evidence": "楊行密奔于廬州。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "朱全忠",
+      "to": "中書令",
+      "relation": "任職",
+      "time": "文德元年八月庚午",
+      "place": "",
+      "evidence": "庚午，朱全忠為中書令。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "祝",
+      "to": "昭宗",
+      "relation": "父子",
+      "time": "天祐元年之前",
+      "place": "",
+      "evidence": "昭宣光烈孝皇帝諱祝，昭宗第九子也。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "祝",
+      "to": "何氏",
+      "relation": "母子",
+      "time": "天祐元年之前",
+      "place": "",
+      "evidence": "母曰皇太后何氏。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "陳璋",
+      "to": "衢州刺史",
+      "relation": "担任",
+      "time": "天祐元年八月",
+      "place": "衢州",
+      "evidence": "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "陳詢",
+      "to": "睦州刺史",
+      "relation": "担任",
+      "time": "天祐元年八月",
+      "place": "睦州",
+      "evidence": "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "陳璋",
+      "to": "楊行密",
+      "relation": "叛附",
+      "time": "天祐元年八月",
+      "place": "衢州、睦州",
+      "evidence": "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "陳詢",
+      "to": "楊行密",
+      "relation": "叛附",
+      "time": "天祐元年八月",
+      "place": "衢州、睦州",
+      "evidence": "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "朱全忠",
+      "to": "昭宗",
+      "relation": "弑杀",
+      "time": "天祐元年之前",
+      "place": "",
+      "evidence": "朱全忠已弒昭宗",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "朱全忠",
+      "to": "朱友恭",
+      "relation": "杀害",
+      "time": "天祐元年十月甲午",
+      "place": "",
+      "evidence": "甲午，全忠殺朱友恭、氏叔琮。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "朱全忠",
+      "to": "氏叔琮",
+      "relation": "杀害",
+      "time": "天祐元年十月甲午",
+      "place": "",
+      "evidence": "甲午，全忠殺朱友恭、氏叔琮。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "朱全忠",
+      "to": "何氏",
+      "relation": "弑杀",
+      "time": "天祐二年十二月戊申",
+      "place": "",
+      "evidence": "戊申，朱全忠弒皇太后。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "楊行密",
+      "to": "安仁義",
+      "relation": "杀害",
+      "time": "天祐二年正月",
+      "place": "",
+      "evidence": "楊行密殺平盧軍節度使安仁義。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "楊渥",
+      "to": "鍾匡時",
+      "relation": "俘获",
+      "time": "天祐三年九月",
+      "place": "洪州",
+      "evidence": "九月，楊渥陷洪州，執鍾匡時。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "劉知俊",
+      "to": "劉彥暉",
+      "relation": "俘获",
+      "time": "天祐三年九月乙亥",
+      "place": "坊州",
+      "evidence": "乙亥，匡國軍節度使劉知俊陷坊州，執刺史劉彥暉。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "劉守光",
+      "to": "劉仁恭",
+      "relation": "囚禁",
+      "time": "天祐四年三月",
+      "place": "",
+      "evidence": "四年三月，劉守光囚其父仁恭",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "禔",
+      "to": "潁王",
+      "relation": "封爵",
+      "time": "天祐二年九月丙寅",
+      "place": "",
+      "evidence": "丙寅，封弟禔為潁王",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "祐",
+      "to": "蔡王",
+      "relation": "封爵",
+      "time": "天祐二年九月丙寅",
+      "place": "",
+      "evidence": "丙寅，封弟禔為潁王，祐蔡王。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "昭宗",
+      "to": "皇帝",
+      "relation": "担任",
+      "time": "",
+      "place": "",
+      "evidence": "昭宗是已",
+      "confidence": 0.85
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "昭宗",
+      "to": "昭宗用人不当",
+      "relation": "主导",
+      "time": "",
+      "place": "",
+      "evidence": "而用匪其人，徒以益亂",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "昭宗",
+      "to": "唐朝灭亡",
+      "relation": "关联",
+      "time": "",
+      "place": "",
+      "evidence": "昭宗是已",
+      "confidence": 0.8
+    }
+  ],
+  "events": [
+    {
+      "event_name": "昭宗即皇帝位",
+      "event_type": "即位",
+      "time": "文德元年三月乙巳",
+      "place": "柩前",
+      "participants": [
+        "李曄",
+        "楊復恭"
+      ],
+      "description": "僖宗病危，楊復恭率兵迎壽王立為皇太弟並改名敏，隨即於僖宗靈柩前即位。",
+      "outcomes": [
+        "李曄即位為唐昭宗"
+      ],
+      "evidence": [
+        "文德元年三月，僖宗疾大漸，羣臣以吉王長，且欲立之。觀軍容使楊復恭率兵迎壽王，立為皇太弟，改名敏。乙巳，即皇帝位于柩前。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "孫儒陷揚州",
+      "event_type": "軍事佔領",
+      "time": "文德元年四月戊辰",
+      "place": "揚州",
+      "participants": [
+        "孫儒",
+        "楊行密"
+      ],
+      "description": "孫儒攻陷揚州，自稱淮南節度使；楊行密逃奔廬州。",
+      "outcomes": [
+        "孫儒控制揚州",
+        "楊行密退守廬州"
+      ],
+      "evidence": [
+        "四月戊辰，孫儒陷揚州，自稱淮南節度使，楊行密奔于廬州。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠獻俘秦宗權",
+      "event_type": "軍事獻俘",
+      "time": "龍紀元年二月戊辰至己丑",
+      "place": "",
+      "participants": [
+        "朱全忠",
+        "秦宗權"
+      ],
+      "description": "朱全忠俘獲秦宗權並獻於朝廷，秦宗權隨後被處決。",
+      "outcomes": [
+        "秦宗權伏誅"
+      ],
+      "evidence": [
+        "二月戊辰，朱全忠俘秦宗權以獻。己丑，宗權伏誅。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "王建陷成都",
+      "event_type": "軍事佔領",
+      "time": "大順二年八月庚子",
+      "place": "成都",
+      "participants": [
+        "王建",
+        "陳敬瑄"
+      ],
+      "description": "王建攻陷成都，俘虜劍南西川節度使陳敬瑄，自稱留後。",
+      "outcomes": [
+        "王建控制西川",
+        "陳敬瑄被執"
+      ],
+      "evidence": [
+        "八月庚子，王建陷成都，執劍南西川節度使陳敬瑄，自稱留後。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "昭宗崩逝",
+      "event_type": "帝王逝世",
+      "time": "天祐元年八月壬寅",
+      "place": "",
+      "participants": [
+        "昭宗",
+        "朱全忠",
+        "朱友恭",
+        "氏叔琮",
+        "蔣玄暉"
+      ],
+      "description": "朱全忠遣朱友恭、氏叔琮、蔣玄暉率兵犯宮，昭宗當夜駕崩，年三十八。",
+      "outcomes": [
+        "昭宗逝世",
+        "唐朝政權進一步衰微"
+      ],
+      "evidence": [
+        "八月壬寅，全忠以左右龍武統軍朱友恭、氏叔琮、樞密使蔣玄暉兵犯宮門；是夕，皇帝崩，年三十八。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "哀帝即位",
+      "event_type": "即位",
+      "time": "天祐元年八月丙午",
+      "place": "柩前",
+      "participants": [
+        "祝"
+      ],
+      "description": "在昭宗灵柩前即皇帝位",
+      "outcomes": [
+        "祝正式登基为帝"
+      ],
+      "evidence": [
+        "天祐元年八月丙午，即皇帝位于柩前。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "陈璋陈询叛附杨行密",
+      "event_type": "叛乱",
+      "time": "天祐元年八月",
+      "place": "衢州、睦州",
+      "participants": [
+        "陳璋",
+        "陳詢",
+        "楊行密"
+      ],
+      "description": "衢州刺史陈璋、睦州刺史陈询背叛朝廷归附杨行密",
+      "outcomes": [
+        "衢州、睦州脱离中央控制"
+      ],
+      "evidence": [
+        "衢州刺史陳璋、睦州刺史陳詢叛附于楊行密。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠杀朱友恭氏叔琮",
+      "event_type": "杀害",
+      "time": "天祐元年十月甲午",
+      "place": "",
+      "participants": [
+        "朱全忠",
+        "朱友恭",
+        "氏叔琮"
+      ],
+      "description": "朱全忠处死朱友恭与氏叔琮",
+      "outcomes": [
+        "朱友恭、氏叔琮被杀"
+      ],
+      "evidence": [
+        "甲午，全忠殺朱友恭、氏叔琮。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠陷光州",
+      "event_type": "军事占领",
+      "time": "天祐元年十一月",
+      "place": "光州",
+      "participants": [
+        "朱全忠"
+      ],
+      "description": "朱全忠攻占光州",
+      "outcomes": [
+        "光州被朱全忠控制"
+      ],
+      "evidence": [
+        "十一月，全忠陷光州。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "卢光稠卒李图自称知州",
+      "event_type": "权力更迭",
+      "time": "天祐元年",
+      "place": "虔州",
+      "participants": [
+        "盧光稠",
+        "李圖"
+      ],
+      "description": "虔州刺史卢光稠去世，衙将李图自称主持州事",
+      "outcomes": [
+        "李图控制虔州"
+      ],
+      "evidence": [
+        "是歲，虔州刺史盧光稠卒，衙將李圖自稱知州事。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠杀德王裕等诸王",
+      "event_type": "杀害",
+      "time": "天祐二年二月戊戌",
+      "place": "",
+      "participants": [
+        "朱全忠",
+        "德王裕",
+        "棣王祤",
+        "虔王禊",
+        "遂王禕",
+        "景王祕",
+        "祁王祺",
+        "瓊王祥"
+      ],
+      "description": "朱全忠杀害多位宗室亲王",
+      "outcomes": [
+        "多位亲王被杀"
+      ],
+      "evidence": [
+        "戊戌，朱全忠殺德王裕及棣王祤、虔王禊、遂王禕、景王祕、祁王祺、瓊王祥。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠杀裴枢等朝臣",
+      "event_type": "政治清洗",
+      "time": "天祐二年六月戊子",
+      "place": "",
+      "participants": [
+        "朱全忠",
+        "裴樞",
+        "獨孤損",
+        "崔遠",
+        "陸扆",
+        "王溥",
+        "裴贄",
+        "趙崇",
+        "王贊"
+      ],
+      "description": "朱全忠大规模诛杀朝廷重臣",
+      "outcomes": [
+        "多位高官被杀，朝纲崩坏"
+      ],
+      "evidence": [
+        "戊子，朱全忠殺裴樞及靜海軍節度使獨孤損、左僕射崔遠、吏部尚書陸扆、工部尚書王溥、司空致仕裴贄、檢校司空兼太子太保致仕趙崇、兵部侍郎王贊。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "朱全忠弑皇太后",
+      "event_type": "弑杀",
+      "time": "天祐二年十二月戊申",
+      "place": "",
+      "participants": [
+        "朱全忠",
+        "何氏"
+      ],
+      "description": "朱全忠弑杀皇太后何氏",
+      "outcomes": [
+        "皇太后何氏遇害"
+      ],
+      "evidence": [
+        "戊申，朱全忠弒皇太后。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "哀帝逊位徙曹州",
+      "event_type": "退位",
+      "time": "天祐四年四月甲子",
+      "place": "曹州",
+      "participants": [
+        "祝"
+      ],
+      "description": "皇帝禅让退位，被迁至曹州并封济阴王",
+      "outcomes": [
+        "唐朝终结，祝失去帝位"
+      ],
+      "evidence": [
+        "甲子，皇帝遜于位，徙于曹州，號濟陰王。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "哀帝遇弑",
+      "event_type": "遇害",
+      "time": "梁開平二年二月",
+      "place": "",
+      "participants": [
+        "祝"
+      ],
+      "description": "济阴王祝在曹州被杀害",
+      "outcomes": [
+        "哀帝死亡，年十七"
+      ],
+      "evidence": [
+        "梁開平二年二月遇弒，年十七，謚曰哀帝。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "杨行密卒杨渥继任",
+      "event_type": "权力交接",
+      "time": "天祐二年十一月庚辰",
+      "place": "",
+      "participants": [
+        "楊行密",
+        "楊渥"
+      ],
+      "description": "杨行密去世，其子杨渥继任淮南节度副大使等职",
+      "outcomes": [
+        "杨渥接管淮南军政"
+      ],
+      "evidence": [
+        "庚辰，淮南節度使楊行密卒，以其子渥為淮南節度副大使、東面諸道行營都統。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "钱镠陷衢睦二州",
+      "event_type": "军事占领",
+      "time": "天祐三年六月",
+      "place": "衢州、睦州",
+      "participants": [
+        "錢鏐",
+        "陳璋",
+        "陳詢"
+      ],
+      "description": "钱镠攻占衢州、睦州，陈璋陈询逃奔淮南",
+      "outcomes": [
+        "衢睦二州归属钱镠"
+      ],
+      "evidence": [
+        "六月，錢鏐陷衢、睦二州，刺史陳璋、陳詢奔于淮南。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "唐朝灭亡",
+      "event_type": "王朝灭亡",
+      "time": "唐朝灭亡时期",
+      "place": "",
+      "participants": [
+        "昭宗"
+      ],
+      "description": "唐朝灭亡，其遗毒余酷延续至后世",
+      "outcomes": [
+        "天下分裂",
+        "大壞極亂"
+      ],
+      "evidence": [
+        "自唐之亡也，其遺毒餘酷，更五代五十餘年，至於天下分裂，大壞極亂而後止。",
+        "昭宗是已"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "event_name": "昭宗用人不当",
+      "event_type": "政治决策",
+      "time": "昭宗在位期间",
+      "place": "",
+      "participants": [
+        "昭宗"
+      ],
+      "description": "昭宗有志兴复，思得非常之材而用匪其人，导致混乱加剧",
+      "outcomes": [
+        "徒以益亂"
+      ],
+      "evidence": [
+        "昭宗為人明雋，初亦有志於興復，而外患已成，內無賢佐，頗亦慨然思得非常之材，而用匪其人，徒以益亂。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "天下分裂",
+      "event_type": "政权分裂",
+      "time": "五代时期",
+      "place": "",
+      "participants": [],
+      "description": "唐亡后天下分裂，大坏极乱持续五十余年",
+      "outcomes": [],
+      "evidence": [
+        "自唐之亡也，其遺毒餘酷，更五代五十餘年，至於天下分裂，大壞極亂而後止。"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_xintangshu_010_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "昭宗",
+      "item_ids": [
+        "wikisource_xintangshu_010_00002",
+        "wikisource_xintangshu_010_00003",
+        "wikisource_xintangshu_010_00004",
+        "wikisource_xintangshu_010_00005",
+        "wikisource_xintangshu_010_00006",
+        "wikisource_xintangshu_010_00007",
+        "wikisource_xintangshu_010_00008",
+        "wikisource_xintangshu_010_00009",
+        "wikisource_xintangshu_010_00010",
+        "wikisource_xintangshu_010_00011",
+        "wikisource_xintangshu_010_00012",
+        "wikisource_xintangshu_010_00013",
+        "wikisource_xintangshu_010_00014",
+        "wikisource_xintangshu_010_00015",
+        "wikisource_xintangshu_010_00016",
+        "wikisource_xintangshu_010_00017",
+        "wikisource_xintangshu_010_00018",
+        "wikisource_xintangshu_010_00019",
+        "wikisource_xintangshu_010_00020",
+        "wikisource_xintangshu_010_00021",
+        "wikisource_xintangshu_010_00022",
+        "wikisource_xintangshu_010_00023",
+        "wikisource_xintangshu_010_00024",
+        "wikisource_xintangshu_010_00025",
+        "wikisource_xintangshu_010_00026",
+        "wikisource_xintangshu_010_00027",
+        "wikisource_xintangshu_010_00028",
+        "wikisource_xintangshu_010_00029",
+        "wikisource_xintangshu_010_00030",
+        "wikisource_xintangshu_010_00031",
+        "wikisource_xintangshu_010_00032",
+        "wikisource_xintangshu_010_00033",
+        "wikisource_xintangshu_010_00034",
+        "wikisource_xintangshu_010_00035",
+        "wikisource_xintangshu_010_00036",
+        "wikisource_xintangshu_010_00037",
+        "wikisource_xintangshu_010_00038",
+        "wikisource_xintangshu_010_00039",
+        "wikisource_xintangshu_010_00040",
+        "wikisource_xintangshu_010_00041",
+        "wikisource_xintangshu_010_00042",
+        "wikisource_xintangshu_010_00043",
+        "wikisource_xintangshu_010_00044",
+        "wikisource_xintangshu_010_00045",
+        "wikisource_xintangshu_010_00046",
+        "wikisource_xintangshu_010_00047",
+        "wikisource_xintangshu_010_00048",
+        "wikisource_xintangshu_010_00049",
+        "wikisource_xintangshu_010_00050",
+        "wikisource_xintangshu_010_00051",
+        "wikisource_xintangshu_010_00052",
+        "wikisource_xintangshu_010_00053",
+        "wikisource_xintangshu_010_00054",
+        "wikisource_xintangshu_010_00055",
+        "wikisource_xintangshu_010_00056",
+        "wikisource_xintangshu_010_00057",
+        "wikisource_xintangshu_010_00058",
+        "wikisource_xintangshu_010_00059",
+        "wikisource_xintangshu_010_00060",
+        "wikisource_xintangshu_010_00061",
+        "wikisource_xintangshu_010_00062",
+        "wikisource_xintangshu_010_00063",
+        "wikisource_xintangshu_010_00064",
+        "wikisource_xintangshu_010_00065",
+        "wikisource_xintangshu_010_00066",
+        "wikisource_xintangshu_010_00067",
+        "wikisource_xintangshu_010_00068",
+        "wikisource_xintangshu_010_00069",
+        "wikisource_xintangshu_010_00070",
+        "wikisource_xintangshu_010_00071",
+        "wikisource_xintangshu_010_00072",
+        "wikisource_xintangshu_010_00073",
+        "wikisource_xintangshu_010_00074",
+        "wikisource_xintangshu_010_00075",
+        "wikisource_xintangshu_010_00076",
+        "wikisource_xintangshu_010_00077",
+        "wikisource_xintangshu_010_00078",
+        "wikisource_xintangshu_010_00079",
+        "wikisource_xintangshu_010_00080",
+        "wikisource_xintangshu_010_00081",
+        "wikisource_xintangshu_010_00082",
+        "wikisource_xintangshu_010_00083",
+        "wikisource_xintangshu_010_00084",
+        "wikisource_xintangshu_010_00085",
+        "wikisource_xintangshu_010_00086",
+        "wikisource_xintangshu_010_00087",
+        "wikisource_xintangshu_010_00088",
+        "wikisource_xintangshu_010_00089",
+        "wikisource_xintangshu_010_00090",
+        "wikisource_xintangshu_010_00091",
+        "wikisource_xintangshu_010_00092",
+        "wikisource_xintangshu_010_00093",
+        "wikisource_xintangshu_010_00094",
+        "wikisource_xintangshu_010_00095",
+        "wikisource_xintangshu_010_00096",
+        "wikisource_xintangshu_010_00097",
+        "wikisource_xintangshu_010_00098",
+        "wikisource_xintangshu_010_00099",
+        "wikisource_xintangshu_010_00100",
+        "wikisource_xintangshu_010_00101",
+        "wikisource_xintangshu_010_00102",
+        "wikisource_xintangshu_010_00103",
+        "wikisource_xintangshu_010_00104",
+        "wikisource_xintangshu_010_00105",
+        "wikisource_xintangshu_010_00106",
+        "wikisource_xintangshu_010_00107",
+        "wikisource_xintangshu_010_00108",
+        "wikisource_xintangshu_010_00109",
+        "wikisource_xintangshu_010_00110",
+        "wikisource_xintangshu_010_00111",
+        "wikisource_xintangshu_010_00112",
+        "wikisource_xintangshu_010_00113",
+        "wikisource_xintangshu_010_00114",
+        "wikisource_xintangshu_010_00115",
+        "wikisource_xintangshu_010_00116",
+        "wikisource_xintangshu_010_00117",
+        "wikisource_xintangshu_010_00118",
+        "wikisource_xintangshu_010_00119",
+        "wikisource_xintangshu_010_00120",
+        "wikisource_xintangshu_010_00121",
+        "wikisource_xintangshu_010_00122",
+        "wikisource_xintangshu_010_00123",
+        "wikisource_xintangshu_010_00124",
+        "wikisource_xintangshu_010_00125",
+        "wikisource_xintangshu_010_00126",
+        "wikisource_xintangshu_010_00127",
+        "wikisource_xintangshu_010_00128",
+        "wikisource_xintangshu_010_00129",
+        "wikisource_xintangshu_010_00130",
+        "wikisource_xintangshu_010_00131",
+        "wikisource_xintangshu_010_00132",
+        "wikisource_xintangshu_010_00133",
+        "wikisource_xintangshu_010_00134",
+        "wikisource_xintangshu_010_00135",
+        "wikisource_xintangshu_010_00136",
+        "wikisource_xintangshu_010_00137",
+        "wikisource_xintangshu_010_00138",
+        "wikisource_xintangshu_010_00139",
+        "wikisource_xintangshu_010_00140",
+        "wikisource_xintangshu_010_00141",
+        "wikisource_xintangshu_010_00142",
+        "wikisource_xintangshu_010_00143",
+        "wikisource_xintangshu_010_00144",
+        "wikisource_xintangshu_010_00145",
+        "wikisource_xintangshu_010_00146",
+        "wikisource_xintangshu_010_00147",
+        "wikisource_xintangshu_010_00148",
+        "wikisource_xintangshu_010_00149",
+        "wikisource_xintangshu_010_00150",
+        "wikisource_xintangshu_010_00151",
+        "wikisource_xintangshu_010_00152",
+        "wikisource_xintangshu_010_00153",
+        "wikisource_xintangshu_010_00154",
+        "wikisource_xintangshu_010_00155",
+        "wikisource_xintangshu_010_00156",
+        "wikisource_xintangshu_010_00157",
+        "wikisource_xintangshu_010_00158",
+        "wikisource_xintangshu_010_00159",
+        "wikisource_xintangshu_010_00160",
+        "wikisource_xintangshu_010_00161",
+        "wikisource_xintangshu_010_00162",
+        "wikisource_xintangshu_010_00163",
+        "wikisource_xintangshu_010_00164",
+        "wikisource_xintangshu_010_00165",
+        "wikisource_xintangshu_010_00166",
+        "wikisource_xintangshu_010_00167",
+        "wikisource_xintangshu_010_00168",
+        "wikisource_xintangshu_010_00169",
+        "wikisource_xintangshu_010_00170",
+        "wikisource_xintangshu_010_00171"
+      ]
+    },
+    {
+      "section_id": "sec_0003",
+      "section_title": "哀帝",
+      "item_ids": [
+        "wikisource_xintangshu_010_00172",
+        "wikisource_xintangshu_010_00173",
+        "wikisource_xintangshu_010_00174",
+        "wikisource_xintangshu_010_00175",
+        "wikisource_xintangshu_010_00176",
+        "wikisource_xintangshu_010_00177",
+        "wikisource_xintangshu_010_00178",
+        "wikisource_xintangshu_010_00179",
+        "wikisource_xintangshu_010_00180",
+        "wikisource_xintangshu_010_00181",
+        "wikisource_xintangshu_010_00182",
+        "wikisource_xintangshu_010_00183",
+        "wikisource_xintangshu_010_00184",
+        "wikisource_xintangshu_010_00185",
+        "wikisource_xintangshu_010_00186",
+        "wikisource_xintangshu_010_00187",
+        "wikisource_xintangshu_010_00188",
+        "wikisource_xintangshu_010_00189",
+        "wikisource_xintangshu_010_00190",
+        "wikisource_xintangshu_010_00191",
+        "wikisource_xintangshu_010_00192",
+        "wikisource_xintangshu_010_00193",
+        "wikisource_xintangshu_010_00194",
+        "wikisource_xintangshu_010_00195",
+        "wikisource_xintangshu_010_00196",
+        "wikisource_xintangshu_010_00197",
+        "wikisource_xintangshu_010_00198",
+        "wikisource_xintangshu_010_00199",
+        "wikisource_xintangshu_010_00200",
+        "wikisource_xintangshu_010_00201"
+      ]
+    },
+    {
+      "section_id": "sec_0004",
+      "section_title": "【贊】",
+      "item_ids": [
+        "wikisource_xintangshu_010_00202",
+        "wikisource_xintangshu_010_00203",
+        "wikisource_xintangshu_010_00204"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "work": "新唐書",
+  "volume": "003",
+  "page_title": "新唐書/卷003",
+  "url": "https://zh.wikisource.org/wiki/%E6%96%B0%E5%94%90%E6%9B%B8%2F%E5%8D%B7003",
+  "generated_at": "2026-02-16T04:29:52.489908+00:00",
+  "time_anchors": [
+    {
+      "text": "貞觀七年",
+      "normalized": "貞觀七年",
+      "evidence": "貞觀七年，遙領幷州都督。",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀十七年",
+      "normalized": "貞觀十七年",
+      "evidence": "十七年，太子承乾廢，而魏王泰次當立，亦以罪黜，乃立子治為皇太子。",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀二十三年四月",
+      "normalized": "貞觀二十三年四月",
+      "evidence": "四月，從幸翠微宮。太宗崩，以羽檄發六府甲士四千，衞皇太子入于京師。",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀二十三年六月甲戌",
+      "normalized": "貞觀二十三年六月甲戌",
+      "evidence": "六月甲戌，即皇帝位于柩前。",
+      "confidence": 0.95
+    },
+    {
+      "text": "永徽元年正月辛丑",
+      "normalized": "永徽元年正月辛丑",
+      "evidence": "永徽元年正月辛丑，改元。丙午，立妃王氏為皇后。",
+      "confidence": 0.95
+    },
+    {
+      "text": "永徽六年十月乙卯",
+      "normalized": "永徽六年十月乙卯",
+      "evidence": "十月...乙卯，立宸妃武氏為皇后。",
+      "confidence": 0.95
+    },
+    {
+      "text": "顯慶二年十二月丁巳",
+      "normalized": "顯慶二年十二月丁巳",
+      "evidence": "十二月乙卯，如洛陽宮。丁巳，蘇定方敗賀魯于金牙山，執之。",
+      "confidence": 0.95
+    },
+    {
+      "text": "乾封元年正月戊辰",
+      "normalized": "乾封元年正月戊辰",
+      "evidence": "乾封元年正月戊辰，封于泰山。",
+      "confidence": 0.95
+    },
+    {
+      "text": "弘道元年十二月丁巳",
+      "normalized": "弘道元年十二月丁巳",
+      "evidence": "十二月丁巳，改元，大赦。是夕，皇帝崩于貞觀殿，年五十六。",
+      "confidence": 0.95
+    }
+  ],
+  "people": [
+    {
+      "name": "李治",
+      "aliases": [
+        "晉王",
+        "高宗",
+        "皇太子",
+        "天皇大聖大弘孝皇帝",
+        "皇帝"
+      ],
+      "roles": [
+        "皇帝",
+        "皇太子",
+        "皇子"
+      ],
+      "offices": [
+        "幷州都督（遙領）"
+      ],
+      "evidence": [
+        "高宗天皇大聖大弘孝皇帝諱治，字為善，太宗第九子也。",
+        "始封晉王，貞觀七年，遙領幷州都督。",
+        "乃立子治為皇太子。",
+        "六月甲戌，即皇帝位于柩前。"
+      ]
+    },
+    {
+      "name": "長孫氏",
+      "aliases": [
+        "文德皇后"
+      ],
+      "roles": [
+        "皇后",
+        "母親"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰文德皇后長孫氏。"
+      ]
+    },
+    {
+      "name": "李世民",
+      "aliases": [
+        "文皇帝",
+        "太宗"
+      ],
+      "roles": [
+        "皇帝",
+        "父親"
+      ],
+      "offices": [],
+      "evidence": [
+        "太宗第九子也",
+        "太宗崩",
+        "葬文皇帝于昭陵"
+      ]
+    },
+    {
+      "name": "武氏",
+      "aliases": [
+        "皇后",
+        "武則天",
+        "天后",
+        "宸妃"
+      ],
+      "roles": [
+        "皇后",
+        "宸妃"
+      ],
+      "offices": [],
+      "evidence": [
+        "立宸妃武氏為皇后",
+        "皇后見于太廟",
+        "皇帝稱天皇，皇后稱天后"
+      ]
+    },
+    {
+      "name": "王氏",
+      "aliases": [
+        "王皇后"
+      ],
+      "roles": [
+        "皇后",
+        "庶人"
+      ],
+      "offices": [],
+      "evidence": [
+        "立妃王氏為皇后",
+        "廢皇后為庶人"
+      ]
+    },
+    {
+      "name": "長孫無忌",
+      "aliases": [],
+      "roles": [
+        "大臣"
+      ],
+      "offices": [
+        "太尉"
+      ],
+      "evidence": [
+        "癸未，長孫无忌為太尉。",
+        "戊辰，流長孫无忌于黔州。"
+      ]
+    },
+    {
+      "name": "李勣",
+      "aliases": [
+        "李𪟝"
+      ],
+      "roles": [
+        "將領",
+        "大臣"
+      ],
+      "offices": [
+        "開府儀同三司",
+        "尚書左僕射",
+        "司空"
+      ],
+      "evidence": [
+        "癸巳，檢校洛州刺史李勣為開府儀同三司",
+        "乙卯，李勣為尚書左僕射",
+        "己亥，徐王元禮為司徒，李勣為司空。"
+      ]
+    },
+    {
+      "name": "褚遂良",
+      "aliases": [],
+      "roles": [
+        "大臣"
+      ],
+      "offices": [
+        "吏部尚書",
+        "尚書右僕射",
+        "同州刺史"
+      ],
+      "evidence": [
+        "十一月己未，貶褚遂良為同州刺史。",
+        "己巳，褚遂良為吏部尚書",
+        "九月庚午，貶褚遂良為潭州都督。"
+      ]
+    },
+    {
+      "name": "蘇定方",
+      "aliases": [],
+      "roles": [
+        "將領"
+      ],
+      "offices": [
+        "伊麗道行軍總管"
+      ],
+      "evidence": [
+        "庚戌，右屯衞將軍蘇定方為伊麗道行軍總管，以伐賀魯。",
+        "丁巳，蘇定方敗賀魯于金牙山，執之。"
+      ]
+    },
+    {
+      "name": "李忠",
+      "aliases": [
+        "皇太子",
+        "庶人忠",
+        "梁王",
+        "陳王忠"
+      ],
+      "roles": [
+        "皇太子",
+        "梁王"
+      ],
+      "offices": [],
+      "evidence": [
+        "七月丁巳，立陳王忠為皇太子",
+        "顯慶元年正月辛未，廢皇太子為梁王",
+        "戊子，殺庶人忠。"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "幷州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "遙領幷州都督。"
+      ]
+    },
+    {
+      "name": "金液門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "詔皇太子聽政於金液門。"
+      ]
+    },
+    {
+      "name": "京師",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "衞皇太子入于京師。"
+      ]
+    },
+    {
+      "name": "昭陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "庚寅，葬文皇帝于昭陵。",
+        "六年正月壬申，拜昭陵"
+      ]
+    },
+    {
+      "name": "東都",
+      "aliases": [
+        "洛陽宮"
+      ],
+      "type": "REGION",
+      "evidence": [
+        "丁卯，以洛陽宮為東都。",
+        "如東都"
+      ]
+    },
+    {
+      "name": "翠微宮",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "四月，從幸翠微宮。"
+      ]
+    },
+    {
+      "name": "晉州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "十一月乙丑，晉州地震。",
+        "四月己巳，晉州地震。"
+      ]
+    },
+    {
+      "name": "突厥",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "左翊衞郎將高偘伐突厥。",
+        "高偘及突厥戰于金山，敗之。"
+      ]
+    },
+    {
+      "name": "高麗",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "二月乙丑，營州都督程名振、左衞中郎將蘇定方伐高麗。",
+        "六月壬寅，高麗泉男生請內附"
+      ]
+    },
+    {
+      "name": "泰山",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "乾封元年正月戊辰，封于泰山。"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "李治",
+      "to": "李世民",
+      "relation": "父子",
+      "time": "貞觀年間",
+      "place": "",
+      "evidence": "太宗第九子也",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李治",
+      "to": "長孫氏",
+      "relation": "母子",
+      "time": "",
+      "place": "",
+      "evidence": "母曰文德皇后長孫氏。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李治",
+      "to": "皇太子",
+      "relation": "被立為",
+      "time": "貞觀十七年",
+      "place": "",
+      "evidence": "乃立子治為皇太子。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李治",
+      "to": "皇帝",
+      "relation": "即位",
+      "time": "貞觀二十三年六月甲戌",
+      "place": "柩前",
+      "evidence": "六月甲戌，即皇帝位于柩前。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李治",
+      "to": "王氏",
+      "relation": "夫妻（立后）",
+      "time": "永徽元年正月丙午",
+      "place": "",
+      "evidence": "丙午，立妃王氏為皇后。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "李治",
+      "to": "武氏",
+      "relation": "夫妻（立后）",
+      "time": "永徽六年十月乙卯",
+      "place": "",
+      "evidence": "乙卯，立宸妃武氏為皇后。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "長孫無忌",
+      "to": "太尉",
+      "relation": "任命",
+      "time": "貞觀二十三年六月癸未",
+      "place": "",
+      "evidence": "癸未，長孫无忌為太尉。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李勣",
+      "to": "開府儀同三司",
+      "relation": "任命",
+      "time": "貞觀二十三年六月癸巳",
+      "place": "",
+      "evidence": "癸巳，檢校洛州刺史李勣為開府儀同三司，參掌機密。",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "李治",
+      "to": "昭陵",
+      "relation": "拜謁",
+      "time": "永徽六年正月壬申",
+      "place": "昭陵",
+      "evidence": "六年正月壬申，拜昭陵，赦醴泉及行從",
+      "confidence": 0.95
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "蘇定方",
+      "to": "俘賀魯",
+      "relation": "執行",
+      "time": "顯慶二年十二月丁巳",
+      "place": "金牙山",
+      "evidence": "丁巳，蘇定方敗賀魯于金牙山，執之。",
+      "confidence": 0.95
+    }
+  ],
+  "events": [
+    {
+      "event_name": "立李治為皇太子",
+      "event_type": "冊封",
+      "time": "貞觀十七年",
+      "place": "",
+      "participants": [
+        "李世民",
+        "李治"
+      ],
+      "description": "太子李承乾被廢，魏王李泰被黜，立晉王李治為皇太子",
+      "outcomes": [
+        "李治成為皇太子"
+      ],
+      "evidence": "十七年，太子承乾廢，而魏王泰次當立，亦以罪黜，乃立子治為皇太子。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "唐太宗駕崩",
+      "event_type": "帝王逝世",
+      "time": "貞觀二十三年四月",
+      "place": "翠微宮",
+      "participants": [
+        "李世民",
+        "李治"
+      ],
+      "description": "太宗病重駕崩，發兵護送皇太子入京",
+      "outcomes": [
+        "李治繼位準備"
+      ],
+      "evidence": "四月，從幸翠微宮。太宗崩，以羽檄發六府甲士四千，衞皇太子入于京師。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "李治即皇帝位",
+      "event_type": "即位",
+      "time": "貞觀二十三年六月甲戌",
+      "place": "柩前",
+      "participants": [
+        "李治"
+      ],
+      "description": "於太宗靈柩前即位，大赦天下",
+      "outcomes": [
+        "改元永徽，頒布赦令與賞賜"
+      ],
+      "evidence": "六月甲戌，即皇帝位于柩前。大赦，賜文武官勳一轉，民八十以上粟帛...",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "立王氏為皇后",
+      "event_type": "冊封",
+      "time": "永徽元年正月丙午",
+      "place": "",
+      "participants": [
+        "李治",
+        "王氏"
+      ],
+      "description": "冊立妃子王氏為皇后",
+      "outcomes": [
+        "王氏成為皇后"
+      ],
+      "evidence": "永徽元年正月辛丑，改元。丙午，立妃王氏為皇后。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "立武氏為皇后",
+      "event_type": "冊封",
+      "time": "永徽六年十月乙卯",
+      "place": "",
+      "participants": [
+        "李治",
+        "武氏"
+      ],
+      "description": "廢王皇后，立宸妃武氏為皇后",
+      "outcomes": [
+        "武氏成為皇后，大赦"
+      ],
+      "evidence": "十月...己酉，廢皇后為庶人。乙卯，立宸妃武氏為皇后。丁巳，大赦...",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "蘇定方俘賀魯",
+      "event_type": "軍事勝利",
+      "time": "顯慶二年十二月丁巳",
+      "place": "金牙山",
+      "participants": [
+        "蘇定方",
+        "阿史那賀魯"
+      ],
+      "description": "蘇定方率軍擊敗西突厥賀魯並俘虜",
+      "outcomes": [
+        "平定西突厥叛亂"
+      ],
+      "evidence": "丁巳，蘇定方敗賀魯于金牙山，執之。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "封禪泰山",
+      "event_type": "祭祀",
+      "time": "乾封元年正月戊辰至庚午",
+      "place": "泰山、社首",
+      "participants": [
+        "李治",
+        "武后"
+      ],
+      "description": "高宗與皇后於泰山舉行封禪大典",
+      "outcomes": [
+        "大赦改元，加封文武"
+      ],
+      "evidence": "乾封元年正月戊辰，封于泰山。庚午，禪于社首，以皇后為亞獻。壬申，大赦，改元。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "唐高宗駕崩",
+      "event_type": "帝王逝世",
+      "time": "弘道元年十二月丁巳",
+      "place": "貞觀殿",
+      "participants": [
+        "李治"
+      ],
+      "description": "高宗於貞觀殿逝世，享年五十六",
+      "outcomes": [
+        "謚號初定，後經追加"
+      ],
+      "evidence": "十二月丁巳，改元，大赦。是夕，皇帝崩于貞觀殿，年五十六。謚曰天皇大帝。天寶八載，改謚天皇大聖皇帝；十三載，增謚天皇大聖大弘孝皇帝。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "晉州地震",
+      "event_type": "自然災害",
+      "time": "貞觀二十三年十一月乙丑",
+      "place": "晉州",
+      "participants": [],
+      "description": "晉州發生地震",
+      "outcomes": [
+        "朝廷遣使存問、賜復"
+      ],
+      "evidence": "十一月乙丑，晉州地震。",
+      "confidence": 0.95
+    },
+    {
+      "event_name": "廢皇太子李忠",
+      "event_type": "政治事件",
+      "time": "顯慶元年正月辛未",
+      "place": "",
+      "participants": [
+        "李治",
+        "李忠"
+      ],
+      "description": "廢黜皇太子李忠，改立代王李弘",
+      "outcomes": [
+        "李忠降為梁王，李弘立為太子"
+      ],
+      "evidence": "顯慶元年正月辛未，廢皇太子為梁王，立代王弘為皇太子。",
+      "confidence": 0.95
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_xintangshu_003_00001",
+        "wikisource_xintangshu_003_00002",
+        "wikisource_xintangshu_003_00003",
+        "wikisource_xintangshu_003_00004",
+        "wikisource_xintangshu_003_00005",
+        "wikisource_xintangshu_003_00006",
+        "wikisource_xintangshu_003_00007",
+        "wikisource_xintangshu_003_00008",
+        "wikisource_xintangshu_003_00009",
+        "wikisource_xintangshu_003_00010",
+        "wikisource_xintangshu_003_00011",
+        "wikisource_xintangshu_003_00012",
+        "wikisource_xintangshu_003_00013",
+        "wikisource_xintangshu_003_00014",
+        "wikisource_xintangshu_003_00015",
+        "wikisource_xintangshu_003_00016",
+        "wikisource_xintangshu_003_00017",
+        "wikisource_xintangshu_003_00018",
+        "wikisource_xintangshu_003_00019",
+        "wikisource_xintangshu_003_00020",
+        "wikisource_xintangshu_003_00021",
+        "wikisource_xintangshu_003_00022",
+        "wikisource_xintangshu_003_00023",
+        "wikisource_xintangshu_003_00024",
+        "wikisource_xintangshu_003_00025",
+        "wikisource_xintangshu_003_00026",
+        "wikisource_xintangshu_003_00027",
+        "wikisource_xintangshu_003_00028",
+        "wikisource_xintangshu_003_00029",
+        "wikisource_xintangshu_003_00030",
+        "wikisource_xintangshu_003_00031",
+        "wikisource_xintangshu_003_00032",
+        "wikisource_xintangshu_003_00033",
+        "wikisource_xintangshu_003_00034",
+        "wikisource_xintangshu_003_00035",
+        "wikisource_xintangshu_003_00036",
+        "wikisource_xintangshu_003_00037",
+        "wikisource_xintangshu_003_00038",
+        "wikisource_xintangshu_003_00039",
+        "wikisource_xintangshu_003_00040",
+        "wikisource_xintangshu_003_00041",
+        "wikisource_xintangshu_003_00042",
+        "wikisource_xintangshu_003_00043",
+        "wikisource_xintangshu_003_00044",
+        "wikisource_xintangshu_003_00045",
+        "wikisource_xintangshu_003_00046",
+        "wikisource_xintangshu_003_00047",
+        "wikisource_xintangshu_003_00048",
+        "wikisource_xintangshu_003_00049",
+        "wikisource_xintangshu_003_00050",
+        "wikisource_xintangshu_003_00051",
+        "wikisource_xintangshu_003_00052",
+        "wikisource_xintangshu_003_00053",
+        "wikisource_xintangshu_003_00054",
+        "wikisource_xintangshu_003_00055",
+        "wikisource_xintangshu_003_00056",
+        "wikisource_xintangshu_003_00057",
+        "wikisource_xintangshu_003_00058",
+        "wikisource_xintangshu_003_00059",
+        "wikisource_xintangshu_003_00060",
+        "wikisource_xintangshu_003_00061",
+        "wikisource_xintangshu_003_00062",
+        "wikisource_xintangshu_003_00063",
+        "wikisource_xintangshu_003_00064",
+        "wikisource_xintangshu_003_00065",
+        "wikisource_xintangshu_003_00066",
+        "wikisource_xintangshu_003_00067",
+        "wikisource_xintangshu_003_00068",
+        "wikisource_xintangshu_003_00069",
+        "wikisource_xintangshu_003_00070",
+        "wikisource_xintangshu_003_00071",
+        "wikisource_xintangshu_003_00072",
+        "wikisource_xintangshu_003_00073",
+        "wikisource_xintangshu_003_00074",
+        "wikisource_xintangshu_003_00075",
+        "wikisource_xintangshu_003_00076",
+        "wikisource_xintangshu_003_00077",
+        "wikisource_xintangshu_003_00078",
+        "wikisource_xintangshu_003_00079",
+        "wikisource_xintangshu_003_00080",
+        "wikisource_xintangshu_003_00081",
+        "wikisource_xintangshu_003_00082",
+        "wikisource_xintangshu_003_00083",
+        "wikisource_xintangshu_003_00084",
+        "wikisource_xintangshu_003_00085",
+        "wikisource_xintangshu_003_00086",
+        "wikisource_xintangshu_003_00087",
+        "wikisource_xintangshu_003_00088",
+        "wikisource_xintangshu_003_00089",
+        "wikisource_xintangshu_003_00090",
+        "wikisource_xintangshu_003_00091",
+        "wikisource_xintangshu_003_00092",
+        "wikisource_xintangshu_003_00093",
+        "wikisource_xintangshu_003_00094",
+        "wikisource_xintangshu_003_00095",
+        "wikisource_xintangshu_003_00096",
+        "wikisource_xintangshu_003_00097",
+        "wikisource_xintangshu_003_00098",
+        "wikisource_xintangshu_003_00099",
+        "wikisource_xintangshu_003_00100",
+        "wikisource_xintangshu_003_00101",
+        "wikisource_xintangshu_003_00102",
+        "wikisource_xintangshu_003_00103",
+        "wikisource_xintangshu_003_00104",
+        "wikisource_xintangshu_003_00105",
+        "wikisource_xintangshu_003_00106",
+        "wikisource_xintangshu_003_00107",
+        "wikisource_xintangshu_003_00108",
+        "wikisource_xintangshu_003_00109",
+        "wikisource_xintangshu_003_00110",
+        "wikisource_xintangshu_003_00111",
+        "wikisource_xintangshu_003_00112",
+        "wikisource_xintangshu_003_00113",
+        "wikisource_xintangshu_003_00114",
+        "wikisource_xintangshu_003_00115",
+        "wikisource_xintangshu_003_00116",
+        "wikisource_xintangshu_003_00117",
+        "wikisource_xintangshu_003_00118",
+        "wikisource_xintangshu_003_00119",
+        "wikisource_xintangshu_003_00120",
+        "wikisource_xintangshu_003_00121",
+        "wikisource_xintangshu_003_00122",
+        "wikisource_xintangshu_003_00123",
+        "wikisource_xintangshu_003_00124",
+        "wikisource_xintangshu_003_00125",
+        "wikisource_xintangshu_003_00126",
+        "wikisource_xintangshu_003_00127",
+        "wikisource_xintangshu_003_00128",
+        "wikisource_xintangshu_003_00129",
+        "wikisource_xintangshu_003_00130",
+        "wikisource_xintangshu_003_00131",
+        "wikisource_xintangshu_003_00132",
+        "wikisource_xintangshu_003_00133",
+        "wikisource_xintangshu_003_00134",
+        "wikisource_xintangshu_003_00135",
+        "wikisource_xintangshu_003_00136",
+        "wikisource_xintangshu_003_00137",
+        "wikisource_xintangshu_003_00138",
+        "wikisource_xintangshu_003_00139",
+        "wikisource_xintangshu_003_00140",
+        "wikisource_xintangshu_003_00141",
+        "wikisource_xintangshu_003_00142",
+        "wikisource_xintangshu_003_00143",
+        "wikisource_xintangshu_003_00144",
+        "wikisource_xintangshu_003_00145",
+        "wikisource_xintangshu_003_00146",
+        "wikisource_xintangshu_003_00147",
+        "wikisource_xintangshu_003_00148",
+        "wikisource_xintangshu_003_00149",
+        "wikisource_xintangshu_003_00150",
+        "wikisource_xintangshu_003_00151",
+        "wikisource_xintangshu_003_00152",
+        "wikisource_xintangshu_003_00153",
+        "wikisource_xintangshu_003_00154",
+        "wikisource_xintangshu_003_00155",
+        "wikisource_xintangshu_003_00156",
+        "wikisource_xintangshu_003_00157",
+        "wikisource_xintangshu_003_00158",
+        "wikisource_xintangshu_003_00159",
+        "wikisource_xintangshu_003_00160",
+        "wikisource_xintangshu_003_00161",
+        "wikisource_xintangshu_003_00162",
+        "wikisource_xintangshu_003_00163",
+        "wikisource_xintangshu_003_00164",
+        "wikisource_xintangshu_003_00165",
+        "wikisource_xintangshu_003_00166",
+        "wikisource_xintangshu_003_00167",
+        "wikisource_xintangshu_003_00168",
+        "wikisource_xintangshu_003_00169",
+        "wikisource_xintangshu_003_00170",
+        "wikisource_xintangshu_003_00171",
+        "wikisource_xintangshu_003_00172",
+        "wikisource_xintangshu_003_00173",
+        "wikisource_xintangshu_003_00174",
+        "wikisource_xintangshu_003_00175",
+        "wikisource_xintangshu_003_00176",
+        "wikisource_xintangshu_003_00177",
+        "wikisource_xintangshu_003_00178",
+        "wikisource_xintangshu_003_00179",
+        "wikisource_xintangshu_003_00180",
+        "wikisource_xintangshu_003_00181",
+        "wikisource_xintangshu_003_00182",
+        "wikisource_xintangshu_003_00183",
+        "wikisource_xintangshu_003_00184",
+        "wikisource_xintangshu_003_00185",
+        "wikisource_xintangshu_003_00186",
+        "wikisource_xintangshu_003_00187",
+        "wikisource_xintangshu_003_00188",
+        "wikisource_xintangshu_003_00189",
+        "wikisource_xintangshu_003_00190",
+        "wikisource_xintangshu_003_00191",
+        "wikisource_xintangshu_003_00192",
+        "wikisource_xintangshu_003_00193",
+        "wikisource_xintangshu_003_00194",
+        "wikisource_xintangshu_003_00195",
+        "wikisource_xintangshu_003_00196",
+        "wikisource_xintangshu_003_00197",
+        "wikisource_xintangshu_003_00198",
+        "wikisource_xintangshu_003_00199",
+        "wikisource_xintangshu_003_00200",
+        "wikisource_xintangshu_003_00201",
+        "wikisource_xintangshu_003_00202",
+        "wikisource_xintangshu_003_00203",
+        "wikisource_xintangshu_003_00204",
+        "wikisource_xintangshu_003_00205",
+        "wikisource_xintangshu_003_00206",
+        "wikisource_xintangshu_003_00207",
+        "wikisource_xintangshu_003_00208",
+        "wikisource_xintangshu_003_00209",
+        "wikisource_xintangshu_003_00210",
+        "wikisource_xintangshu_003_00211",
+        "wikisource_xintangshu_003_00212",
+        "wikisource_xintangshu_003_00213",
+        "wikisource_xintangshu_003_00214",
+        "wikisource_xintangshu_003_00215",
+        "wikisource_xintangshu_003_00216",
+        "wikisource_xintangshu_003_00217",
+        "wikisource_xintangshu_003_00218",
+        "wikisource_xintangshu_003_00219",
+        "wikisource_xintangshu_003_00220",
+        "wikisource_xintangshu_003_00221",
+        "wikisource_xintangshu_003_00222",
+        "wikisource_xintangshu_003_00223",
+        "wikisource_xintangshu_003_00224",
+        "wikisource_xintangshu_003_00225",
+        "wikisource_xintangshu_003_00226",
+        "wikisource_xintangshu_003_00227",
+        "wikisource_xintangshu_003_00228",
+        "wikisource_xintangshu_003_00229",
+        "wikisource_xintangshu_003_00230",
+        "wikisource_xintangshu_003_00231",
+        "wikisource_xintangshu_003_00232",
+        "wikisource_xintangshu_003_00233",
+        "wikisource_xintangshu_003_00234",
+        "wikisource_xintangshu_003_00235",
+        "wikisource_xintangshu_003_00236",
+        "wikisource_xintangshu_003_00237",
+        "wikisource_xintangshu_003_00238",
+        "wikisource_xintangshu_003_00239",
+        "wikisource_xintangshu_003_00240",
+        "wikisource_xintangshu_003_00241",
+        "wikisource_xintangshu_003_00242",
+        "wikisource_xintangshu_003_00243",
+        "wikisource_xintangshu_003_00244",
+        "wikisource_xintangshu_003_00245",
+        "wikisource_xintangshu_003_00246",
+        "wikisource_xintangshu_003_00247",
+        "wikisource_xintangshu_003_00248",
+        "wikisource_xintangshu_003_00249",
+        "wikisource_xintangshu_003_00250",
+        "wikisource_xintangshu_003_00251",
+        "wikisource_xintangshu_003_00252",
+        "wikisource_xintangshu_003_00253",
+        "wikisource_xintangshu_003_00254",
+        "wikisource_xintangshu_003_00255",
+        "wikisource_xintangshu_003_00256",
+        "wikisource_xintangshu_003_00257",
+        "wikisource_xintangshu_003_00258",
+        "wikisource_xintangshu_003_00259",
+        "wikisource_xintangshu_003_00260",
+        "wikisource_xintangshu_003_00261",
+        "wikisource_xintangshu_003_00262",
+        "wikisource_xintangshu_003_00263",
+        "wikisource_xintangshu_003_00264",
+        "wikisource_xintangshu_003_00265",
+        "wikisource_xintangshu_003_00266",
+        "wikisource_xintangshu_003_00267",
+        "wikisource_xintangshu_003_00268",
+        "wikisource_xintangshu_003_00269",
+        "wikisource_xintangshu_003_00270",
+        "wikisource_xintangshu_003_00271",
+        "wikisource_xintangshu_003_00272",
+        "wikisource_xintangshu_003_00273",
+        "wikisource_xintangshu_003_00274",
+        "wikisource_xintangshu_003_00275",
+        "wikisource_xintangshu_003_00276",
+        "wikisource_xintangshu_003_00277",
+        "wikisource_xintangshu_003_00278",
+        "wikisource_xintangshu_003_00279",
+        "wikisource_xintangshu_003_00280",
+        "wikisource_xintangshu_003_00281",
+        "wikisource_xintangshu_003_00282",
+        "wikisource_xintangshu_003_00283",
+        "wikisource_xintangshu_003_00284",
+        "wikisource_xintangshu_003_00285",
+        "wikisource_xintangshu_003_00286",
+        "wikisource_xintangshu_003_00287"
+      ]
+    }
+  ]
+}

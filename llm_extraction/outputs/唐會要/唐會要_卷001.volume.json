@@ -1,0 +1,543 @@
+{
+  "work": "唐會要",
+  "volume": "001",
+  "page_title": "唐會要/卷001",
+  "url": "https://zh.wikisource.org/wiki/%E5%94%90%E6%9C%83%E8%A6%81%2F%E5%8D%B7001",
+  "generated_at": "2026-02-16T03:25:17.701867+00:00",
+  "time_anchors": [
+    {
+      "text": "宋",
+      "normalized": "宋代",
+      "evidence": "宋[[作者:王溥|王溥]]撰",
+      "confidence": 0.9
+    },
+    {
+      "text": "武德元年六月二十二日",
+      "normalized": "武德元年六月二十二日",
+      "evidence": "武德元年六月二十二日，追尊爲宣簡公。",
+      "confidence": 0.9
+    },
+    {
+      "text": "咸亨五年八月十五日",
+      "normalized": "咸亨五年八月十五日",
+      "evidence": "咸亨五年八月十五日，追尊宣皇帝，廟號獻祖，葬建初陵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "儀鳳二年五月一日",
+      "normalized": "儀鳳二年五月一日",
+      "evidence": "儀鳳二年五月一日，追封爲建昌陵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元二十八年七月十八日",
+      "normalized": "開元二十八年七月十八日",
+      "evidence": "開元二十八年七月十八日，詔改爲建初陵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "隋義寧二年五月二十日",
+      "normalized": "隋義寧二年五月二十日",
+      "evidence": "隋義寧二年五月二十日，受禪於太極殿。",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞觀九年五月六日",
+      "normalized": "貞觀九年五月六日",
+      "evidence": "貞觀九年五月六日崩于大安宮垂拱前殿。",
+      "confidence": 0.9
+    },
+    {
+      "text": "上元三年|676年",
+      "normalized": "676",
+      "evidence": "{{YL|上元三年|676年}}十一月三日，改爲儀鳳。",
+      "confidence": 0.9
+    },
+    {
+      "text": "天授元年|690年",
+      "normalized": "690",
+      "evidence": "{{YL|天授元年|690年}}九月，降爲皇嗣，仍名輪。",
+      "confidence": 0.9
+    },
+    {
+      "text": "延和元年|712年",
+      "normalized": "712",
+      "evidence": "{{YL|延和元年|712年}}八月二十五日，傳位。",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾元元年|758年",
+      "normalized": "758",
+      "evidence": "{{YL|乾元元年|758年}}正月五日，加尊號太上至道聖皇天帝。",
+      "confidence": 0.9
+    },
+    {
+      "text": "廣德元年|763年",
+      "normalized": "763",
+      "evidence": "{{YL|廣德元年|763年}}三月辛酉，葬泰陵。",
+      "confidence": 0.9
+    }
+  ],
+  "people": [
+    {
+      "name": "王溥",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "宋[[作者:王溥|王溥]]撰"
+      ]
+    },
+    {
+      "name": "熙",
+      "aliases": [
+        "宣簡公",
+        "獻祖",
+        "宣皇帝"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [
+        "宣簡公"
+      ],
+      "evidence": [
+        "獻祖宣皇帝諱熙。",
+        "武德元年六月二十二日，追尊爲宣簡公。",
+        "咸亨五年八月十五日，追尊宣皇帝，廟號獻祖"
+      ]
+    },
+    {
+      "name": "天賜",
+      "aliases": [
+        "懿祖",
+        "光皇帝",
+        "懿王"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [
+        "懿王"
+      ],
+      "evidence": [
+        "懿祖光皇帝諱天賜。",
+        "宣皇帝長子。",
+        "武德元年六月二十二日，追尊懿王。",
+        "咸亨五年八月十五日，追尊光皇帝，廟號懿祖"
+      ]
+    },
+    {
+      "name": "虎",
+      "aliases": [
+        "太祖",
+        "景皇帝"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "太祖景皇帝諱虎。",
+        "光皇帝第二子。",
+        "武德元年六月二十二日，追尊景皇帝，廟號太祖"
+      ]
+    },
+    {
+      "name": "淵",
+      "aliases": [
+        "神堯大聖大光孝皇帝",
+        "大武皇帝",
+        "高祖"
+      ],
+      "roles": [
+        "皇帝",
+        "太上皇"
+      ],
+      "offices": [],
+      "evidence": [
+        "高祖神堯大聖大光孝皇帝諱淵。",
+        "隋義寧二年五月二十日，受禪於太極殿。",
+        "武德九年八月八日，傳位，稱太上皇。",
+        "諡曰大武皇帝，廟號高祖"
+      ]
+    },
+    {
+      "name": "世民",
+      "aliases": [
+        "文皇帝",
+        "文武大聖大廣孝皇帝",
+        "太宗",
+        "秦王"
+      ],
+      "roles": [
+        "皇帝",
+        "皇太子"
+      ],
+      "offices": [
+        "秦王"
+      ],
+      "evidence": [
+        "太宗文武大聖大廣孝皇帝諱世民。",
+        "武德元年六月一日，封秦王。",
+        "九年六月七日，册爲皇太子；八月九日，卽位於東宮顯德殿。",
+        "諡曰文皇帝，廟號太宗"
+      ]
+    },
+    {
+      "name": "暠",
+      "aliases": [
+        "涼武昭王"
+      ],
+      "roles": [
+        "王"
+      ],
+      "offices": [
+        "涼武昭王"
+      ],
+      "evidence": [
+        "涼武昭王暠曾孫"
+      ]
+    },
+    {
+      "name": "重耳",
+      "aliases": [
+        "弘農太守"
+      ],
+      "roles": [],
+      "offices": [
+        "弘農太守"
+      ],
+      "evidence": [
+        "弘農太守重耳之子也。"
+      ]
+    },
+    {
+      "name": "獨孤氏",
+      "aliases": [
+        "元貞皇后"
+      ],
+      "roles": [
+        "皇后"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰元貞皇后獨孤氏。"
+      ]
+    },
+    {
+      "name": "竇氏",
+      "aliases": [
+        "太穆順聖皇后"
+      ],
+      "roles": [
+        "皇后"
+      ],
+      "offices": [],
+      "evidence": [
+        "母曰太穆順聖皇后竇氏。"
+      ]
+    },
+    {
+      "name": "裴寂",
+      "aliases": [],
+      "roles": [
+        "宰相"
+      ],
+      "offices": [
+        "宰相"
+      ],
+      "evidence": [
+        "宰相十六人：秦王、裴寂、劉文靜、蕭瑀..."
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "建初陵",
+      "aliases": [
+        "建昌陵"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "葬建初陵。",
+        "儀鳳二年五月一日，追封爲建昌陵。",
+        "開元二十八年七月十八日，詔改爲建初陵。"
+      ]
+    },
+    {
+      "name": "趙州昭慶縣",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "在趙州昭慶縣界。"
+      ]
+    },
+    {
+      "name": "太極殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "受禪於太極殿。"
+      ]
+    },
+    {
+      "name": "大安宮垂拱前殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "貞觀九年五月六日崩于大安宮垂拱前殿。"
+      ]
+    },
+    {
+      "name": "京兆府三原縣",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "在京兆府三原縣界。"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_EVENT",
+      "from": "王溥",
+      "to": "撰写",
+      "relation": "撰写者",
+      "time": "宋代",
+      "place": "",
+      "evidence": "宋[[作者:王溥|王溥]]撰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "熙",
+      "to": "暠",
+      "relation": "曾孙",
+      "time": "",
+      "place": "",
+      "evidence": "涼武昭王暠曾孫",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "熙",
+      "to": "重耳",
+      "relation": "子",
+      "time": "",
+      "place": "",
+      "evidence": "弘農太守重耳之子也。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "天賜",
+      "to": "熙",
+      "relation": "子",
+      "time": "",
+      "place": "",
+      "evidence": "宣皇帝長子。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "虎",
+      "to": "天賜",
+      "relation": "子",
+      "time": "",
+      "place": "",
+      "evidence": "光皇帝第二子。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "淵",
+      "to": "昺",
+      "relation": "子",
+      "time": "",
+      "place": "",
+      "evidence": "元皇帝第四子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "淵",
+      "to": "獨孤氏",
+      "relation": "母子",
+      "time": "",
+      "place": "",
+      "evidence": "母曰元貞皇后獨孤氏。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "裴寂",
+      "to": "宰相",
+      "relation": "担任",
+      "time": "高祖时期",
+      "place": "",
+      "evidence": "宰相十六人：秦王、裴寂、劉文靜、蕭瑀...",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "熙",
+      "to": "建初陵",
+      "relation": "葬于",
+      "time": "咸亨五年八月十五日",
+      "place": "",
+      "evidence": "葬建初陵。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "淵",
+      "to": "太極殿",
+      "relation": "受禅于",
+      "time": "隋義寧二年五月二十日",
+      "place": "",
+      "evidence": "受禪於太極殿。",
+      "confidence": 0.9
+    }
+  ],
+  "events": [
+    {
+      "event_name": "撰写",
+      "event_type": "著作",
+      "time": "宋代",
+      "place": "",
+      "participants": [
+        "王溥"
+      ],
+      "description": "撰",
+      "outcomes": [],
+      "evidence": [
+        "宋[[作者:王溥|王溥]]撰"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追尊宣簡公",
+      "event_type": "追尊",
+      "time": "武德元年六月二十二日",
+      "place": "",
+      "participants": [
+        "熙"
+      ],
+      "description": "追尊獻祖熙为宣簡公",
+      "outcomes": [
+        "宣簡公"
+      ],
+      "evidence": [
+        "武德元年六月二十二日，追尊爲宣簡公。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追尊宣皇帝",
+      "event_type": "追尊",
+      "time": "咸亨五年八月十五日",
+      "place": "",
+      "participants": [
+        "熙"
+      ],
+      "description": "追尊獻祖熙为宣皇帝，定庙号獻祖",
+      "outcomes": [
+        "宣皇帝",
+        "廟號獻祖"
+      ],
+      "evidence": [
+        "咸亨五年八月十五日，追尊宣皇帝，廟號獻祖，葬建初陵。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "高祖受禅",
+      "event_type": "即位",
+      "time": "隋義寧二年五月二十日",
+      "place": "太極殿",
+      "participants": [
+        "淵"
+      ],
+      "description": "李渊于太极殿接受禅让即皇帝位",
+      "outcomes": [
+        "建立唐朝",
+        "改元武德"
+      ],
+      "evidence": [
+        "隋義寧二年五月二十日，受禪於太極殿。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "高祖崩逝",
+      "event_type": "崩逝",
+      "time": "貞觀九年五月六日",
+      "place": "大安宮垂拱前殿",
+      "participants": [
+        "淵"
+      ],
+      "description": "高祖李渊驾崩于大安宫垂拱前殿",
+      "outcomes": [
+        "葬獻陵",
+        "諡大武皇帝"
+      ],
+      "evidence": [
+        "貞觀九年五月六日崩于大安宮垂拱前殿。",
+        "其年十月庚寅，葬獻陵。",
+        "諡曰大武皇帝，廟號高祖。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "陵名更定",
+      "event_type": "行政命令",
+      "time": "開元二十八年七月十八日",
+      "place": "",
+      "participants": [],
+      "description": "诏令将建昌陵改回建初陵",
+      "outcomes": [
+        "陵名定为建初陵"
+      ],
+      "evidence": [
+        "開元二十八年七月十八日，詔改爲建初陵。"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_tanghuiyao_001_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "帝號上",
+      "item_ids": [
+        "wikisource_tanghuiyao_001_00002",
+        "wikisource_tanghuiyao_001_00003",
+        "wikisource_tanghuiyao_001_00004",
+        "wikisource_tanghuiyao_001_00005",
+        "wikisource_tanghuiyao_001_00006",
+        "wikisource_tanghuiyao_001_00007",
+        "wikisource_tanghuiyao_001_00008",
+        "wikisource_tanghuiyao_001_00009",
+        "wikisource_tanghuiyao_001_00010",
+        "wikisource_tanghuiyao_001_00011",
+        "wikisource_tanghuiyao_001_00012",
+        "wikisource_tanghuiyao_001_00013",
+        "wikisource_tanghuiyao_001_00014",
+        "wikisource_tanghuiyao_001_00015",
+        "wikisource_tanghuiyao_001_00016",
+        "wikisource_tanghuiyao_001_00017",
+        "wikisource_tanghuiyao_001_00018",
+        "wikisource_tanghuiyao_001_00019"
+      ]
+    }
+  ]
+}

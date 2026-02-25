@@ -17,38 +17,45 @@
 
 ```
 wuzhou_kg_project/
-├── backend/                # Flask后端API
-│   ├── app.py             # API服务
-│   └── requirements.txt   # Python依赖
+├── sources/               # 原始史料（维基文库）
+│   ├── wikisource_zztj/   # 资治通鉴
+│   ├── wikisource_jiutangshu/  # 旧唐书
+│   ├── wikisource_xintangshu/  # 新唐书
+│   └── wikisource_tanghuiyao/  # 唐会要
 │
-├── frontend/              # 前端界面
-│   └── index.html         # ECharts可视化页面
+├── llm_extraction/        # LLM实体关系抽取
+│   ├── fetch_wikisource_*.py   # 史料爬取脚本
+│   ├── llm_extract_volume_thinking_async.py  # LLM抽取主程序
+│   ├── outputs/           # 抽取结果
+│   └── README.md          # 抽取流程说明
 │
-├── data/                  # 知识图谱数据
-│   ├── nodes/            # 节点CSV文件
-│   │   ├── Person.csv    # 人物
-│   │   ├── Event.csv     # 事件
-│   │   ├── Place.csv     # 地点
-│   │   └── TimeAnchor.csv # 时间锚点
-│   │
-│   └── edges/            # 关系CSV文件
+├── data/                  # 知识图谱数据（Neo4j格式）
+│   ├── nodes/             # 节点CSV
+│   │   ├── Person.csv
+│   │   ├── Event.csv
+│   │   ├── Place.csv
+│   │   └── TimeAnchor.csv
+│   └── edges/             # 关系CSV
 │       ├── PERSON_PERSON.csv
 │       ├── PERSON_PARTICIPATES_EVENT.csv
-│       ├── EVENT_OCCURS_AT.csv
-│       ├── EVENT_LOCATED_AT.csv
 │       └── ...
 │
-├── config/               # 配置文件
-│   └── neo4j_config.txt  # Neo4j连接配置
+├── backend/               # Flask后端API
+│   ├── app.py
+│   └── requirements.txt
 │
-├── scripts/              # 脚本
-│   ├── start_neo4j.sh    # 启动Neo4j
-│   └── import_neo4j.py   # 导入数据脚本
+├── frontend/              # 前端可视化
+│   └── index.html
 │
-├── docs/                 # 文档
+├── scripts/               # 工具脚本
+│   ├── start_neo4j.sh
+│   └── import_neo4j.py
 │
-├── start.sh              # 一键启动脚本
-└── README.md             # 本文件
+├── config/                # 配置文件
+│   └── neo4j_config.txt
+│
+├── start.sh               # 一键启动
+└── README.md
 ```
 
 ## 🚀 快速开始
@@ -120,15 +127,26 @@ python -m http.server 8080
 - 事件参与者图
 - 时间线柱状图
 
-## 📚 数据来源
+## 📚 数据来源与处理流程
 
-从以下古籍提取：
-- 《资治通鉴》卷203-209
-- 《旧唐书》卷5-8
-- 《新唐书》卷1-10
-- 《唐会要》卷1-10
+### 数据来源
+从中文维基文库爬取以下古籍：
+- 《资治通鉴》卷203-209（武周至唐中宗编年史）
+- 《旧唐书》卷5-8（唐代官修正史）
+- 《新唐书》卷1-10（北宋重修唐史）
+- 《唐会要》卷1-10（唐代典章制度）
 
-使用LLM（Qwen）进行实体和关系抽取。
+### 处理流程
+```
+史料采集 → 文本分段 → LLM抽取 → 数据清洗 → Neo4j导入 → 可视化
+```
+
+1. **史料采集**：`llm_extraction/fetch_wikisource_*.py` 爬取维基文库
+2. **LLM抽取**：`llm_extraction/llm_extract_volume_thinking_async.py` 调用Qwen API
+3. **数据清洗**：实体消歧、关系规范化
+4. **图谱构建**：导入Neo4j图数据库
+
+详见 `llm_extraction/README.md`
 
 ## 🛠️ 技术栈
 

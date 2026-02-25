@@ -1,0 +1,2463 @@
+{
+  "work": "唐會要",
+  "volume": "004",
+  "page_title": "唐會要/卷004",
+  "url": "https://zh.wikisource.org/wiki/%E5%94%90%E6%9C%83%E8%A6%81%2F%E5%8D%B7004",
+  "generated_at": "2026-02-16T03:50:00.097587+00:00",
+  "time_anchors": [
+    {
+      "text": "北宋",
+      "normalized": "北宋",
+      "evidence": "times=北宋",
+      "confidence": 0.95
+    },
+    {
+      "text": "貞觀十六年六月",
+      "normalized": "贞观十六年六月",
+      "evidence": "貞觀十六年六月，苑西守監穆裕，農囿不脩，太宗怒甚，命于朝堂斬之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "十七年閏六月",
+      "normalized": "十七年闰六月",
+      "evidence": "十七年閏六月，詔曰︰「皇太子地惟儲副，寄深監撫，兼統禁旅，是允舊章，宜知左右屯營兵馬事，大將已下，並受處分。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "十九年",
+      "normalized": "十九年",
+      "evidence": "十九年，高士廉、劉洎等表稱皇太子與百官書疏，先無禮式，請詳定其儀。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二十年",
+      "normalized": "二十年",
+      "evidence": "二十年，太宗于寢殿側置一院，令太子居之，絕不遣往東宮。",
+      "confidence": 0.9
+    },
+    {
+      "text": "長安三年",
+      "normalized": "长安三年",
+      "evidence": "長安三年，太子詹事崔神慶上表曰︰「臣伏思五品以上所以帶龜者，比爲別勑徵召，恐有詐妄，內出龜合，然後應命。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元十六年五月",
+      "normalized": "开元十六年五月",
+      "evidence": "開元十六年五月勅︰「所選皇太子及諸王等妃，旣是百官子女，禮合避人。今追就府縣及過本司，未爲得所。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾元元年四月",
+      "normalized": "乾元元年四月",
+      "evidence": "乾元元年四月，代宗自楚王改封成王。張皇后有子數歲，陰有奪宗之議。",
+      "confidence": 0.9
+    },
+    {
+      "text": "建中元年二月",
+      "normalized": "建中元年二月",
+      "evidence": "建中元年二月，國子司業歸崇敬上言︰「準制，皇太子時幸太學，行齒胄之禮者。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元中",
+      "normalized": "贞元中",
+      "evidence": "貞元中，裴延齡、韋渠牟以姦佞相次選用。延齡尤狡險，判度支，務尅剝聚斂，自以爲功，天下怨怒。",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元二十一年四月",
+      "normalized": "贞元二十一年四月",
+      "evidence": "貞元二十一年四月，册廣陵王爲皇太子。時順宗卽位已久，而臣下未有親奏對者。",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和五年二月",
+      "normalized": "元和五年二月",
+      "evidence": "元和五年二月，太常禮院奏︰「百官避皇太子名諱，詳禮經，公卿大夫與太子同名無嫌。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "六年閏十二月",
+      "normalized": "六年闰十二月",
+      "evidence": "六年閏十二月，皇太子薨。前四年，有司將行册禮，改以孟秋，再卜日，臨事皆以雨而罷。",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和十年",
+      "normalized": "元和十年",
+      "evidence": "元和十年，皇太子侍讀、諫議大夫韋綬奏︰「皇太子學書至『依』字，輒去其傍『人』字。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "長慶二年十二月",
+      "normalized": "长庆二年十二月",
+      "evidence": "長慶二年十二月，上御紫宸殿，册皇太子。故事，册太子御宣政殿，時以聖體未康，慮勞登御，故從便也。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開成元年五月",
+      "normalized": "开成元年五月",
+      "evidence": "開成元年五月，中書門下奏：「臣等累奉德音，令與皇太子於甲族選妃家。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "開成三年十月",
+      "normalized": "开成三年十月",
+      "evidence": "開成三年十月，莊恪太子薨。太常禮院奏︰「皇太子薨，禮儀至重。諸祠祭除天地社稷之外，並合權停。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "會昌六年",
+      "normalized": "會昌六年",
+      "evidence": "靖懷太子漢。{{*|宣宗第二子，會昌六年封王，大中六年薨，追諡靖懷。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "大中六年",
+      "normalized": "大中六年",
+      "evidence": "靖懷太子漢。{{*|宣宗第二子，會昌六年封王，大中六年薨，追諡靖懷。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "永淳",
+      "normalized": "永淳元年",
+      "evidence": "改元永淳",
+      "confidence": 0.9
+    },
+    {
+      "text": "是歲",
+      "normalized": "永淳元年",
+      "evidence": "是歲，立爲皇太孫，開府置官屬",
+      "confidence": 0.9
+    },
+    {
+      "text": "聖曆初",
+      "normalized": "聖曆初年",
+      "evidence": "聖曆初，中宗爲皇太子，封爲邵王",
+      "confidence": 0.9
+    },
+    {
+      "text": "大足元年",
+      "normalized": "大足元年",
+      "evidence": "大足元年，爲人所搆與其妹永泰郡主之夫魏王武延基等竊議張易之兄弟何得恣入宮中，則天命杖殺之，年十八",
+      "confidence": 0.9
+    },
+    {
+      "text": "中宗卽位",
+      "normalized": "中宗即位时",
+      "evidence": "中宗卽位，追贈皇太子，諡曰懿德，陪葬乾陵",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞觀十七年十一月二十八日",
+      "normalized": "貞觀十七年十一月二十八日",
+      "evidence": "貞觀十七年十一月二十八日，誕皇太孫",
+      "confidence": 0.9
+    },
+    {
+      "text": "永淳元年三月十五日",
+      "normalized": "永淳元年三月十五日",
+      "evidence": "永淳元年三月十五日，立皇孫重照爲皇太孫",
+      "confidence": 0.9
+    },
+    {
+      "text": "憲宗皇帝六七歲時",
+      "normalized": "憲宗皇帝六七歲時",
+      "evidence": "憲宗皇帝六七歲時，德宗抱置膝上",
+      "confidence": 0.9
+    }
+  ],
+  "people": [
+    {
+      "name": "王溥",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "author=王溥"
+      ]
+    },
+    {
+      "name": "穆裕",
+      "aliases": [],
+      "roles": [
+        "苑西守监"
+      ],
+      "offices": [],
+      "evidence": [
+        "苑西守監穆裕，農囿不脩"
+      ]
+    },
+    {
+      "name": "太宗",
+      "aliases": [
+        "上",
+        "朕",
+        "陛下"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "太宗幸東宮",
+        "上大悅，以爲師傅得人",
+        "太宗曰︰「自朕御天下……」",
+        "太宗怒甚",
+        "太宗意解"
+      ]
+    },
+    {
+      "name": "承乾",
+      "aliases": [
+        "太子承乾"
+      ],
+      "roles": [
+        "太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "太子承乾諫曰︰「人者有生最靈……」"
+      ]
+    },
+    {
+      "name": "长孙无忌",
+      "aliases": [
+        "長孫無忌"
+      ],
+      "roles": [
+        "臣"
+      ],
+      "offices": [],
+      "evidence": [
+        "長孫無忌進曰︰「陛下發天威之怒……」"
+      ]
+    },
+    {
+      "name": "魏征",
+      "aliases": [
+        "魏徵"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "卽有魏征朝夕納諫"
+      ]
+    },
+    {
+      "name": "刘洎",
+      "aliases": [
+        "劉洎"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "自征云亡，劉洎繼之",
+        "十九年，高士廉、劉洎等表稱"
+      ]
+    },
+    {
+      "name": "高士廉",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "十九年，高士廉、劉洎等表稱皇太子與百官書疏"
+      ]
+    },
+    {
+      "name": "褚遂良",
+      "aliases": [],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "门下侍郎",
+        "太子宾客"
+      ],
+      "evidence": [
+        "門下侍郎兼太子賓客褚遂良上疏諫曰"
+      ]
+    },
+    {
+      "name": "崔神庆",
+      "aliases": [
+        "崔神慶"
+      ],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "太子詹事"
+      ],
+      "evidence": [
+        "長安三年，太子詹事崔神慶上表曰"
+      ]
+    },
+    {
+      "name": "代宗",
+      "aliases": [
+        "楚王",
+        "成王"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "代宗第三子",
+        "代宗自楚王改封成王"
+      ]
+    },
+    {
+      "name": "张皇后",
+      "aliases": [
+        "張皇后"
+      ],
+      "roles": [
+        "皇后"
+      ],
+      "offices": [],
+      "evidence": [
+        "張皇后有子數歲，陰有奪宗之議"
+      ]
+    },
+    {
+      "name": "李揆",
+      "aliases": [],
+      "roles": [
+        "宰臣"
+      ],
+      "offices": [],
+      "evidence": [
+        "宰臣李揆因對見，肅宗從容謂曰"
+      ]
+    },
+    {
+      "name": "肃宗",
+      "aliases": [
+        "肅宗"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "肅宗從容謂曰：「成王嫡長有功……」"
+      ]
+    },
+    {
+      "name": "归崇敬",
+      "aliases": [
+        "歸崇敬"
+      ],
+      "roles": [],
+      "offices": [
+        "国子司业"
+      ],
+      "evidence": [
+        "建中元年二月，國子司業歸崇敬上言"
+      ]
+    },
+    {
+      "name": "裴延龄",
+      "aliases": [
+        "裴延齡"
+      ],
+      "roles": [],
+      "offices": [
+        "判度支"
+      ],
+      "evidence": [
+        "裴延齡、韋渠牟以姦佞相次選用。延齡尤狡險，判度支"
+      ]
+    },
+    {
+      "name": "韦渠牟",
+      "aliases": [
+        "韋渠牟"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "裴延齡、韋渠牟以姦佞相次選用"
+      ]
+    },
+    {
+      "name": "陆贽",
+      "aliases": [
+        "陸贄"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "陸贄、李充以讒毀受譴"
+      ]
+    },
+    {
+      "name": "阳城",
+      "aliases": [
+        "陽城"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "陽城等伏闕懇諫，幾至得罪"
+      ]
+    },
+    {
+      "name": "顺宗",
+      "aliases": [
+        "順宗"
+      ],
+      "roles": [
+        "皇太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "順宗在東宮，每進見輒言延齡輩不可用"
+      ]
+    },
+    {
+      "name": "德宗",
+      "aliases": [
+        "上",
+        "德宗"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "德宗卒不相渠牟、延齡而宥城等者",
+        "德宗之子",
+        "德宗嘗泛舟魚藻宮水嬉",
+        "上大驚喜",
+        "養爲子",
+        "德宗抱置膝上"
+      ]
+    },
+    {
+      "name": "广陵王",
+      "aliases": [
+        "廣陵王"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "貞元二十一年四月，册廣陵王爲皇太子"
+      ]
+    },
+    {
+      "name": "王伾",
+      "aliases": [
+        "王伾"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "內外咸言王伾、王叔文專行斷決"
+      ]
+    },
+    {
+      "name": "王叔文",
+      "aliases": [
+        "王叔文"
+      ],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "內外咸言王伾、王叔文專行斷決"
+      ]
+    },
+    {
+      "name": "韦绶",
+      "aliases": [
+        "韋綬"
+      ],
+      "roles": [],
+      "offices": [
+        "谏议大夫",
+        "侍读"
+      ],
+      "evidence": [
+        "皇太子侍讀、諫議大夫韋綬奏"
+      ]
+    },
+    {
+      "name": "裴茝",
+      "aliases": [
+        "裴茝"
+      ],
+      "roles": [],
+      "offices": [
+        "国子司业"
+      ],
+      "evidence": [
+        "命國子司業裴茝議廢朝禮"
+      ]
+    },
+    {
+      "name": "惠昭太子",
+      "aliases": [],
+      "roles": [
+        "皇太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "其年十二月，惠昭太子薨"
+      ]
+    },
+    {
+      "name": "穆宗",
+      "aliases": [
+        "遂王"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "穆宗時爲遂王",
+        "穆宗第六子"
+      ]
+    },
+    {
+      "name": "澧王",
+      "aliases": [],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "憲宗以澧王居長，又多內助"
+      ]
+    },
+    {
+      "name": "崔群",
+      "aliases": [
+        "崔羣"
+      ],
+      "roles": [
+        "翰林学士"
+      ],
+      "offices": [],
+      "evidence": [
+        "命翰林學士崔羣與澧王作讓表",
+        "羣執奏曰︰「大凡已合當之……」"
+      ]
+    },
+    {
+      "name": "宪宗",
+      "aliases": [
+        "憲宗",
+        "先帝"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "憲宗以澧王居長",
+        "先帝之意，元在陛下"
+      ]
+    },
+    {
+      "name": "杜元颖",
+      "aliases": [
+        "杜元穎"
+      ],
+      "roles": [],
+      "offices": [
+        "摄中书令"
+      ],
+      "evidence": [
+        "攝中書令杜元穎跪讀册文訖"
+      ]
+    },
+    {
+      "name": "裴度",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "在東京委裴度"
+      ]
+    },
+    {
+      "name": "庄恪太子",
+      "aliases": [
+        "莊恪太子"
+      ],
+      "roles": [
+        "皇太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "開成三年十月，莊恪太子薨"
+      ]
+    },
+    {
+      "name": "重潤",
+      "aliases": [
+        "懿德太子",
+        "重照"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "懿德太子重潤。{{*|中宗長子，本名重照。}}"
+      ]
+    },
+    {
+      "name": "撝",
+      "aliases": [
+        "惠莊太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "惠莊太子撝。{{*|睿宗第二子。}}"
+      ]
+    },
+    {
+      "name": "范",
+      "aliases": [
+        "惠文太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "惠文太子范。{{*|睿宗第四子。}}"
+      ]
+    },
+    {
+      "name": "業",
+      "aliases": [
+        "惠宣太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "惠宣太子業。{{*|睿宗第五子。}}"
+      ]
+    },
+    {
+      "name": "琬",
+      "aliases": [
+        "靖恭太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "靖恭太子琬。{{*|玄宗第六子。}}"
+      ]
+    },
+    {
+      "name": "佋",
+      "aliases": [
+        "恭懿太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "恭懿太子佋。{{*|蕭宗第十二子。}}"
+      ]
+    },
+    {
+      "name": "邈",
+      "aliases": [
+        "昭靖太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "昭靖太子邈。{{*|代宗第三子。}}"
+      ]
+    },
+    {
+      "name": "謜",
+      "aliases": [
+        "文敬太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "文敬太子謜。{{*|德宗之子。本順宗子，上愛念之，養爲子。}}"
+      ]
+    },
+    {
+      "name": "湊",
+      "aliases": [
+        "懷懿太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "懷懿太子湊。{{*|穆宗第六子。}}"
+      ]
+    },
+    {
+      "name": "普",
+      "aliases": [
+        "悼懷太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "悼懷太子普。{{*|敬宗長子。}}"
+      ]
+    },
+    {
+      "name": "漢",
+      "aliases": [
+        "靖懷太子"
+      ],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "靖懷太子漢。{{*|宣宗第二子，會昌六年封王，大中六年薨，追諡靖懷。}}"
+      ]
+    },
+    {
+      "name": "中宗",
+      "aliases": [],
+      "roles": [
+        "皇太子",
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "中宗卽位",
+        "及中宗遷于房州",
+        "中宗長子",
+        "聖曆初，中宗爲皇太子"
+      ]
+    },
+    {
+      "name": "睿宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "睿宗第二子",
+        "睿宗第四子",
+        "睿宗第五子"
+      ]
+    },
+    {
+      "name": "玄宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "玄宗第六子"
+      ]
+    },
+    {
+      "name": "蕭宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "蕭宗第十二子"
+      ]
+    },
+    {
+      "name": "順宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "本順宗子"
+      ]
+    },
+    {
+      "name": "敬宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "敬宗長子"
+      ]
+    },
+    {
+      "name": "宣宗",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "宣宗第二子"
+      ]
+    },
+    {
+      "name": "懿德太子",
+      "aliases": [
+        "重潤"
+      ],
+      "roles": [
+        "皇太孫",
+        "邵王",
+        "皇太子（追赠）"
+      ],
+      "offices": [],
+      "evidence": [
+        "懿德太子生於東宮內殿",
+        "立爲皇太孫，開府置官屬",
+        "封爲邵王",
+        "追贈皇太子，諡曰懿德"
+      ]
+    },
+    {
+      "name": "惠莊太子",
+      "aliases": [
+        "撝"
+      ],
+      "roles": [
+        "太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "惠莊太子撝，初生"
+      ]
+    },
+    {
+      "name": "惠文太子",
+      "aliases": [
+        "範"
+      ],
+      "roles": [
+        "太子"
+      ],
+      "offices": [],
+      "evidence": [
+        "惠文太子範，好學《尚書》",
+        "忽然殂謝"
+      ]
+    },
+    {
+      "name": "高宗",
+      "aliases": [],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "高宗甚悅"
+      ]
+    },
+    {
+      "name": "则天",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "則天命杖殺之",
+        "則天嘗以示僧萬迴",
+        "則天甚悅"
+      ]
+    },
+    {
+      "name": "永泰郡主",
+      "aliases": [],
+      "roles": [
+        "郡主"
+      ],
+      "offices": [],
+      "evidence": [
+        "其妹永泰郡主"
+      ]
+    },
+    {
+      "name": "魏王武延基",
+      "aliases": [
+        "武延基"
+      ],
+      "roles": [
+        "魏王"
+      ],
+      "offices": [],
+      "evidence": [
+        "魏王武延基"
+      ]
+    },
+    {
+      "name": "张易之兄弟",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "竊議張易之兄弟何得恣入宮中"
+      ]
+    },
+    {
+      "name": "裴粹",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "國子監丞"
+      ],
+      "evidence": [
+        "國子監丞裴粹"
+      ]
+    },
+    {
+      "name": "僧万回",
+      "aliases": [
+        "萬迴"
+      ],
+      "roles": [
+        "僧"
+      ],
+      "offices": [],
+      "evidence": [
+        "僧萬迴",
+        "萬迴曰"
+      ]
+    },
+    {
+      "name": "阎朝隐",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和"
+      ]
+    },
+    {
+      "name": "刘廷琦",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "万年尉"
+      ],
+      "evidence": [
+        "與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和",
+        "萬年尉劉廷琦"
+      ]
+    },
+    {
+      "name": "张谔",
+      "aliases": [
+        "張諤"
+      ],
+      "roles": [],
+      "offices": [
+        "太祝"
+      ],
+      "evidence": [
+        "與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和",
+        "太祝張諤"
+      ]
+    },
+    {
+      "name": "郑繇",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和"
+      ]
+    },
+    {
+      "name": "裴虚己",
+      "aliases": [
+        "裴虛己"
+      ],
+      "roles": [],
+      "offices": [
+        "駙马都尉"
+      ],
+      "evidence": [
+        "駙馬都尉裴虛己坐與範遊讌"
+      ]
+    },
+    {
+      "name": "上",
+      "aliases": [
+        "皇帝"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "上禁約王公",
+        "上悅，使方慶詳求典故",
+        "上召吏部侍郎裴敬尋、郎中王方慶問",
+        "上後頗以爲疑"
+      ]
+    },
+    {
+      "name": "太子",
+      "aliases": [],
+      "roles": [
+        "储君"
+      ],
+      "offices": [],
+      "evidence": [
+        "謂太子曰︰「爾國之儲貳...」"
+      ]
+    },
+    {
+      "name": "皇太孫",
+      "aliases": [],
+      "roles": [
+        "皇孙"
+      ],
+      "offices": [],
+      "evidence": [
+        "誕皇太孫"
+      ]
+    },
+    {
+      "name": "蕭瑀",
+      "aliases": [],
+      "roles": [
+        "师傅"
+      ],
+      "offices": [
+        "太子太傅"
+      ],
+      "evidence": [
+        "太子太傅蕭瑀曰"
+      ]
+    },
+    {
+      "name": "重照",
+      "aliases": [
+        "皇太孫",
+        "皇孫重照"
+      ],
+      "roles": [
+        "皇孙",
+        "皇太孙"
+      ],
+      "offices": [],
+      "evidence": [
+        "立皇孫重照爲皇太孫"
+      ]
+    },
+    {
+      "name": "裴敬尋",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "吏部侍郎"
+      ],
+      "evidence": [
+        "吏部侍郎裴敬尋"
+      ]
+    },
+    {
+      "name": "王方慶",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "郎中"
+      ],
+      "evidence": [
+        "郎中王方慶"
+      ]
+    },
+    {
+      "name": "憲宗皇帝",
+      "aliases": [
+        "皇孙"
+      ],
+      "roles": [
+        "皇孙"
+      ],
+      "offices": [],
+      "evidence": [
+        "憲宗皇帝六七歲時",
+        "對曰︰「第二天子也。」"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "朝堂",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "命于朝堂斬之"
+      ]
+    },
+    {
+      "name": "苑西",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "苑西守監穆裕"
+      ]
+    },
+    {
+      "name": "寝殿侧院",
+      "aliases": [
+        "寢殿側置一院"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "太宗于寢殿側置一院，令太子居之"
+      ]
+    },
+    {
+      "name": "东宫",
+      "aliases": [
+        "東宮"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "絕不遣往東宮"
+      ]
+    },
+    {
+      "name": "命妇朝堂",
+      "aliases": [
+        "命婦朝堂"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "于命婦朝堂待進止"
+      ]
+    },
+    {
+      "name": "鱼藻宫",
+      "aliases": [
+        "魚藻宮"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "德宗嘗泛舟魚藻宮水嬉"
+      ]
+    },
+    {
+      "name": "太学",
+      "aliases": [
+        "太學"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "皇太子時幸太學"
+      ]
+    },
+    {
+      "name": "宣政殿",
+      "aliases": [
+        "宣政殿"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "故事，册太子御宣政殿"
+      ]
+    },
+    {
+      "name": "紫宸殿",
+      "aliases": [
+        "紫宸殿"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "上御紫宸殿，册皇太子"
+      ]
+    },
+    {
+      "name": "崇明门",
+      "aliases": [
+        "崇明門"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "太子步自崇明門"
+      ]
+    },
+    {
+      "name": "月华门",
+      "aliases": [
+        "月華門"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "入自月華門"
+      ]
+    },
+    {
+      "name": "東宮內殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "生於東宮內殿"
+      ]
+    },
+    {
+      "name": "房州",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "遷于房州"
+      ]
+    },
+    {
+      "name": "乾陵",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "陪葬乾陵"
+      ]
+    },
+    {
+      "name": "嶺外",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "配徙嶺外"
+      ]
+    },
+    {
+      "name": "宮中",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "恣入宮中"
+      ]
+    },
+    {
+      "name": "弘敎門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "宴宮寮于弘敎門"
+      ]
+    },
+    {
+      "name": "東宮",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "太宗幸東宮"
+      ]
+    },
+    {
+      "name": "殿北門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "自殿北門入"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "太宗",
+      "to": "承乾",
+      "relation": "父子",
+      "time": "贞观十六年六月",
+      "place": "朝堂",
+      "evidence": "太子幼在朕前，每見規諫者，常心悅之，染以成性",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "褚遂良",
+      "to": "门下侍郎",
+      "relation": "任职",
+      "time": "贞观二十年",
+      "place": "",
+      "evidence": "門下侍郎兼太子賓客褚遂良上疏諫曰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "褚遂良",
+      "to": "太子宾客",
+      "relation": "任职",
+      "time": "贞观二十年",
+      "place": "",
+      "evidence": "門下侍郎兼太子賓客褚遂良上疏諫曰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "承乾",
+      "to": "寝殿侧院",
+      "relation": "居住",
+      "time": "贞观二十年",
+      "place": "",
+      "evidence": "令太子居之，絕不遣往東宮",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "肃宗",
+      "to": "代宗",
+      "relation": "父子",
+      "time": "乾元元年四月",
+      "place": "",
+      "evidence": "代宗自楚王改封成王",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "宪宗",
+      "to": "穆宗",
+      "relation": "父子",
+      "time": "元和十年",
+      "place": "",
+      "evidence": "穆宗時爲遂王",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "承乾",
+      "to": "穆裕司法事件",
+      "relation": "谏言者",
+      "time": "贞观十六年六月",
+      "place": "朝堂",
+      "evidence": "太子承乾諫曰︰「人者有生最靈，一死不可復活……請付法司推鞫。」",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "褚遂良",
+      "to": "太子居寝殿侧院谏言事件",
+      "relation": "谏言者",
+      "time": "贞观二十年",
+      "place": "寝殿侧院",
+      "evidence": "門下侍郎兼太子賓客褚遂良上疏諫曰……太宗從之",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "中宗",
+      "to": "重潤",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "中宗長子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "睿宗",
+      "to": "撝",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "睿宗第二子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "睿宗",
+      "to": "范",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "睿宗第四子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "睿宗",
+      "to": "業",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "睿宗第五子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "玄宗",
+      "to": "琬",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "玄宗第六子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "蕭宗",
+      "to": "佋",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "蕭宗第十二子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "代宗",
+      "to": "邈",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "代宗第三子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "順宗",
+      "to": "謜",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "本順宗子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "德宗",
+      "to": "謜",
+      "relation": "養父子",
+      "time": "",
+      "place": "",
+      "evidence": "養爲子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "穆宗",
+      "to": "湊",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "穆宗第六子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "敬宗",
+      "to": "普",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "敬宗長子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "宣宗",
+      "to": "漢",
+      "relation": "父子",
+      "time": "",
+      "place": "",
+      "evidence": "宣宗第二子",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "懿德太子",
+      "to": "永泰郡主",
+      "relation": "兄妹",
+      "time": "",
+      "place": "",
+      "evidence": "其妹永泰郡主",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "永泰郡主",
+      "to": "魏王武延基",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "永泰郡主之夫魏王武延基",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "裴粹",
+      "to": "國子監丞",
+      "relation": "担任",
+      "time": "",
+      "place": "",
+      "evidence": "國子監丞裴粹",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "裴虚己",
+      "to": "駙马都尉",
+      "relation": "担任",
+      "time": "",
+      "place": "",
+      "evidence": "駙馬都尉裴虛己",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "刘廷琦",
+      "to": "万年尉",
+      "relation": "担任",
+      "time": "",
+      "place": "",
+      "evidence": "萬年尉劉廷琦",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "张谔",
+      "to": "太祝",
+      "relation": "担任",
+      "time": "",
+      "place": "",
+      "evidence": "太祝張諤",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "懿德太子",
+      "to": "東宮內殿",
+      "relation": "出生地",
+      "time": "永淳元年",
+      "place": "",
+      "evidence": "懿德太子生於東宮內殿",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "中宗",
+      "to": "房州",
+      "relation": "迁居地",
+      "time": "",
+      "place": "",
+      "evidence": "及中宗遷于房州",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "懿德太子",
+      "to": "乾陵",
+      "relation": "陪葬地",
+      "time": "中宗即位时",
+      "place": "",
+      "evidence": "陪葬乾陵",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "裴虚己",
+      "to": "嶺外",
+      "relation": "流放地",
+      "time": "",
+      "place": "",
+      "evidence": "配徙嶺外",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "懿德太子",
+      "to": "杖杀事件",
+      "relation": "victim",
+      "time": "大足元年",
+      "place": "",
+      "evidence": "大足元年，爲人所搆與其妹永泰郡主之夫魏王武延基等竊議張易之兄弟何得恣入宮中，則天命杖殺之，年十八",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "惠文太子",
+      "to": "交游唱和事件",
+      "relation": "主导者",
+      "time": "",
+      "place": "",
+      "evidence": "與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "太宗",
+      "to": "太子",
+      "relation": "君臣",
+      "time": "貞觀十七年十一月二十八日",
+      "place": "東宮",
+      "evidence": [
+        "謂太子曰︰「爾國之儲貳，府藏是同...」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "蕭瑀",
+      "to": "太子",
+      "relation": "师生",
+      "time": "貞觀十七年十一月二十八日",
+      "place": "東宮",
+      "evidence": [
+        "太子太傅蕭瑀曰"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "德宗",
+      "to": "憲宗皇帝",
+      "relation": "祖孙",
+      "time": "憲宗皇帝六七歲時",
+      "place": "",
+      "evidence": [
+        "德宗抱置膝上"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "上",
+      "to": "重照",
+      "relation": "祖孙",
+      "time": "永淳元年三月十五日",
+      "place": "",
+      "evidence": [
+        "立皇孫重照爲皇太孫"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "蕭瑀",
+      "to": "太子太傅",
+      "relation": "担任",
+      "time": "貞觀十七年十一月二十八日",
+      "place": "",
+      "evidence": [
+        "太子太傅蕭瑀曰"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "王方慶",
+      "to": "郎中",
+      "relation": "担任",
+      "time": "永淳元年三月十五日",
+      "place": "",
+      "evidence": [
+        "郎中王方慶"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "events": [
+    {
+      "event_name": "穆裕司法事件与太子谏言",
+      "event_type": "司法与谏言",
+      "time": "贞观十六年六月",
+      "place": "朝堂",
+      "participants": [
+        "太宗",
+        "穆裕",
+        "承乾",
+        "长孙无忌"
+      ],
+      "description": "苑西守监穆裕因农囿不修触怒太宗，命斩于朝堂；太子承乾谏请付法司，太宗改笞释之；长孙无忌赞太子谏言，太宗追述魏征、刘洎纳谏传统及太子受教经历。",
+      "outcomes": [
+        "穆裕被笞而释",
+        "太宗反思纳谏传统"
+      ],
+      "evidence": [
+        "貞觀十六年六月，苑西守監穆裕，農囿不脩，太宗怒甚，命于朝堂斬之。侍臣戰慄，莫敢進言。太子承乾諫曰︰「人者有生最靈，一死不可復活。命卽斬之，理恐未盡，請付法司推鞫。」太宗意解，卽笞而釋之。長孫無忌進曰︰「陛下發天威之怒，太子犯顏進諫，斯誠四海之福。」太宗曰︰「自朕御天下，虛心正人，卽有魏征朝夕納諫；自征云亡，劉洎繼之。太子幼在朕前，每見規諫者，常心悅之，染以成性，故有今日之諫耳。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "贞观十七年太子统兵诏",
+      "event_type": "诏令",
+      "time": "十七年闰六月",
+      "place": "",
+      "participants": [
+        "太宗",
+        "皇太子"
+      ],
+      "description": "下诏命皇太子兼统禁旅，知左右屯营兵马事，大将以下受其处分。",
+      "outcomes": [
+        "确立皇太子兵权管辖范围"
+      ],
+      "evidence": [
+        "十七年閏六月，詔曰︰「皇太子地惟儲副，寄深監撫，兼統禁旅，是允舊章，宜知左右屯營兵馬事，大將已下，並受處分。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "贞观十九年太子书疏礼式诏",
+      "event_type": "礼仪制度",
+      "time": "十九年",
+      "place": "",
+      "participants": [
+        "高士廉",
+        "刘洎",
+        "太宗",
+        "皇太子"
+      ],
+      "description": "高士廉、刘洎等奏请详定皇太子与百官书疏礼式；太宗下诏规范：处分论事之书皇太子画令，左右庶子以下署名，余类书疏不在此限。",
+      "outcomes": [
+        "确立皇太子文书礼仪规范"
+      ],
+      "evidence": [
+        "十九年，高士廉、劉洎等表稱皇太子與百官書疏，先無禮式，請詳定其儀。詔曰︰「皇太子地在震方，禮絕羣后……凡處分論事之書，皇太子並宜畫令，左右庶子以下署名，宣奉行書按畫日。其餘與諸親及師傅等書，不在此限。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "贞观二十年褚遂良谏太子居寝殿侧",
+      "event_type": "谏言",
+      "time": "二十年",
+      "place": "寝殿侧院",
+      "participants": [
+        "太宗",
+        "褚遂良",
+        "皇太子"
+      ],
+      "description": "太宗置院于寝殿侧令太子居，不遣东宫；褚遂良引周礼、汉制上疏谏请常遣太子还东宫修学；太宗采纳。",
+      "outcomes": [
+        "太宗从谏，调整太子居所安排"
+      ],
+      "evidence": [
+        "二十年，太宗于寢殿側置一院，令太子居之，絕不遣往東宮。門下侍郎兼太子賓客褚遂良上疏諫曰︰「臣聞周家問安……伏願遠覽殷、周，近遵漢、魏，常許旬日半月遣還宮……」太宗從之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "长安三年崔神庆上表太子召见礼仪",
+      "event_type": "奏议",
+      "time": "长安三年",
+      "place": "",
+      "participants": [
+        "崔神庆",
+        "太子"
+      ],
+      "description": "太子詹事崔神庆上表，以突厥使见太子仅凭文符为例，奏请召太子须降墨敕及玉契以示慎重。",
+      "outcomes": [
+        "提出太子召见防伪礼仪建议"
+      ],
+      "evidence": [
+        "長安三年，太子詹事崔神慶上表曰︰「臣伏思五品以上所以帶龜者……況太子元良國本……伏望降墨勑及玉契，以符重愼之道。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "乾元元年代宗改封与夺宗之议",
+      "event_type": "册封与政治事件",
+      "time": "乾元元年四月",
+      "place": "",
+      "participants": [
+        "代宗",
+        "张皇后",
+        "肃宗",
+        "李揆"
+      ],
+      "description": "代宗由楚王改封成王；张皇后有子谋夺储位；肃宗询李揆立嗣意见，李揆赞成立成王，肃宗决断。",
+      "outcomes": [
+        "代宗改封成王",
+        "肃宗确立成王为嗣君"
+      ],
+      "evidence": [
+        "乾元元年四月，代宗自楚王改封成王。張皇后有子數歲，陰有奪宗之議。宰臣李揆因對見，肅宗從容謂曰：「成王嫡長有功，今當命嗣，卿意如何？」揆拜賀曰︰「陛下言及于此，社稷之福……」肅宗喜曰︰「朕計決矣。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "贞元中顺宗谏言与德宗泛舟事件",
+      "event_type": "政治事件与谏言",
+      "time": "贞元中",
+      "place": "鱼藻宫",
+      "participants": [
+        "裴延龄",
+        "韦渠牟",
+        "陆贽",
+        "阳城",
+        "顺宗",
+        "德宗",
+        "皇太子"
+      ],
+      "description": "裴延龄、韦渠牟以奸佞用事，陆贽等受谴，阳城伏阙谏；顺宗在东宫屡谏延龄辈不可用；德宗泛舟鱼藻宫，太子谏奢，德宗不悦；然德宗终未用延龄等而宥阳城。",
+      "outcomes": [
+        "德宗未相延龄、渠牟",
+        "宽宥谏臣",
+        "德宗对太子谏奢不悦"
+      ],
+      "evidence": [
+        "貞元中，裴延齡、韋渠牟以姦佞相次選用……順宗在東宮，每進見輒言延齡輩不可用，而諫臣可獎。德宗卒不相渠牟、延齡而宥城等者，東宮之力也。德宗嘗泛舟魚藻宮水嬉……然後退以奢諫，德宗不悅焉。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "贞元二十一年册广陵王为皇太子",
+      "event_type": "册封",
+      "time": "贞元二十一年四月",
+      "place": "",
+      "participants": [
+        "广陵王",
+        "顺宗",
+        "王伾",
+        "王叔文"
+      ],
+      "description": "册广陵王为皇太子；时顺宗即位久未亲政，内外传王伾、王叔文专权；册礼时雨止天晴现庆云，群臣见太子仪表相庆。",
+      "outcomes": [
+        "广陵王正式册立为皇太子",
+        "内外舆论归心"
+      ],
+      "evidence": [
+        "貞元二十一年四月，册廣陵王爲皇太子。時順宗卽位已久……及將行册禮之時，雨乃止，天景清明，有慶雲見……及覩皇太子儀表，班行悚動，退無不相慶……中外有屬焉。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "元和五年避讳奏议与六年皇太子薨",
+      "event_type": "礼仪与丧事",
+      "time": "元和五年二月至六年闰十二月",
+      "place": "",
+      "participants": [
+        "太常礼院",
+        "皇太子",
+        "德宗"
+      ],
+      "description": "太常礼院奏议百官避皇太子名讳规则，诏可；元和六年闰十二月皇太子薨；追述前四年册礼因雨屡改期。",
+      "outcomes": [
+        "确立东宫名讳回避规则",
+        "皇太子薨逝"
+      ],
+      "evidence": [
+        "元和五年二月，太常禮院奏︰「百官避皇太子名諱……詔可。六年閏十二月，皇太子薨。前四年，有司將行册禮……册纔二週歲而薨。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "元和十年韦绶侍读事件与储位确立",
+      "event_type": "教育事件与储位决策",
+      "time": "元和十年",
+      "place": "",
+      "participants": [
+        "韦绶",
+        "皇太子",
+        "宪宗",
+        "裴茝",
+        "崔群",
+        "穆宗",
+        "澧王"
+      ],
+      "description": "韦绶奏太子学书避‘依’字旁‘人’字，宪宗嘉叹；后因韦绶言论不合经术被罢侍读；惠昭太子薨，裴茝议废朝礼；宪宗欲立澧王，崔群力奏遂王（穆宗）当立，宪宗从之。",
+      "outcomes": [
+        "韦绶罢职出为刺史",
+        "惠昭太子薨",
+        "遂王确立为储君"
+      ],
+      "evidence": [
+        "元和十年，皇太子侍讀、諫議大夫韋綬奏……上深嘉歎之。其年五月，韋綬罷侍讀……其年十二月，惠昭太子薨……憲宗以澧王居長……羣執奏曰︰「……今遂王嫡子長，所宜正位青宮。」乃從之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "长庆二年紫宸殿册皇太子典礼",
+      "event_type": "册封典礼",
+      "time": "长庆二年十二月",
+      "place": "紫宸殿",
+      "participants": [
+        "皇帝",
+        "皇太子",
+        "杜元颖",
+        "群臣"
+      ],
+      "description": "因圣体未康，改御紫宸殿行册礼；详述仪仗、群臣序立、太子自崇明门入、受册、群臣贺谒等全流程。",
+      "outcomes": [
+        "皇太子正式受册"
+      ],
+      "evidence": [
+        "長慶二年十二月，上御紫宸殿，册皇太子……太子步自崇明門……再拜受册。攝中書令杜元穎跪讀册文訖……羣臣賀皇帝訖，退詣崇明門謁太子……"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "开成三年庄恪太子薨礼仪奏议",
+      "event_type": "丧事",
+      "time": "开成三年十月",
+      "place": "",
+      "participants": [
+        "庄恪太子",
+        "太常礼院"
+      ],
+      "description": "庄恪太子薨，太常礼院奏议：除天地社稷外祠祭权停，天地社稷祭日悬而不乐，虞祭后复常。",
+      "outcomes": [
+        "确立皇太子薨礼仪规范"
+      ],
+      "evidence": [
+        "開成三年十月，莊恪太子薨。太常禮院奏︰「皇太子薨，禮儀至重。諸祠祭除天地社稷之外，並合權停。其天地社稷祭日，懸而不樂。虞祭已後，卻依常式。」從之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥懿德太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "重潤"
+      ],
+      "description": "追谥重潤为懿德太子",
+      "outcomes": [
+        "获得谥号'懿德太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "懿德太子重潤。{{*|中宗長子，本名重照。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥惠莊太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "撝"
+      ],
+      "description": "追谥撝为惠莊太子",
+      "outcomes": [
+        "获得谥号'惠莊太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "惠莊太子撝。{{*|睿宗第二子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥惠文太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "范"
+      ],
+      "description": "追谥范为惠文太子",
+      "outcomes": [
+        "获得谥号'惠文太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "惠文太子范。{{*|睿宗第四子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥惠宣太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "業"
+      ],
+      "description": "追谥業为惠宣太子",
+      "outcomes": [
+        "获得谥号'惠宣太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "惠宣太子業。{{*|睿宗第五子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥靖恭太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "琬"
+      ],
+      "description": "追谥琬为靖恭太子",
+      "outcomes": [
+        "获得谥号'靖恭太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "靖恭太子琬。{{*|玄宗第六子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥恭懿太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "佋"
+      ],
+      "description": "追谥佋为恭懿太子",
+      "outcomes": [
+        "获得谥号'恭懿太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "恭懿太子佋。{{*|蕭宗第十二子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥昭靖太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "邈"
+      ],
+      "description": "追谥邈为昭靖太子",
+      "outcomes": [
+        "获得谥号'昭靖太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "昭靖太子邈。{{*|代宗第三子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥文敬太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "謜"
+      ],
+      "description": "追谥謜为文敬太子",
+      "outcomes": [
+        "获得谥号'文敬太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "文敬太子謜。{{*|德宗之子。本順宗子，上愛念之，養爲子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥懷懿太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "湊"
+      ],
+      "description": "追谥湊为懷懿太子",
+      "outcomes": [
+        "获得谥号'懷懿太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "懷懿太子湊。{{*|穆宗第六子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥悼懷太子",
+      "event_type": "追谥",
+      "time": "",
+      "place": "",
+      "participants": [
+        "普"
+      ],
+      "description": "追谥普为悼懷太子",
+      "outcomes": [
+        "获得谥号'悼懷太子'"
+      ],
+      "evidence": [
+        "【小节标题】追諡太子",
+        "悼懷太子普。{{*|敬宗長子。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追谥靖懷太子",
+      "event_type": "追谥",
+      "time": "大中六年",
+      "place": "",
+      "participants": [
+        "漢"
+      ],
+      "description": "追谥漢为靖懷太子",
+      "outcomes": [
+        "获得谥号'靖懷太子'"
+      ],
+      "evidence": [
+        "靖懷太子漢。{{*|宣宗第二子，會昌六年封王，大中六年薨，追諡靖懷。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "漢封王",
+      "event_type": "封爵",
+      "time": "會昌六年",
+      "place": "",
+      "participants": [
+        "漢"
+      ],
+      "description": "漢受封为王",
+      "outcomes": [
+        "获封王爵"
+      ],
+      "evidence": [
+        "會昌六年封王"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "漢薨",
+      "event_type": "逝世",
+      "time": "大中六年",
+      "place": "",
+      "participants": [
+        "漢"
+      ],
+      "description": "漢去世",
+      "outcomes": [
+        "逝世"
+      ],
+      "evidence": [
+        "大中六年薨"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "懿德太子出生及满月庆典",
+      "event_type": "birth_celebration",
+      "time": "永淳元年",
+      "place": "東宮內殿",
+      "participants": [
+        "懿德太子",
+        "高宗"
+      ],
+      "description": "懿德太子生于东宫内殿，高宗喜悦；满月时大赦天下，改元永淳",
+      "outcomes": [
+        "大赦",
+        "改元永淳"
+      ],
+      "evidence": [
+        "懿德太子生於東宮內殿，高宗甚悅，及滿月，大赦，改元永淳"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "立皇太孙",
+      "event_type": "appointment",
+      "time": "永淳元年",
+      "place": "",
+      "participants": [
+        "懿德太子"
+      ],
+      "description": "立懿德太子为皇太孙，开府设置官属",
+      "outcomes": [
+        "开府置官属"
+      ],
+      "evidence": [
+        "是歲，立爲皇太孫，開府置官屬"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "中宗迁房州与府邸废除",
+      "event_type": "exile_and_abolishment",
+      "time": "",
+      "place": "房州",
+      "participants": [
+        "中宗",
+        "懿德太子"
+      ],
+      "description": "中宗被迁至房州，懿德太子的府邸随之废除",
+      "outcomes": [
+        "懿德太子府废"
+      ],
+      "evidence": [
+        "及中宗遷于房州，其府廢"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "封邵王",
+      "event_type": "enfeoffment",
+      "time": "聖曆初年",
+      "place": "",
+      "participants": [
+        "懿德太子",
+        "中宗"
+      ],
+      "description": "中宗被立为皇太子时，懿德太子受封邵王",
+      "outcomes": [
+        "封为邵王"
+      ],
+      "evidence": [
+        "聖曆初，中宗爲皇太子，封爲邵王"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "杖杀事件",
+      "event_type": "execution",
+      "time": "大足元年",
+      "place": "",
+      "participants": [
+        "懿德太子",
+        "永泰郡主",
+        "魏王武延基",
+        "张易之兄弟",
+        "则天"
+      ],
+      "description": "懿德太子与永泰郡主、魏王武延基等窃议张易之兄弟随意入宫之事，遭人构陷，武则天命杖杀懿德太子",
+      "outcomes": [
+        "懿德太子被杖杀，年十八"
+      ],
+      "evidence": [
+        "大足元年，爲人所搆與其妹永泰郡主之夫魏王武延基等竊議張易之兄弟何得恣入宮中，則天命杖殺之，年十八"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "追赠与冥婚合葬",
+      "event_type": "posthumous_honor",
+      "time": "中宗即位时",
+      "place": "乾陵",
+      "participants": [
+        "懿德太子",
+        "中宗",
+        "裴粹亡女"
+      ],
+      "description": "中宗即位后追赠懿德太子为皇太子，谥号懿德，陪葬乾陵，并聘国子监丞裴粹亡女行冥婚合葬",
+      "outcomes": [
+        "追赠皇太子",
+        "谥曰懿德",
+        "陪葬乾陵",
+        "冥婚合葬"
+      ],
+      "evidence": [
+        "中宗卽位，追贈皇太子，諡曰懿德，陪葬乾陵。仍爲聘國子監丞裴粹亡女爲冥婚，與之合葬"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "惠莊太子示僧",
+      "event_type": "divination",
+      "time": "",
+      "place": "",
+      "participants": [
+        "惠莊太子",
+        "则天",
+        "僧万回"
+      ],
+      "description": "惠莊太子初生时，武则天示于僧万回，万回称其为西域大树之精，宜养于兄弟之列",
+      "outcomes": [
+        "列于兄弟之次"
+      ],
+      "evidence": [
+        "惠莊太子撝，初生，則天嘗以示僧萬迴，萬迴曰︰「此兒是西域大樹之精，養之宜兄弟。」則天甚悅，始令列于兄弟之次"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "惠文太子交游唱和",
+      "event_type": "cultural_activity",
+      "time": "",
+      "place": "",
+      "participants": [
+        "惠文太子",
+        "阎朝隐",
+        "刘廷琦",
+        "张谔",
+        "郑繇"
+      ],
+      "description": "惠文太子好学《尚书》，礼待文士，与阎朝隐等人诗文唱和，广聚书画古迹",
+      "outcomes": [
+        "为时所称"
+      ],
+      "evidence": [
+        "惠文太子範，好學《尚書》，雅愛文章之士，無貴賤，皆盡禮接待，與閻朝隱、劉廷琦、張諤、鄭繇篇題唱和，又多聚書畫古跡，爲時所稱"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "禁约交结与惩处",
+      "event_type": "punishment",
+      "time": "",
+      "place": "",
+      "participants": [
+        "上",
+        "惠文太子",
+        "裴虚己",
+        "刘廷琦",
+        "张谔"
+      ],
+      "description": "皇帝禁约王公不得与外人交结；裴虚己因与惠文太子游宴并私藏谶纬之书被流放，刘廷琦、张谔被罢黜",
+      "outcomes": [
+        "裴虚己配徙岭外",
+        "刘廷琦坐黜",
+        "张谔坐黜"
+      ],
+      "evidence": [
+        "上禁約王公，不令與外人交結。駙馬都尉裴虛己坐與範遊讌，兼私挾讖緯之書，配徙嶺外，萬年尉劉廷琦、太祝張諤皆坐黜"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "惠文太子去世",
+      "event_type": "death",
+      "time": "",
+      "place": "",
+      "participants": [
+        "惠文太子"
+      ],
+      "description": "惠文太子风格秀整，士庶寄望其成，然猝然去世",
+      "outcomes": [
+        "远近失望"
+      ],
+      "evidence": [
+        "雅稱風格秀整，時士庶冀有所成功，忽然殂謝，遠近失望焉"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "皇太孫誕生及賜書宴",
+      "event_type": "誕生與宴會",
+      "time": "貞觀十七年十一月二十八日",
+      "place": "弘敎門",
+      "participants": [
+        "太宗",
+        "太子",
+        "皇太孫",
+        "蕭瑀",
+        "宫寮"
+      ],
+      "description": "皇太孫誕生，太宗於弘敎門宴請東宮官員，親至東宮，賜太子《尚書》《毛詩》《孝經》，並與宮臣、太子、蕭瑀對話。",
+      "outcomes": [
+        "賜太子典籍三部",
+        "太宗稱蕭瑀「師傅得人」"
+      ],
+      "evidence": [
+        "貞觀十七年十一月二十八日，誕皇太孫，宴宮寮于弘敎門。太宗幸東宮...因賜《尚書》、《毛詩》、《孝經》各一部。太子太傅蕭瑀曰...上大悅，以爲師傅得人。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "立重照爲皇太孫及議府寮",
+      "event_type": "冊立與議政",
+      "time": "永淳元年三月十五日",
+      "place": "",
+      "participants": [
+        "上",
+        "重照",
+        "裴敬尋",
+        "王方慶"
+      ],
+      "description": "立皇孫重照爲皇太孫，召裴敬尋、王方慶詢問前代典故，王方慶引經據典贊成立制，議定太孫府官屬品級，後因疑慮未實際補授。",
+      "outcomes": [
+        "確立重照皇太孫身份",
+        "擬定太孫府官屬制度",
+        "最終未補授官職"
+      ],
+      "evidence": [
+        "永淳元年三月十五日，立皇孫重照爲皇太孫。將置府寮，上召吏部侍郎裴敬尋、郎中王方慶問...方慶進曰...上悅，使方慶詳求典故...上後頗以爲疑，竟不補授而止也。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "憲宗幼時對答德宗",
+      "event_type": "對話",
+      "time": "憲宗皇帝六七歲時",
+      "place": "",
+      "participants": [
+        "德宗",
+        "憲宗皇帝"
+      ],
+      "description": "德宗抱年幼憲宗置膝上詢問身份，憲宗答「第二天子也」，德宗驚喜並因此重視。",
+      "outcomes": [
+        "德宗對答語驚喜",
+        "德宗自此重視憲宗"
+      ],
+      "evidence": [
+        "憲宗皇帝六七歲時，德宗抱置膝上，謂曰︰「汝是何人，在吾懷中？」對曰︰「第二天子也。」上大驚喜，由是重之。"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_tanghuiyao_004_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0003",
+      "section_title": "雜錄",
+      "item_ids": [
+        "wikisource_tanghuiyao_004_00012",
+        "wikisource_tanghuiyao_004_00013",
+        "wikisource_tanghuiyao_004_00014",
+        "wikisource_tanghuiyao_004_00015",
+        "wikisource_tanghuiyao_004_00016",
+        "wikisource_tanghuiyao_004_00017",
+        "wikisource_tanghuiyao_004_00018",
+        "wikisource_tanghuiyao_004_00019",
+        "wikisource_tanghuiyao_004_00020",
+        "wikisource_tanghuiyao_004_00021",
+        "wikisource_tanghuiyao_004_00022",
+        "wikisource_tanghuiyao_004_00023",
+        "wikisource_tanghuiyao_004_00024"
+      ]
+    },
+    {
+      "section_id": "sec_0004",
+      "section_title": "追諡太子",
+      "item_ids": [
+        "wikisource_tanghuiyao_004_00025",
+        "wikisource_tanghuiyao_004_00026"
+      ]
+    },
+    {
+      "section_id": "sec_0005",
+      "section_title": "雜錄",
+      "item_ids": [
+        "wikisource_tanghuiyao_004_00027",
+        "wikisource_tanghuiyao_004_00028",
+        "wikisource_tanghuiyao_004_00029",
+        "wikisource_tanghuiyao_004_00030"
+      ]
+    },
+    {
+      "section_id": "sec_0006",
+      "section_title": "皇太孫",
+      "item_ids": [
+        "wikisource_tanghuiyao_004_00031",
+        "wikisource_tanghuiyao_004_00032",
+        "wikisource_tanghuiyao_004_00033"
+      ]
+    }
+  ]
+}

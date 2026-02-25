@@ -1,0 +1,3998 @@
+{
+  "work": "唐會要",
+  "volume": "006",
+  "page_title": "唐會要/卷006",
+  "url": "https://zh.wikisource.org/wiki/%E5%94%90%E6%9C%83%E8%A6%81%2F%E5%8D%B7006",
+  "generated_at": "2026-02-16T04:04:06.907281+00:00",
+  "time_anchors": [
+    {
+      "text": "北宋",
+      "normalized": "北宋",
+      "evidence": "times=北宋",
+      "confidence": 0.9
+    },
+    {
+      "text": "高祖",
+      "normalized": "高祖时期",
+      "evidence": "高祖十九女：長沙，{{*|降馮少師。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "太宗",
+      "normalized": "太宗时期",
+      "evidence": "太宗二十一女：襄城，{{*|降蕭銳，後降姜簡。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "高宗",
+      "normalized": "高宗时期",
+      "evidence": "高宗三女：義陽，{{*|降權毅。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "中宗",
+      "normalized": "中宗时期",
+      "evidence": "中宗八女：新都，{{*|降武延暉。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "睿宗",
+      "normalized": "睿宗时期",
+      "evidence": "睿宗十一女：壽昌，{{*|降崔眞。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "玄宗",
+      "normalized": "玄宗时期",
+      "evidence": "玄宗三十女：永穆，{{*|降王繇。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "肅宗",
+      "normalized": "肅宗时期",
+      "evidence": "肅宗七女：長樂，{{*|降豆盧諶，改封宿國。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "代宗",
+      "normalized": "代宗时期",
+      "evidence": "代宗十八女。靈仙，{{*|早薨。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "德宗",
+      "normalized": "德宗时期",
+      "evidence": "德宗十一女：唐安，{{*|降韋宥，早薨，贈韓國，諡貞穆。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "順宗",
+      "normalized": "順宗时期",
+      "evidence": "順宗十一女：漢陽，{{*|降郭鏦。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "憲宗",
+      "normalized": "憲宗时期",
+      "evidence": "憲宗十九女：普寧，{{*|降于季友。改封永昌，贈梁國，諡惠康。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "穆宗",
+      "normalized": "穆宗时期",
+      "evidence": "穆宗八女：義豐，{{*|降韋處仁。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "敬宗",
+      "normalized": "敬宗时期",
+      "evidence": "敬宗三女：永興，天長，寧國。",
+      "confidence": 0.9
+    },
+    {
+      "text": "文宗",
+      "normalized": "文宗时期",
+      "evidence": "文宗四女：興唐，西平，朗寧，光化。",
+      "confidence": 0.9
+    },
+    {
+      "text": "武宗",
+      "normalized": "武宗时期",
+      "evidence": "武宗七女：昌樂，壽春，永清，延慶，靜樂，樂溫，長寧。",
+      "confidence": 0.9
+    },
+    {
+      "text": "宣宗",
+      "normalized": "宣宗时期",
+      "evidence": "宣宗十一女：萬壽，{{*|降鄭顥。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "懿宗",
+      "normalized": "懿宗时期",
+      "evidence": "懿宗八女：同昌，{{*|降韋保衡。封衛國，諡文懿。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "僖宗",
+      "normalized": "僖宗时期",
+      "evidence": "僖宗二女：唐興，永平。",
+      "confidence": 0.9
+    },
+    {
+      "text": "昭宗",
+      "normalized": "昭宗时期",
+      "evidence": "昭宗十一女：新安，平原，{{*|降李繼侃。}}",
+      "confidence": 0.9
+    },
+    {
+      "text": "義兵起",
+      "normalized": "義兵起",
+      "evidence": "義兵起，公主于鄠縣莊散家資招引山中亡命",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞觀五年",
+      "normalized": "貞觀五年",
+      "evidence": "貞觀五年，長樂公主出降",
+      "confidence": 0.9
+    },
+    {
+      "text": "十一年",
+      "normalized": "貞觀十一年",
+      "evidence": "十一年，侍中王珪子敬直尚南平公主",
+      "confidence": 0.9
+    },
+    {
+      "text": "十六年七月三日",
+      "normalized": "貞觀十六年七月三日",
+      "evidence": "十六年七月三日，勅晉王宜班于朝列",
+      "confidence": 0.9
+    },
+    {
+      "text": "永徽元年正月",
+      "normalized": "永徽元年正月",
+      "evidence": "永徽元年正月，衡山公主欲出降長孫氏",
+      "confidence": 0.9
+    },
+    {
+      "text": "咸亨二年五月十六日",
+      "normalized": "咸亨二年五月十六日",
+      "evidence": "咸亨二年五月十六日，城陽公主薨",
+      "confidence": 0.9
+    },
+    {
+      "text": "顯慶三年九月十九日",
+      "normalized": "顯慶三年九月十九日",
+      "evidence": "顯慶三年九月十九日，詔︰「古稱釐降，唯屬王姬...",
+      "confidence": 0.9
+    },
+    {
+      "text": "神龍二年閏正月一日",
+      "normalized": "神龍二年閏正月一日",
+      "evidence": "神龍二年閏正月一日，勅置公主設官屬",
+      "confidence": 0.9
+    },
+    {
+      "text": "景龍四年六月二十二日",
+      "normalized": "景龍四年六月二十二日",
+      "evidence": "至景龍四年六月二十二日，停公主府，依舊置邑司",
+      "confidence": 0.9
+    },
+    {
+      "text": "唐隆元年六月二十六日",
+      "normalized": "唐隆元年六月二十六日",
+      "evidence": "唐隆元年六月二十六日，勅公主置府...",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元十年",
+      "normalized": "開元十年",
+      "evidence": "開元十年，永穆公主出降",
+      "confidence": 0.9
+    },
+    {
+      "text": "天寶七載",
+      "normalized": "天寶七載",
+      "evidence": "天寶七載，皇女道士萬安公主出就金仙觀安置",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾元三年正月十九日",
+      "normalized": "乾元三年正月十九日",
+      "evidence": "乾元三年正月十九日，永昌縣主壻韋嗣道宜付吏部與散官",
+      "confidence": 0.9
+    },
+    {
+      "text": "建中元年九月",
+      "normalized": "建中元年九月",
+      "evidence": "建中元年九月，詔婚嫁函書，出于近代...",
+      "confidence": 0.9
+    },
+    {
+      "text": "建中元年十二月",
+      "normalized": "建中元年十二月",
+      "evidence": "十二月，出嫁岳陽等十一縣主",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元二年二月",
+      "normalized": "貞元二年二月",
+      "evidence": "貞元二年二月，太常奏：「長林公主出降...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元四年二月七日",
+      "normalized": "貞元四年二月七日",
+      "evidence": "至四年二月七日，太常卿董晉奏曰...",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元十五年七月三日",
+      "normalized": "貞元十五年七月三日",
+      "evidence": "至十五年七月三日，有司奏：「册公主儀注...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元二十一年四月七日",
+      "normalized": "貞元二十一年四月七日",
+      "evidence": "至二十一年四月七日，勅禮部。禮儀使奏...",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元五年十二月十八日",
+      "normalized": "貞元五年十二月十八日",
+      "evidence": "五年十二月十八日，諸郡縣主壻每停官後...",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元六年十一月",
+      "normalized": "貞元六年十一月",
+      "evidence": "六年十一月，詔：「郡主壻檢校四品京官者...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元十一年十月",
+      "normalized": "貞元十一年十月",
+      "evidence": "十一年十月，義陽公主出降祕書少監王士平",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元十四年",
+      "normalized": "貞元十四年",
+      "evidence": "十四年，故懷澤縣主壻檢校右贊善大夫竇克構狀言...",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元十五年七月",
+      "normalized": "貞元十五年七月",
+      "evidence": "十五年七月勅：「駙馬郡、縣主，如實無子...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "永貞元年正月",
+      "normalized": "永貞元年正月",
+      "evidence": "永貞元年正月，度支奏：「故永昌公主薨...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和三年三月",
+      "normalized": "元和三年三月",
+      "evidence": "元和三年三月勅：「縣主壻請授外官...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和七年十一月",
+      "normalized": "元和七年十一月",
+      "evidence": "七年十一月，京兆尹元義方奏：「永昌公主祠堂制度...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和九年八月",
+      "normalized": "元和九年八月",
+      "evidence": "九年八月，岐陽公主出降杜悰...",
+      "confidence": 0.9
+    },
+    {
+      "text": "大和三年正月",
+      "normalized": "大和三年正月",
+      "evidence": "大和三年正月勅：「潯陽、平恩、邵陽三公主...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "大和四年五月",
+      "normalized": "大和四年五月",
+      "evidence": "四年五月勅：「出降縣主妝粉錢...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "大和四年正月",
+      "normalized": "大和四年正月",
+      "evidence": "四年正月勅：「駙馬竇澣，公主衣服逾制...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "開成二年十二月",
+      "normalized": "開成二年十二月",
+      "evidence": "開成二年十二月勅：「駙馬嘗爲公主行服三年...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "開成三年十二月",
+      "normalized": "開成三年十二月",
+      "evidence": "三年十二月勅：「駙馬都尉尚公主後...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "會昌五年七月",
+      "normalized": "會昌五年七月",
+      "evidence": "會昌五年七月，中書門下奏：「伏見公主上表稱妾李氏者...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "大中四年二月",
+      "normalized": "大中四年二月",
+      "evidence": "大中四年二月，以起居郎、駙馬都尉鄭顥尚萬壽公主...",
+      "confidence": 0.9
+    },
+    {
+      "text": "大中五年四月",
+      "normalized": "大中五年四月",
+      "evidence": "五年四月勅：「夫婦之際，敎化之端...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "大中五年八月",
+      "normalized": "大中五年八月",
+      "evidence": "其年八月勅：「公主邑司，擅行文牒...」",
+      "confidence": 0.9
+    },
+    {
+      "text": "咸通十二年二月",
+      "normalized": "咸通十二年二月",
+      "evidence": "咸通十二年二月，葬衞國公主於少陵原",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞觀十三年十一月",
+      "normalized": "貞觀十三年十一月",
+      "evidence": "貞觀十三年十一月，降吐谷渾慕容諸葛鉢。",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞觀十五年正月十五日",
+      "normalized": "貞觀十五年正月十五日",
+      "evidence": "貞觀十五年正月十五日封，降于吐蕃贊普弄讚，命江夏王送之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "神龍三年四月十四日",
+      "normalized": "神龍三年四月十四日",
+      "evidence": "神龍三年四月十四日，降于吐蕃贊普。",
+      "confidence": 0.9
+    },
+    {
+      "text": "乾元元年七月十七日",
+      "normalized": "乾元元年七月十七日",
+      "evidence": "乾元元年七月十七日，出降回鶻英武威遠毘伽可汗，置公主府。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二年八月二十三日",
+      "normalized": "乾元二年八月二十三日",
+      "evidence": "二年八月二十三日，自蕃還。",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元五年四月十二日",
+      "normalized": "貞元五年四月十二日",
+      "evidence": "至貞元五年四月十二日，議罷公主府，置邑司。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元二十五年十一月三日",
+      "normalized": "開元二十五年十一月三日",
+      "evidence": "開元二十五年十一月三日，出降契丹松漠郡王李失活。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元十五年閏五月十九日",
+      "normalized": "開元十五年閏五月十九日",
+      "evidence": "開元十五年閏五月十九日，出降契丹松漠郡王李鬱于焉。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元五年二月",
+      "normalized": "開元五年二月",
+      "evidence": "開元五年二月，出降奚首領李大酺。",
+      "confidence": 0.9
+    },
+    {
+      "text": "八年",
+      "normalized": "開元八年",
+      "evidence": "至八年，大酺戮死，共立季弟魯蘇爲主，仍以公主爲妻。",
+      "confidence": 0.9
+    },
+    {
+      "text": "開元五年十二月",
+      "normalized": "開元五年十二月",
+      "evidence": "開元五年十二月，出降突騎施可汗蘇祿。",
+      "confidence": 0.9
+    },
+    {
+      "text": "天寶三載十二月十四日",
+      "normalized": "天寶三載十二月十四日",
+      "evidence": "天寶三載十二月十四日，出降寧國奉化王。",
+      "confidence": 0.9
+    },
+    {
+      "text": "天寶四載三月十四日",
+      "normalized": "天寶四載三月十四日",
+      "evidence": "天寶四載三月十四日，封外甥女獨孤氏，降松漠都督懷順王李懷節。",
+      "confidence": 0.9
+    },
+    {
+      "text": "天寶四載三月十四日",
+      "normalized": "天寶四載三月十四日",
+      "evidence": "天寶四載三月十四日，出降饒樂都督懷信王李延寵。",
+      "confidence": 0.9
+    },
+    {
+      "text": "大歷四年五月二十四日",
+      "normalized": "大歷四年五月二十四日",
+      "evidence": "大歷四年五月二十四日，出降回鶻可汗。",
+      "confidence": 0.9
+    },
+    {
+      "text": "貞元四年十月",
+      "normalized": "貞元四年十月",
+      "evidence": "貞元四年十月，出降回紇天親可汗。",
+      "confidence": 0.9
+    },
+    {
+      "text": "其月二十六日",
+      "normalized": "貞元四年十月二十六日",
+      "evidence": "其月二十六日，勅置咸安公主府，準親王例。",
+      "confidence": 0.9
+    },
+    {
+      "text": "長慶元年二月",
+      "normalized": "長慶元年二月",
+      "evidence": "長慶元年二月，出降回紇崇德可汗。",
+      "confidence": 0.9
+    },
+    {
+      "text": "景龙四年正月二十七日",
+      "normalized": "景龙四年正月二十七日",
+      "evidence": "景龙四年正月二十七日，幸始平县，送金城公主，以骁卫大将军杨矩为使。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二月一日",
+      "normalized": "景龙四年二月一日",
+      "evidence": "二月一日，改始平县为金城县，又改地为凤台乡怆别里。",
+      "confidence": 0.9
+    },
+    {
+      "text": "开元二十一年正月",
+      "normalized": "开元二十一年正月",
+      "evidence": "开元二十一年正月，命工部尚书李暠持节于吐蕃，以国信物一万匹，私觌物二千匹，皆杂以五彩，遣之。",
+      "confidence": 0.9
+    },
+    {
+      "text": "二十九年",
+      "normalized": "开元二十九年",
+      "evidence": "二十九年，金城公主薨，吐蕃使来告哀。",
+      "confidence": 0.9
+    },
+    {
+      "text": "贞元二年四月二十九日",
+      "normalized": "贞元二年四月二十九日",
+      "evidence": "贞元二年四月二十九日，太常卿董晋奏：「公主出降蕃国，请加玉册。」制曰：「可。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "三年九月",
+      "normalized": "贞元三年九月",
+      "evidence": "三年九月，遣回纥使合阙将军归其国。",
+      "confidence": 0.9
+    },
+    {
+      "text": "四年十月",
+      "normalized": "贞元四年十月",
+      "evidence": "四年十月，回纥公主及使至自蕃，上御延喜门，禁妇人及车舆观者。",
+      "confidence": 0.9
+    },
+    {
+      "text": "元和三年正月",
+      "normalized": "元和三年正月",
+      "evidence": "元和三年正月，咸安公主薨，废朝三日。",
+      "confidence": 0.9
+    },
+    {
+      "text": "长庆元年二月",
+      "normalized": "长庆元年二月",
+      "evidence": "长庆元年二月封为公主，册为回纥可敦，出降爱登里逻骨没密施合毗伽保义可汗",
+      "confidence": 0.9
+    },
+    {
+      "text": "其年三月",
+      "normalized": "长庆元年三月",
+      "evidence": "其年三月，保义可汗卒；",
+      "confidence": 0.9
+    },
+    {
+      "text": "四月",
+      "normalized": "长庆元年四月",
+      "evidence": "四月，册九姓回纥为崇德可汗；",
+      "confidence": 0.9
+    },
+    {
+      "text": "五月",
+      "normalized": "长庆元年五月",
+      "evidence": "五月，遣使请迎所许嫁公主。",
+      "confidence": 0.9
+    },
+    {
+      "text": "会昌元年十一月",
+      "normalized": "会昌元年十一月",
+      "evidence": "会昌元年十一月，敕：「缘回纥国中离乱颇甚，太和公主恐未安宁，须遣文臣专往访问，宜差通使舍人苗绾充使。」",
+      "confidence": 0.9
+    },
+    {
+      "text": "三年二月",
+      "normalized": "会昌三年二月",
+      "evidence": "三年二月，太常礼院奏：「太和公主到日，百寮于章敬寺门立班...",
+      "confidence": 0.9
+    },
+    {
+      "text": "其月二十五日",
+      "normalized": "会昌三年二月二十五日",
+      "evidence": "其月二十五日，公主自蕃还京，诏左右神策各出军二百人...",
+      "confidence": 0.9
+    },
+    {
+      "text": "二十七日",
+      "normalized": "会昌三年二月二十七日",
+      "evidence": "二十七日敕：「安定大长公主自蕃还京，莫不哀悯...",
+      "confidence": 0.9
+    },
+    {
+      "text": "三月",
+      "normalized": "会昌三年三月",
+      "evidence": "三月，中书门下奏：「伏闻定安大长公主，二月二十五日，以回纥背叛恩德...",
+      "confidence": 0.9
+    }
+  ],
+  "people": [
+    {
+      "name": "王溥",
+      "aliases": [],
+      "roles": [
+        "作者"
+      ],
+      "offices": [],
+      "evidence": [
+        "author=王溥"
+      ]
+    },
+    {
+      "name": "高祖",
+      "aliases": [],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "高祖第三女平陽公主",
+        "高祖大悅",
+        "高祖十九女：",
+        "使者至，高祖大悅"
+      ]
+    },
+    {
+      "name": "長沙",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "長沙，{{*|降馮少師。}}"
+      ]
+    },
+    {
+      "name": "馮少師",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "降馮少師"
+      ]
+    },
+    {
+      "name": "襄陽",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "襄陽，{{*|降竇誕。}}"
+      ]
+    },
+    {
+      "name": "竇誕",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "降竇誕"
+      ]
+    },
+    {
+      "name": "平陽",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "平陽，{{*|降柴紹。}}"
+      ]
+    },
+    {
+      "name": "柴紹",
+      "aliases": [
+        "駙馬"
+      ],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "与其駙馬柴紹各置幕府",
+        "降柴紹"
+      ]
+    },
+    {
+      "name": "回紇可汗",
+      "aliases": [],
+      "roles": [
+        "可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "降回紇可汗"
+      ]
+    },
+    {
+      "name": "薛伯陽",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "降薛伯陽",
+        "降薛伯陽，後降溫義"
+      ]
+    },
+    {
+      "name": "琛王",
+      "aliases": [],
+      "roles": [
+        "王"
+      ],
+      "offices": [],
+      "evidence": [
+        "本琛王女"
+      ]
+    },
+    {
+      "name": "平陽公主",
+      "aliases": [
+        "昭"
+      ],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "高祖第三女平陽公主",
+        "追諡曰昭",
+        "營中號爲「娘子軍」"
+      ]
+    },
+    {
+      "name": "太宗",
+      "aliases": [
+        "上"
+      ],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "與太宗會于渭北",
+        "太宗長女襄城公主",
+        "太宗以皇后所生"
+      ]
+    },
+    {
+      "name": "襄城公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "太宗長女襄城公主，出降中書令蕭瑀子銳"
+      ]
+    },
+    {
+      "name": "蕭瑀",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "中書令"
+      ],
+      "evidence": [
+        "出降中書令蕭瑀子銳"
+      ]
+    },
+    {
+      "name": "蕭銳",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降中書令蕭瑀子銳"
+      ]
+    },
+    {
+      "name": "長樂公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "貞觀五年，長樂公主出降"
+      ]
+    },
+    {
+      "name": "魏徵",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "秘書監"
+      ],
+      "evidence": [
+        "秘書監魏徵諫曰"
+      ]
+    },
+    {
+      "name": "長孫皇后",
+      "aliases": [],
+      "roles": [
+        "皇后"
+      ],
+      "offices": [],
+      "evidence": [
+        "長孫皇后遣使賫錢四十萬、絹五百疋"
+      ]
+    },
+    {
+      "name": "王珪",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "侍中"
+      ],
+      "evidence": [
+        "侍中王珪子敬直尚南平公主"
+      ]
+    },
+    {
+      "name": "王敬直",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "侍中王珪子敬直尚南平公主"
+      ]
+    },
+    {
+      "name": "南平公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "侍中王珪子敬直尚南平公主"
+      ]
+    },
+    {
+      "name": "晉王",
+      "aliases": [],
+      "roles": [
+        "皇子"
+      ],
+      "offices": [],
+      "evidence": [
+        "晉王及晉陽公主幼而偏孤，上親加鞠養"
+      ]
+    },
+    {
+      "name": "晉陽公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "晉王及晉陽公主幼而偏孤"
+      ]
+    },
+    {
+      "name": "衡山公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "永徽元年正月，衡山公主欲出降長孫氏"
+      ]
+    },
+    {
+      "name": "于志寧",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "侍中"
+      ],
+      "evidence": [
+        "侍中于志寧上疏曰"
+      ]
+    },
+    {
+      "name": "城陽公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "咸亨二年五月十六日，城陽公主薨"
+      ]
+    },
+    {
+      "name": "杜荷",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "公主初適杜荷，坐承乾事誅"
+      ]
+    },
+    {
+      "name": "薛瓘",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [
+        "房州刺史"
+      ],
+      "evidence": [
+        "公主改適薛瓘",
+        "瓘後爲房州刺史"
+      ]
+    },
+    {
+      "name": "馬周",
+      "aliases": [],
+      "roles": [],
+      "offices": [],
+      "evidence": [
+        "馬周諫曰"
+      ]
+    },
+    {
+      "name": "太平公主",
+      "aliases": [
+        "鎮國太平公主"
+      ],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "鎭國太平公主儀比親王",
+        "其鎭國太平公主府，卽宜依舊"
+      ]
+    },
+    {
+      "name": "袁楚客",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "酸棗縣尉"
+      ],
+      "evidence": [
+        "酸棗縣尉袁楚客奏記于中書令魏元忠"
+      ]
+    },
+    {
+      "name": "魏元忠",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "中書令"
+      ],
+      "evidence": [
+        "奏記于中書令魏元忠"
+      ]
+    },
+    {
+      "name": "永穆公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "開元十年，永穆公主出降"
+      ]
+    },
+    {
+      "name": "僧一行",
+      "aliases": [
+        "一行"
+      ],
+      "roles": [
+        "僧"
+      ],
+      "offices": [],
+      "evidence": [
+        "僧一行諫曰"
+      ]
+    },
+    {
+      "name": "萬安公主",
+      "aliases": [],
+      "roles": [
+        "公主",
+        "道士"
+      ],
+      "offices": [],
+      "evidence": [
+        "皇女道士萬安公主出就金仙觀安置"
+      ]
+    },
+    {
+      "name": "韋嗣道",
+      "aliases": [],
+      "roles": [
+        "縣主壻"
+      ],
+      "offices": [],
+      "evidence": [
+        "永昌縣主壻韋嗣道宜付吏部與散官"
+      ]
+    },
+    {
+      "name": "李吉甫",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "宰臣"
+      ],
+      "evidence": [
+        "宰臣李吉甫奏"
+      ]
+    },
+    {
+      "name": "岐陽公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "九年八月，岐陽公主出降杜悰"
+      ]
+    },
+    {
+      "name": "杜悰",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "岐陽公主出降杜悰",
+        "駙馬杜悰因禮文不爲重服"
+      ]
+    },
+    {
+      "name": "裴武",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "京兆尹"
+      ],
+      "evidence": [
+        "京兆尹裴武充禮會使"
+      ]
+    },
+    {
+      "name": "竇澣",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "駙馬竇澣，公主衣服逾制"
+      ]
+    },
+    {
+      "name": "鄭顥",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [
+        "起居郎",
+        "駙馬都尉"
+      ],
+      "evidence": [
+        "以起居郎、駙馬都尉鄭顥尚萬壽公主"
+      ]
+    },
+    {
+      "name": "萬壽公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "尚萬壽公主",
+        "萬壽公主婦禮，宜依士庶"
+      ]
+    },
+    {
+      "name": "韋保衡",
+      "aliases": [],
+      "roles": [
+        "駙馬"
+      ],
+      "offices": [],
+      "evidence": [
+        "令駙馬韋保衡自撰公主神道碑"
+      ]
+    },
+    {
+      "name": "薛能",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "京兆尹"
+      ],
+      "evidence": [
+        "京兆尹薛能爲外監護"
+      ]
+    },
+    {
+      "name": "楊復璟",
+      "aliases": [],
+      "roles": [],
+      "offices": [
+        "供奉官"
+      ],
+      "evidence": [
+        "供奉官楊復璟爲內監護"
+      ]
+    },
+    {
+      "name": "郭淑妃",
+      "aliases": [],
+      "roles": [
+        "淑妃"
+      ],
+      "offices": [],
+      "evidence": [
+        "上與郭淑妃御延興門哭送"
+      ]
+    },
+    {
+      "name": "弘化",
+      "aliases": [
+        "弘化公主"
+      ],
+      "roles": [
+        "和蕃公主",
+        "宗室女"
+      ],
+      "offices": [],
+      "evidence": [
+        "弘化。{{*|宗室女。貞觀十三年十一月，降吐谷渾慕容諸葛鉢。}}"
+      ]
+    },
+    {
+      "name": "慕容諸葛鉢",
+      "aliases": [],
+      "roles": [
+        "吐谷渾首領"
+      ],
+      "offices": [],
+      "evidence": [
+        "降吐谷渾慕容諸葛鉢。"
+      ]
+    },
+    {
+      "name": "文成",
+      "aliases": [
+        "文成公主"
+      ],
+      "roles": [
+        "和蕃公主",
+        "宗室女"
+      ],
+      "offices": [],
+      "evidence": [
+        "文成。{{*|宗室女。貞觀十五年正月十五日封，降于吐蕃贊普弄讚，命江夏王送之。}}"
+      ]
+    },
+    {
+      "name": "弄讚",
+      "aliases": [
+        "吐蕃贊普弄讚"
+      ],
+      "roles": [
+        "吐蕃贊普"
+      ],
+      "offices": [],
+      "evidence": [
+        "降于吐蕃贊普弄讚",
+        "弄讚親迎于河源，見王，行子壻禮甚謹"
+      ]
+    },
+    {
+      "name": "江夏王",
+      "aliases": [],
+      "roles": [
+        "唐朝宗室"
+      ],
+      "offices": [
+        "江夏王"
+      ],
+      "evidence": [
+        "命江夏王送之。"
+      ]
+    },
+    {
+      "name": "金城",
+      "aliases": [
+        "金城公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "金城。{{*|雍王守禮女。神龍三年四月十四日，降于吐蕃贊普。}}"
+      ]
+    },
+    {
+      "name": "雍王守禮",
+      "aliases": [],
+      "roles": [
+        "宗室"
+      ],
+      "offices": [
+        "雍王"
+      ],
+      "evidence": [
+        "雍王守禮女。"
+      ]
+    },
+    {
+      "name": "寧國",
+      "aliases": [
+        "寧國公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "寧國。{{*|肅宗女。乾元元年七月十七日，出降回鶻英武威遠毘伽可汗，置公主府。}}"
+      ]
+    },
+    {
+      "name": "肅宗",
+      "aliases": [],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "肅宗女。"
+      ]
+    },
+    {
+      "name": "英武威遠毘伽可汗",
+      "aliases": [],
+      "roles": [
+        "回鶻可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降回鶻英武威遠毘伽可汗"
+      ]
+    },
+    {
+      "name": "永樂",
+      "aliases": [
+        "永樂公主"
+      ],
+      "roles": [
+        "和蕃公主",
+        "宗室女"
+      ],
+      "offices": [],
+      "evidence": [
+        "永樂。{{*|宗室女。開元二十五年十一月三日，出降契丹松漠郡王李失活。}}"
+      ]
+    },
+    {
+      "name": "李失活",
+      "aliases": [],
+      "roles": [
+        "契丹首領"
+      ],
+      "offices": [
+        "松漠郡王"
+      ],
+      "evidence": [
+        "出降契丹松漠郡王李失活。"
+      ]
+    },
+    {
+      "name": "燕郡",
+      "aliases": [
+        "燕郡公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "燕郡。{{*|餘姚公主女，慕容氏。開元十五年閏五月十九日，出降契丹松漠郡王李鬱于焉。}}"
+      ]
+    },
+    {
+      "name": "餘姚公主",
+      "aliases": [],
+      "roles": [
+        "公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "餘姚公主女"
+      ]
+    },
+    {
+      "name": "李鬱于焉",
+      "aliases": [],
+      "roles": [
+        "契丹首領"
+      ],
+      "offices": [
+        "松漠郡王"
+      ],
+      "evidence": [
+        "出降契丹松漠郡王李鬱于焉。"
+      ]
+    },
+    {
+      "name": "固安",
+      "aliases": [
+        "固安公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "固安。{{*|從外甥女辛氏。開元五年二月，出降奚首領李大酺。}}"
+      ]
+    },
+    {
+      "name": "辛氏",
+      "aliases": [],
+      "roles": [
+        "固安公主本姓"
+      ],
+      "offices": [],
+      "evidence": [
+        "從外甥女辛氏。"
+      ]
+    },
+    {
+      "name": "李大酺",
+      "aliases": [],
+      "roles": [
+        "奚首領"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降奚首領李大酺。"
+      ]
+    },
+    {
+      "name": "魯蘇",
+      "aliases": [],
+      "roles": [
+        "奚首領"
+      ],
+      "offices": [],
+      "evidence": [
+        "共立季弟魯蘇爲主，仍以公主爲妻。"
+      ]
+    },
+    {
+      "name": "塞默羯",
+      "aliases": [],
+      "roles": [
+        "牙官"
+      ],
+      "offices": [],
+      "evidence": [
+        "時魯蘇牙官塞默羯謀害魯蘇，翻歸突厥，公主密知之，遂誘而殺之。"
+      ]
+    },
+    {
+      "name": "東光",
+      "aliases": [
+        "東光公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "東光。{{*|咸安公主女韋氏。降奚首領魯蘇。}}"
+      ]
+    },
+    {
+      "name": "韋氏",
+      "aliases": [],
+      "roles": [
+        "東光公主本姓"
+      ],
+      "offices": [],
+      "evidence": [
+        "咸安公主女韋氏。"
+      ]
+    },
+    {
+      "name": "咸安",
+      "aliases": [
+        "咸安公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "咸安。{{*|德宗女。貞元四年十月，出降回紇天親可汗。}}",
+        "咸安公主女韋氏。"
+      ]
+    },
+    {
+      "name": "德宗",
+      "aliases": [],
+      "roles": [
+        "君主",
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "德宗与群臣议，许之",
+        "德宗女。"
+      ]
+    },
+    {
+      "name": "交河",
+      "aliases": [
+        "交河公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "交河。{{*|十姓可汗阿史那懷道女。開元五年十二月，出降突騎施可汗蘇祿。}}"
+      ]
+    },
+    {
+      "name": "阿史那懷道",
+      "aliases": [],
+      "roles": [
+        "十姓可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "十姓可汗阿史那懷道女。"
+      ]
+    },
+    {
+      "name": "蘇祿",
+      "aliases": [],
+      "roles": [
+        "突騎施可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降突騎施可汗蘇祿。"
+      ]
+    },
+    {
+      "name": "和義",
+      "aliases": [
+        "和義公主"
+      ],
+      "roles": [
+        "和蕃公主",
+        "宗室女"
+      ],
+      "offices": [],
+      "evidence": [
+        "和義。{{*|宗室女。天寶三載十二月十四日，出降寧國奉化王。}}"
+      ]
+    },
+    {
+      "name": "寧國奉化王",
+      "aliases": [],
+      "roles": [
+        "首領"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降寧國奉化王。"
+      ]
+    },
+    {
+      "name": "靜樂",
+      "aliases": [
+        "靜樂公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "靜樂。{{*|天寶四載三月十四日，封外甥女獨孤氏，降松漠都督懷順王李懷節。}}"
+      ]
+    },
+    {
+      "name": "獨孤氏",
+      "aliases": [],
+      "roles": [
+        "靜樂公主本姓"
+      ],
+      "offices": [],
+      "evidence": [
+        "封外甥女獨孤氏"
+      ]
+    },
+    {
+      "name": "李懷節",
+      "aliases": [],
+      "roles": [
+        "契丹首領"
+      ],
+      "offices": [
+        "松漠都督",
+        "懷順王"
+      ],
+      "evidence": [
+        "降松漠都督懷順王李懷節。"
+      ]
+    },
+    {
+      "name": "宜芳",
+      "aliases": [
+        "宜芳公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "宜芳。{{*|外甥女楊氏。天寶四載三月十四日，出降饒樂都督懷信王李延寵。}}"
+      ]
+    },
+    {
+      "name": "楊氏",
+      "aliases": [],
+      "roles": [
+        "宜芳公主本姓"
+      ],
+      "offices": [],
+      "evidence": [
+        "外甥女楊氏。"
+      ]
+    },
+    {
+      "name": "李延寵",
+      "aliases": [],
+      "roles": [
+        "奚首領"
+      ],
+      "offices": [
+        "饒樂都督",
+        "懷信王"
+      ],
+      "evidence": [
+        "出降饒樂都督懷信王李延寵。"
+      ]
+    },
+    {
+      "name": "崇徽",
+      "aliases": [
+        "崇徽公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "崇徽。{{*|僕固懷恩女。大歷四年五月二十四日，出降回鶻可汗。}}"
+      ]
+    },
+    {
+      "name": "僕固懷恩",
+      "aliases": [],
+      "roles": [
+        "將領"
+      ],
+      "offices": [],
+      "evidence": [
+        "僕固懷恩女。"
+      ]
+    },
+    {
+      "name": "天親可汗",
+      "aliases": [],
+      "roles": [
+        "回紇可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降回紇天親可汗。"
+      ]
+    },
+    {
+      "name": "太和",
+      "aliases": [
+        "太和公主"
+      ],
+      "roles": [
+        "和蕃公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "太和。{{*|憲宗女。長慶元年二月，出降回紇崇德可汗。}}"
+      ]
+    },
+    {
+      "name": "憲宗",
+      "aliases": [],
+      "roles": [
+        "皇帝"
+      ],
+      "offices": [],
+      "evidence": [
+        "憲宗女。"
+      ]
+    },
+    {
+      "name": "崇德可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主",
+        "回紇可汗"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降回紇崇德可汗。",
+        "四月，册九姓回纥为崇德可汗"
+      ]
+    },
+    {
+      "name": "上",
+      "aliases": [
+        "皇帝"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "上初谓侍中纪处讷曰",
+        "上御延喜门",
+        "上令朔州及太原分留回纥七百余人"
+      ]
+    },
+    {
+      "name": "杨矩",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "骁卫大将军"
+      ],
+      "evidence": [
+        "以骁卫大将军杨矩为使"
+      ]
+    },
+    {
+      "name": "纪处讷",
+      "aliases": [],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "侍中"
+      ],
+      "evidence": [
+        "上初谓侍中纪处讷曰：「昔文成公主出降，即江夏王送之，卿识蕃情，又有安边之略，可为朕充此使也。」处讷辞以不练边事。"
+      ]
+    },
+    {
+      "name": "赵彦昭",
+      "aliases": [],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "中书侍郎"
+      ],
+      "evidence": [
+        "上又使中书侍郎赵彦昭代行"
+      ]
+    },
+    {
+      "name": "赵履温",
+      "aliases": [],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "司农卿"
+      ],
+      "evidence": [
+        "司农卿赵履温谓之曰：「公国之宰辅，而为一介之使，不亦鄙乎？」"
+      ]
+    },
+    {
+      "name": "安乐公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "履温因为阴托安乐公主，密奏留之"
+      ]
+    },
+    {
+      "name": "李暠",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "工部尚书"
+      ],
+      "evidence": [
+        "命工部尚书李暠持节于吐蕃"
+      ]
+    },
+    {
+      "name": "金城公主",
+      "aliases": [],
+      "roles": [
+        "和亲公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "送金城公主",
+        "金城公主上言，请以今年九月一日，树碑于赤岭",
+        "二十九年，金城公主薨"
+      ]
+    },
+    {
+      "name": "张守珪",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [],
+      "evidence": [
+        "诏张守珪、李行褘与吐蕃使莽布支同往观树焉"
+      ]
+    },
+    {
+      "name": "李行褘",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [],
+      "evidence": [
+        "诏张守珪、李行褘与吐蕃使莽布支同往观树焉"
+      ]
+    },
+    {
+      "name": "莽布支",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "吐蕃使"
+      ],
+      "evidence": [
+        "诏张守珪、李行褘与吐蕃使莽布支同往观树焉"
+      ]
+    },
+    {
+      "name": "董晋",
+      "aliases": [],
+      "roles": [
+        "臣"
+      ],
+      "offices": [
+        "太常卿"
+      ],
+      "evidence": [
+        "贞元二年四月二十九日，太常卿董晋奏"
+      ]
+    },
+    {
+      "name": "合阙",
+      "aliases": [
+        "合阙将军"
+      ],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "回纥使"
+      ],
+      "evidence": [
+        "遣回纥使合阙将军归其国。初，合阙将其君命请婚于我"
+      ]
+    },
+    {
+      "name": "咸安公主",
+      "aliases": [],
+      "roles": [
+        "和亲公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "许以咸安公主嫁之",
+        "元和三年正月，咸安公主薨"
+      ]
+    },
+    {
+      "name": "湛然",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "殿中监",
+        "嗣滕王"
+      ],
+      "evidence": [
+        "以殿中监嗣滕王湛然为送咸安公主使，仍兼婚礼使"
+      ]
+    },
+    {
+      "name": "胡证",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "左金吾大将军"
+      ],
+      "evidence": [
+        "命中书舍人王起充鸿胪寺以宣谕焉。又诏左金吾大将军胡证充送公主为回纥可敦归国及加册可汗等使"
+      ]
+    },
+    {
+      "name": "李宪",
+      "aliases": [],
+      "roles": [
+        "副使"
+      ],
+      "offices": [
+        "光禄卿"
+      ],
+      "evidence": [
+        "光禄卿李宪充副使"
+      ]
+    },
+    {
+      "name": "李锐",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "太常卿"
+      ],
+      "evidence": [
+        "太常卿李锐充婚礼使"
+      ]
+    },
+    {
+      "name": "崔植",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "中书侍郎平章事"
+      ],
+      "evidence": [
+        "以中书侍郎平章事崔植充册使"
+      ]
+    },
+    {
+      "name": "杜元颖",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "户部侍郎平章事"
+      ],
+      "evidence": [
+        "户部侍郎平章事杜元颖充五礼使"
+      ]
+    },
+    {
+      "name": "王起",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "中书舍人"
+      ],
+      "evidence": [
+        "令中书舍人王起赴鸿胪寺宣示回纥等使",
+        "命中书舍人王起充鸿胪寺以宣谕焉"
+      ]
+    },
+    {
+      "name": "苗绾",
+      "aliases": [],
+      "roles": [
+        "使臣"
+      ],
+      "offices": [
+        "通使舍人"
+      ],
+      "evidence": [
+        "宜差通使舍人苗绾充使"
+      ]
+    },
+    {
+      "name": "太和公主",
+      "aliases": [
+        "定安大长公主"
+      ],
+      "roles": [
+        "和亲公主"
+      ],
+      "offices": [],
+      "evidence": [
+        "长庆元年二月封为公主，册为回纥可敦",
+        "其月二十五日，公主自蕃还京",
+        "其日，改封定安大长公主"
+      ]
+    },
+    {
+      "name": "宣城公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问"
+      ]
+    },
+    {
+      "name": "贞宁公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问"
+      ]
+    },
+    {
+      "name": "临贞公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问"
+      ]
+    },
+    {
+      "name": "贞源公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问"
+      ]
+    },
+    {
+      "name": "义昌公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问"
+      ]
+    },
+    {
+      "name": "阳安长公主",
+      "aliases": [],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "阳安长公主既不与定安、光顺相见，又两日就宅宣事，皆不在家"
+      ]
+    },
+    {
+      "name": "武义成功可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "回纥武义成功可汗，始遣使献方物，仍求结亲"
+      ]
+    },
+    {
+      "name": "忠贞可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "天亲可汗卒，子忠贞可汗立"
+      ]
+    },
+    {
+      "name": "奉诚可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "忠贞可汗卒，子奉诚可汗立"
+      ]
+    },
+    {
+      "name": "怀相可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "奉诚可汗卒，国人立其相，是为怀相可汗"
+      ]
+    },
+    {
+      "name": "保义可汗",
+      "aliases": [
+        "回纥可汗"
+      ],
+      "roles": [
+        "君主"
+      ],
+      "offices": [],
+      "evidence": [
+        "出降爱登里逻骨没密施合毗伽保义可汗",
+        "其年三月，保义可汗卒"
+      ]
+    },
+    {
+      "name": "骨吐禄毗伽公主",
+      "aliases": [
+        "回纥公主"
+      ],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "及其妹骨吐禄毗伽公主、夷妹迷叙骨吐禄公主，及职使大首领等妻妾，凡五十六妇人来迎可敦"
+      ]
+    },
+    {
+      "name": "迷叙骨吐禄公主",
+      "aliases": [
+        "回纥公主"
+      ],
+      "roles": [
+        "皇室成员"
+      ],
+      "offices": [],
+      "evidence": [
+        "及其妹骨吐禄毗伽公主、夷妹迷叙骨吐禄公主，及职使大首领等妻妾，凡五十六妇人来迎可敦"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "酅國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "酅國、代國、霍國是也"
+      ]
+    },
+    {
+      "name": "代國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "酅國、代國、霍國是也"
+      ]
+    },
+    {
+      "name": "霍國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "酅國、代國、霍國是也"
+      ]
+    },
+    {
+      "name": "平陽",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "平陽、宣陽、東陽是也"
+      ]
+    },
+    {
+      "name": "宣陽",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "平陽、宣陽、東陽是也"
+      ]
+    },
+    {
+      "name": "東陽",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "平陽、宣陽、東陽是也"
+      ]
+    },
+    {
+      "name": "太平",
+      "aliases": [],
+      "type": "OTHER",
+      "evidence": [
+        "太平、安樂、長寧是也"
+      ]
+    },
+    {
+      "name": "安樂",
+      "aliases": [],
+      "type": "OTHER",
+      "evidence": [
+        "太平、安樂、長寧是也"
+      ]
+    },
+    {
+      "name": "長寧",
+      "aliases": [],
+      "type": "OTHER",
+      "evidence": [
+        "太平、安樂、長寧是也"
+      ]
+    },
+    {
+      "name": "宿國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "改封宿國"
+      ]
+    },
+    {
+      "name": "蕭國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封蕭國"
+      ]
+    },
+    {
+      "name": "衛國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封衛國"
+      ]
+    },
+    {
+      "name": "楚國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封楚國"
+      ]
+    },
+    {
+      "name": "宋國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封宋國"
+      ]
+    },
+    {
+      "name": "齊國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封齊國"
+      ]
+    },
+    {
+      "name": "郜國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封郜國"
+      ]
+    },
+    {
+      "name": "虢國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封虢國"
+      ]
+    },
+    {
+      "name": "郯國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封郯國"
+      ]
+    },
+    {
+      "name": "紀國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "封紀國"
+      ]
+    },
+    {
+      "name": "趙國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈趙國"
+      ]
+    },
+    {
+      "name": "韓國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈韓國"
+      ]
+    },
+    {
+      "name": "魏國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈魏國"
+      ]
+    },
+    {
+      "name": "鄭國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈鄭國"
+      ]
+    },
+    {
+      "name": "晉國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈晉國"
+      ]
+    },
+    {
+      "name": "梁國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈梁國"
+      ]
+    },
+    {
+      "name": "燕國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "贈燕國"
+      ]
+    },
+    {
+      "name": "鄠縣",
+      "aliases": [
+        "鄠縣莊"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "公主于鄠縣莊散家資招引山中亡命"
+      ]
+    },
+    {
+      "name": "盩厔",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "略地至盩厔、武功、始平，皆下之"
+      ]
+    },
+    {
+      "name": "武功",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "略地至盩厔、武功、始平，皆下之"
+      ]
+    },
+    {
+      "name": "始平",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "略地至盩厔、武功、始平，皆下之"
+      ]
+    },
+    {
+      "name": "渭北",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "公主引精兵萬餘與太宗會于渭北"
+      ]
+    },
+    {
+      "name": "薦福寺",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "令于舊宅而改創焉，卽薦福寺是也"
+      ]
+    },
+    {
+      "name": "虔化門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "公主必送出虔化門"
+      ]
+    },
+    {
+      "name": "房州",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "瓘後爲房州刺史，公主隨之"
+      ]
+    },
+    {
+      "name": "崇仁里",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "開元中，置禮會院于崇仁里"
+      ]
+    },
+    {
+      "name": "光順門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "合前一日於光順門行五禮"
+      ]
+    },
+    {
+      "name": "宣政門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "册使出宣政門"
+      ]
+    },
+    {
+      "name": "興禮門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "便自興禮門出"
+      ]
+    },
+    {
+      "name": "延英門",
+      "aliases": [
+        "延英"
+      ],
+      "type": "BUILDING",
+      "evidence": [
+        "各赴延英、光順門進册"
+      ]
+    },
+    {
+      "name": "少陵原",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "葬衞國公主於少陵原"
+      ]
+    },
+    {
+      "name": "延興門",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "上與郭淑妃御延興門哭送"
+      ]
+    },
+    {
+      "name": "吐谷渾",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "降吐谷渾慕容諸葛鉢。"
+      ]
+    },
+    {
+      "name": "吐蕃",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "降于吐蕃贊普弄讚"
+      ]
+    },
+    {
+      "name": "河源",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "弄讚親迎于河源"
+      ]
+    },
+    {
+      "name": "回鶻",
+      "aliases": [
+        "回紇"
+      ],
+      "type": "REGION",
+      "evidence": [
+        "出降回鶻英武威遠毘伽可汗",
+        "出降回紇天親可汗"
+      ]
+    },
+    {
+      "name": "契丹",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "出降契丹松漠郡王李失活"
+      ]
+    },
+    {
+      "name": "奚",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "出降奚首領李大酺"
+      ]
+    },
+    {
+      "name": "突厥",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "翻歸突厥"
+      ]
+    },
+    {
+      "name": "突騎施",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "出降突騎施可汗蘇祿。"
+      ]
+    },
+    {
+      "name": "寧國",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "出降寧國奉化王。"
+      ]
+    },
+    {
+      "name": "松漠",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "契丹松漠郡王",
+        "松漠都督"
+      ]
+    },
+    {
+      "name": "饒樂",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "饒樂都督"
+      ]
+    },
+    {
+      "name": "始平县",
+      "aliases": [
+        "金城县"
+      ],
+      "type": "PLACE",
+      "evidence": [
+        "幸始平县",
+        "改始平县为金城县"
+      ]
+    },
+    {
+      "name": "金城县",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "改始平县为金城县"
+      ]
+    },
+    {
+      "name": "凤台乡怆别里",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "又改地为凤台乡怆别里"
+      ]
+    },
+    {
+      "name": "赤岭",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "请以今年九月一日，树碑于赤岭，定蕃、汉界"
+      ]
+    },
+    {
+      "name": "剑南",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "吐蕃遣其臣随汉使人分往剑南及河西碛"
+      ]
+    },
+    {
+      "name": "河西碛",
+      "aliases": [],
+      "type": "REGION",
+      "evidence": [
+        "吐蕃遣其臣随汉使人分往剑南及河西碛"
+      ]
+    },
+    {
+      "name": "麟德殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "命公主见合阙于麟德殿",
+        "上召回纥公主及使对于麟德殿"
+      ]
+    },
+    {
+      "name": "延喜门",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "上御延喜门，禁妇人及车舆观者"
+      ]
+    },
+    {
+      "name": "鸿胪寺",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "馆于鸿胪寺、将作监",
+        "令中书舍人王起赴鸿胪寺宣示回纥等使"
+      ]
+    },
+    {
+      "name": "将作监",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "馆于鸿胪寺、将作监"
+      ]
+    },
+    {
+      "name": "宣政殿",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "回纥使者见于宣政殿"
+      ]
+    },
+    {
+      "name": "通化门",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "上以半仗御通化门送之"
+      ]
+    },
+    {
+      "name": "章敬寺",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "敕常参官于章敬寺前立班",
+        "百寮于章敬寺门立班"
+      ]
+    },
+    {
+      "name": "长乐驿",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "从长乐驿迎公主入城"
+      ]
+    },
+    {
+      "name": "光化门",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "回从光化门入内"
+      ]
+    },
+    {
+      "name": "兴庆宫",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "赴兴庆宫贺太皇太后"
+      ]
+    },
+    {
+      "name": "光顺门",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "于光顺门内脱去簪珥，变服请罪"
+      ]
+    },
+    {
+      "name": "太庙",
+      "aliases": [],
+      "type": "BUILDING",
+      "evidence": [
+        "太和公主便赴太庙，谒宪宗、穆宗二室"
+      ]
+    },
+    {
+      "name": "朔州",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "上令朔州及太原分留回纥七百余人"
+      ]
+    },
+    {
+      "name": "太原",
+      "aliases": [],
+      "type": "PLACE",
+      "evidence": [
+        "上令朔州及太原分留回纥七百余人"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "type": "PERSON_PERSON",
+      "from": "高祖",
+      "to": "長沙",
+      "relation": "父女",
+      "time": "高祖时期",
+      "place": "",
+      "evidence": "高祖十九女：長沙，{{*|降馮少師。}}",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "長沙",
+      "to": "馮少師",
+      "relation": "婚姻",
+      "time": "高祖时期",
+      "place": "",
+      "evidence": "降馮少師",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "高祖",
+      "to": "襄陽",
+      "relation": "父女",
+      "time": "高祖时期",
+      "place": "",
+      "evidence": "高祖十九女：...襄陽，{{*|降竇誕。}}",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "襄陽",
+      "to": "竇誕",
+      "relation": "婚姻",
+      "time": "高祖时期",
+      "place": "",
+      "evidence": "降竇誕",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "寧國",
+      "to": "回紇可汗",
+      "relation": "婚姻",
+      "time": "肅宗时期",
+      "place": "",
+      "evidence": "降回紇可汗",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "涼國",
+      "to": "薛伯陽",
+      "relation": "婚姻",
+      "time": "睿宗时期",
+      "place": "",
+      "evidence": "降薛伯陽，後降溫義",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "壽安",
+      "to": "琛王",
+      "relation": "父女",
+      "time": "憲宗时期",
+      "place": "",
+      "evidence": "本琛王女",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "平陽公主",
+      "to": "高祖",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "高祖第三女平陽公主",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "平陽公主",
+      "to": "柴紹",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "与其駙馬柴紹各置幕府",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "襄城公主",
+      "to": "蕭銳",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "出降中書令蕭瑀子銳",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "長樂公主",
+      "to": "太宗",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "太宗以皇后所生",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "南平公主",
+      "to": "王敬直",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "侍中王珪子敬直尚南平公主",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "晉陽公主",
+      "to": "太宗",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "晉王及晉陽公主幼而偏孤，上親加鞠養",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "城陽公主",
+      "to": "杜荷",
+      "relation": "夫妻（初适）",
+      "time": "",
+      "place": "",
+      "evidence": "公主初適杜荷",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "城陽公主",
+      "to": "薛瓘",
+      "relation": "夫妻（改适）",
+      "time": "",
+      "place": "",
+      "evidence": "公主改適薛瓘",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "岐陽公主",
+      "to": "杜悰",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "岐陽公主出降杜悰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "萬壽公主",
+      "to": "鄭顥",
+      "relation": "夫妻",
+      "time": "",
+      "place": "",
+      "evidence": "以起居郎、駙馬都尉鄭顥尚萬壽公主",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "魏徵",
+      "to": "秘書監",
+      "relation": "任职",
+      "time": "貞觀五年",
+      "place": "",
+      "evidence": "秘書監魏徵諫曰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "王珪",
+      "to": "侍中",
+      "relation": "任职",
+      "time": "貞觀十一年",
+      "place": "",
+      "evidence": "侍中王珪子敬直尚南平公主",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "于志寧",
+      "to": "侍中",
+      "relation": "任职",
+      "time": "永徽元年",
+      "place": "",
+      "evidence": "侍中于志寧上疏曰",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "平陽公主",
+      "to": "鄠縣",
+      "relation": "起兵地点",
+      "time": "義兵起",
+      "place": "",
+      "evidence": "公主于鄠縣莊散家資招引山中亡命",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "平陽公主",
+      "to": "渭北",
+      "relation": "会师地点",
+      "time": "義軍渡河后",
+      "place": "",
+      "evidence": "公主引精兵萬餘與太宗會于渭北",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "弘化",
+      "to": "慕容諸葛鉢",
+      "relation": "婚姻",
+      "time": "貞觀十三年十一月",
+      "place": "吐谷渾",
+      "evidence": "降吐谷渾慕容諸葛鉢。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "文成",
+      "to": "弄讚",
+      "relation": "婚姻",
+      "time": "貞觀十五年正月十五日",
+      "place": "吐蕃",
+      "evidence": "降于吐蕃贊普弄讚",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "文成",
+      "to": "江夏王",
+      "relation": "護送",
+      "time": "貞觀十五年正月十五日",
+      "place": "",
+      "evidence": "命江夏王送之。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "金城",
+      "to": "吐蕃贊普",
+      "relation": "婚姻",
+      "time": "神龍三年四月十四日",
+      "place": "吐蕃",
+      "evidence": "降于吐蕃贊普。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "雍王守禮",
+      "to": "金城",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "雍王守禮女。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "肅宗",
+      "to": "寧國",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "肅宗女。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "寧國",
+      "to": "英武威遠毘伽可汗",
+      "relation": "婚姻",
+      "time": "乾元元年七月十七日",
+      "place": "回鶻",
+      "evidence": "出降回鶻英武威遠毘伽可汗",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "固安",
+      "to": "李大酺",
+      "relation": "婚姻",
+      "time": "開元五年二月",
+      "place": "奚",
+      "evidence": "出降奚首領李大酺。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "固安",
+      "to": "魯蘇",
+      "relation": "婚姻",
+      "time": "開元八年",
+      "place": "奚",
+      "evidence": "共立季弟魯蘇爲主，仍以公主爲妻。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "固安",
+      "to": "塞默羯",
+      "relation": "誘殺",
+      "time": "開元八年後",
+      "place": "奚",
+      "evidence": "公主密知之，遂誘而殺之。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "東光",
+      "to": "魯蘇",
+      "relation": "婚姻",
+      "time": "",
+      "place": "奚",
+      "evidence": "降奚首領魯蘇。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "咸安",
+      "to": "東光",
+      "relation": "母女",
+      "time": "",
+      "place": "",
+      "evidence": "咸安公主女韋氏。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "德宗",
+      "to": "咸安",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "德宗女。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "咸安",
+      "to": "天親可汗",
+      "relation": "婚姻",
+      "time": "貞元四年十月",
+      "place": "回紇",
+      "evidence": "出降回紇天親可汗。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "憲宗",
+      "to": "太和",
+      "relation": "父女",
+      "time": "",
+      "place": "",
+      "evidence": "憲宗女。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "太和",
+      "to": "崇德可汗",
+      "relation": "婚姻",
+      "time": "長慶元年二月",
+      "place": "回紇",
+      "evidence": "出降回紇崇德可汗。",
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "杨矩",
+      "to": "骁卫大将军",
+      "relation": "担任",
+      "time": "景龙四年正月二十七日",
+      "place": "",
+      "evidence": [
+        "以骁卫大将军杨矩为使"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "纪处讷",
+      "to": "侍中",
+      "relation": "担任",
+      "time": "景龙四年正月二十七日",
+      "place": "",
+      "evidence": [
+        "上初谓侍中纪处讷曰"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "赵彦昭",
+      "to": "中书侍郎",
+      "relation": "担任",
+      "time": "景龙四年正月二十七日",
+      "place": "",
+      "evidence": [
+        "上又使中书侍郎赵彦昭代行"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "赵履温",
+      "to": "司农卿",
+      "relation": "担任",
+      "time": "景龙四年正月二十七日",
+      "place": "",
+      "evidence": [
+        "司农卿赵履温谓之曰"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "李暠",
+      "to": "工部尚书",
+      "relation": "担任",
+      "time": "开元二十一年正月",
+      "place": "",
+      "evidence": [
+        "命工部尚书李暠持节于吐蕃"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "董晋",
+      "to": "太常卿",
+      "relation": "担任",
+      "time": "贞元二年四月二十九日",
+      "place": "",
+      "evidence": [
+        "贞元二年四月二十九日，太常卿董晋奏"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "湛然",
+      "to": "殿中监",
+      "relation": "担任",
+      "time": "贞元年间",
+      "place": "",
+      "evidence": [
+        "以殿中监嗣滕王湛然为送咸安公主使"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_OFFICE",
+      "from": "胡证",
+      "to": "左金吾大将军",
+      "relation": "担任",
+      "time": "长庆元年",
+      "place": "",
+      "evidence": [
+        "诏左金吾大将军胡证充送公主为回纥可敦归国及加册可汗等使"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "上",
+      "to": "金城公主",
+      "relation": "君主与和亲公主",
+      "time": "景龙四年",
+      "place": "始平县",
+      "evidence": [
+        "幸始平县，送金城公主"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "上",
+      "to": "咸安公主",
+      "relation": "君主与和亲公主",
+      "time": "贞元年间",
+      "place": "",
+      "evidence": [
+        "许以咸安公主嫁之"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "上",
+      "to": "太和公主",
+      "relation": "君主与和亲公主",
+      "time": "长庆元年",
+      "place": "",
+      "evidence": [
+        "长庆元年二月封为公主，册为回纥可敦"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PERSON",
+      "from": "保义可汗",
+      "to": "太和公主",
+      "relation": "可汗与可敦（夫妻）",
+      "time": "长庆元年",
+      "place": "",
+      "evidence": [
+        "出降爱登里逻骨没密施合毗伽保义可汗"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "上",
+      "to": "始平县",
+      "relation": "巡幸",
+      "time": "景龙四年正月二十七日",
+      "place": "",
+      "evidence": [
+        "幸始平县"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_PLACE",
+      "from": "金城公主",
+      "to": "赤岭",
+      "relation": "关联地点（树碑定界）",
+      "time": "开元二十一年",
+      "place": "",
+      "evidence": [
+        "金城公主上言，请以今年九月一日，树碑于赤岭，定蕃、汉界"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "杨矩",
+      "to": "送金城公主事件",
+      "relation": "执行使职",
+      "time": "景龙四年正月二十七日",
+      "place": "始平县",
+      "evidence": [
+        "以骁卫大将军杨矩为使"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "PERSON_EVENT",
+      "from": "太和公主",
+      "to": "归国事件",
+      "relation": "主角",
+      "time": "会昌三年二月二十五日",
+      "place": "长乐驿至京城",
+      "evidence": [
+        "其月二十五日，公主自蕃还京，诏左右神策各出军二百人，及太常仪仗卤簿，从长乐驿迎公主入城"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "events": [
+    {
+      "event_name": "長沙公主下嫁馮少師",
+      "event_type": "婚姻",
+      "time": "高祖时期",
+      "place": "",
+      "participants": [
+        "長沙",
+        "馮少師"
+      ],
+      "description": "長沙公主下嫁馮少師",
+      "outcomes": [],
+      "evidence": [
+        "長沙，{{*|降馮少師。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "襄陽公主下嫁竇誕",
+      "event_type": "婚姻",
+      "time": "高祖时期",
+      "place": "",
+      "participants": [
+        "襄陽",
+        "竇誕"
+      ],
+      "description": "襄陽公主下嫁竇誕",
+      "outcomes": [],
+      "evidence": [
+        "襄陽，{{*|降竇誕。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "汝南公主早薨",
+      "event_type": "逝世",
+      "time": "太宗时期",
+      "place": "",
+      "participants": [
+        "汝南"
+      ],
+      "description": "汝南公主早薨",
+      "outcomes": [],
+      "evidence": [
+        "汝南，{{*|早薨。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "金仙公主入道",
+      "event_type": "出家",
+      "time": "睿宗时期",
+      "place": "",
+      "participants": [
+        "金仙"
+      ],
+      "description": "金仙公主入道",
+      "outcomes": [],
+      "evidence": [
+        "金仙，{{*|入道。}}"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "長樂公主改封宿國",
+      "event_type": "改封",
+      "time": "肅宗时期",
+      "place": "宿國",
+      "participants": [
+        "長樂"
+      ],
+      "description": "長樂公主改封宿國",
+      "outcomes": [
+        "封號變更"
+      ],
+      "evidence": [
+        "改封宿國"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "同昌公主封衛國",
+      "event_type": "封號",
+      "time": "懿宗时期",
+      "place": "衛國",
+      "participants": [
+        "同昌"
+      ],
+      "description": "同昌公主封衛國",
+      "outcomes": [
+        "獲封衛國公主"
+      ],
+      "evidence": [
+        "封衛國"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "壽安公主本為琛王女",
+      "event_type": "身世說明",
+      "time": "憲宗时期",
+      "place": "",
+      "participants": [
+        "壽安",
+        "琛王"
+      ],
+      "description": "壽安公主本為琛王之女",
+      "outcomes": [],
+      "evidence": [
+        "本琛王女"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "平陽公主鄠縣起兵響應高祖",
+      "event_type": "軍事行動",
+      "time": "義兵起",
+      "place": "鄠縣",
+      "participants": [
+        "平陽公主"
+      ],
+      "description": "散家資招引山中亡命數百人，起兵略地至盩厔、武功、始平，申明法令禁侵掠，得兵七萬人",
+      "outcomes": [
+        "略地皆下",
+        "遠近奔赴甚衆",
+        "得兵七萬人"
+      ],
+      "evidence": [
+        "公主于鄠縣莊散家資招引山中亡命，得數百人，起兵以應高祖，略地至盩厔、武功、始平，皆下之。每申明法令，禁兵無得侵掠，故遠近奔赴甚衆，得兵七萬人。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "平陽公主與太宗渭北會師",
+      "event_type": "軍事會師",
+      "time": "義軍渡河後",
+      "place": "渭北",
+      "participants": [
+        "平陽公主",
+        "太宗",
+        "柴紹"
+      ],
+      "description": "引精兵萬餘與太宗會師，與駙馬柴紹各置幕府，營號「娘子軍」",
+      "outcomes": [
+        "合軍",
+        "營號娘子軍"
+      ],
+      "evidence": [
+        "及義軍渡河，公主引精兵萬餘與太宗會于渭北，與其駙馬柴紹各置幕府，營中號爲「娘子軍」。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "平陽公主受封及追諡",
+      "event_type": "冊封",
+      "time": "京城平後及薨後",
+      "place": "",
+      "participants": [
+        "高祖",
+        "平陽公主"
+      ],
+      "description": "因獨有軍功受封平陽公主，賞賜異於他主；薨後追諡曰昭",
+      "outcomes": [
+        "封平陽公主",
+        "追諡昭"
+      ],
+      "evidence": [
+        "京城平，封爲平陽公主，以獨有軍功，每賞賜異于他主，及薨，追諡曰昭。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "魏徵諫長樂公主資送逾制",
+      "event_type": "諫言",
+      "time": "貞觀五年",
+      "place": "",
+      "participants": [
+        "魏徵",
+        "太宗",
+        "長孫皇后"
+      ],
+      "description": "魏徵引漢明帝典故諫資送倍於長公主之制，太宗納諫，長孫皇后賞賜魏徵",
+      "outcomes": [
+        "太宗然其言",
+        "皇后賜錢絹"
+      ],
+      "evidence": [
+        "秘書監魏徵諫曰：「不可。昔漢明帝欲封其子...無容禮有踰越。」上然其言。長孫皇后遣使賫錢四十萬、絹五百疋，詣徵家賜之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "王珪令南平公主行舅姑禮",
+      "event_type": "禮儀實踐",
+      "time": "貞觀十一年",
+      "place": "",
+      "participants": [
+        "王珪",
+        "王敬直",
+        "南平公主"
+      ],
+      "description": "王珪堅持行婦見舅姑之禮，令公主親執笲行盥饋之道",
+      "outcomes": [
+        "禮成",
+        "物議韙之",
+        "自後公主下降有舅姑者皆備禮"
+      ],
+      "evidence": [
+        "珪曰：「今主上欽明...所以成國家之美耳！」遂與其妻就位而坐，令公主親執笲，行盥饋之道，禮成而退，物議韙之。自是公主下降，有舅姑者皆備禮，自珪始也。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "于志寧諫衡山公主服闋後成婚",
+      "event_type": "諫言",
+      "time": "永徽元年正月",
+      "place": "",
+      "participants": [
+        "于志寧",
+        "高宗"
+      ],
+      "description": "引《禮記》及鄭玄注，諫公主應終三年喪後成婚，不可公除後即行吉禮",
+      "outcomes": [
+        "待三年服闋後降"
+      ],
+      "evidence": [
+        "侍中于志寧上疏曰：「伏見衡山公主出降...況行之甚易，何容廢而受譏？」于是待三年服闋。然後降。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "馬周諫城陽公主婚禮時辰",
+      "event_type": "諫言",
+      "time": "咸亨二年",
+      "place": "",
+      "participants": [
+        "馬周",
+        "太宗",
+        "薛瓘"
+      ],
+      "description": "諫不可依卜者「晝日行合卺之禮」之說，應守婚合以夜之古禮",
+      "outcomes": [
+        "上從其言",
+        "瓘後爲房州刺史，公主隨之"
+      ],
+      "evidence": [
+        "馬周諫曰：「臣聞朝謁以朝...先王之敎，不可黷也。」上從其言。瓘後爲房州刺史，公主隨之，及薨，雙柩齊引而還。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "袁楚客諫公主開府",
+      "event_type": "奏議",
+      "time": "唐隆元年後",
+      "place": "",
+      "participants": [
+        "袁楚客",
+        "魏元忠"
+      ],
+      "description": "奏記魏元忠，論公主開府建寮違男女之別、陰陽之序",
+      "outcomes": [
+        "奏議留存"
+      ],
+      "evidence": [
+        "酸棗縣尉袁楚客奏記于中書令魏元忠曰：「女有內，男有外...君侯不正，誰正之哉？」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "僧一行諫永穆公主發遣依太平故事",
+      "event_type": "諫言",
+      "time": "開元十年",
+      "place": "",
+      "participants": [
+        "僧一行",
+        "玄宗"
+      ],
+      "description": "諫不應引太平公主驕僭舊例，高宗末年殊禮亦不當效",
+      "outcomes": [
+        "上納其言"
+      ],
+      "evidence": [
+        "僧一行諫曰：「高宗末年，唯有一女，所以殊其禮。又太平驕僭，竟以得罪，不應引以爲例。」上納其言。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "衛國公主葬禮",
+      "event_type": "喪葬",
+      "time": "咸通十二年二月",
+      "place": "少陵原",
+      "participants": [
+        "韋保衡",
+        "薛能",
+        "楊復璟",
+        "皇帝",
+        "郭淑妃"
+      ],
+      "description": "詔百寮作挽歌詞，駙馬撰神道碑，京兆尹與供奉官分任監護，儀注甚盛，帝與淑妃哭送",
+      "outcomes": [
+        "葬於少陵原"
+      ],
+      "evidence": [
+        "咸通十二年二月，葬衞國公主於少陵原。先是，詔百寮爲挽歌詞，仍令駙馬韋保衡自撰公主神道碑，京兆尹薛能爲外監護，供奉官楊復璟爲內監護，儀注甚盛。上與郭淑妃御延興門哭送。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "弘化公主和親",
+      "event_type": "和親",
+      "time": "貞觀十三年十一月",
+      "place": "吐谷渾",
+      "participants": [
+        "弘化",
+        "慕容諸葛鉢"
+      ],
+      "description": "宗室女弘化公主出降吐谷渾首領慕容諸葛鉢。",
+      "outcomes": [],
+      "evidence": [
+        "貞觀十三年十一月，降吐谷渾慕容諸葛鉢。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "文成公主和親",
+      "event_type": "和親",
+      "time": "貞觀十五年正月十五日",
+      "place": "吐蕃（河源）",
+      "participants": [
+        "文成",
+        "弄讚",
+        "江夏王"
+      ],
+      "description": "宗室女文成公主受封後出降吐蕃贊普弄讚，江夏王送親；弄讚親迎於河源，行子壻禮，讚歎大唐禮儀，誓言築城誇示後世，並遣酋豪子弟入國學習《詩》《書》。",
+      "outcomes": [
+        "吐蕃遣酋豪子弟入國學"
+      ],
+      "evidence": [
+        "貞觀十五年正月十五日封，降于吐蕃贊普弄讚，命江夏王送之。弄讚親迎于河源，見王，行子壻禮甚謹，歎大國服飾禮儀之美，俯仰有媿沮之色，謂所親曰：「我祖父未有通婚大國者，今我得尚大唐公主，當築一城，以誇示後世！」仍遣酋豪子弟，請入國學，以習《詩》《書》，從之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "固安公主誘殺塞默羯",
+      "event_type": "行動",
+      "time": "開元八年後",
+      "place": "奚",
+      "participants": [
+        "固安",
+        "塞默羯",
+        "魯蘇"
+      ],
+      "description": "固安公主察知牙官塞默羯謀害首領魯蘇並欲投突厥，設計誘殺之。",
+      "outcomes": [
+        "上嘉其功，賞賜累萬"
+      ],
+      "evidence": [
+        "時魯蘇牙官塞默羯謀害魯蘇，翻歸突厥，公主密知之，遂誘而殺之。上嘉其功，賞賜累萬。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "固安公主被令離婚",
+      "event_type": "政治事件",
+      "time": "開元八年後",
+      "place": "",
+      "participants": [
+        "固安",
+        "嫡母",
+        "皇帝"
+      ],
+      "description": "固安公主嫡母誣其庶出，奏請另嫁他人；皇帝怒，下令離婚。",
+      "outcomes": [
+        "固安公主與魯蘇離婚"
+      ],
+      "evidence": [
+        "公主嫡母嫉主榮寵，乃上言云主是庶生，請別以所生主嫁魯蘇。上怒，乃令離婚。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "咸安公主置府",
+      "event_type": "制度事件",
+      "time": "貞元四年十月二十六日",
+      "place": "",
+      "participants": [
+        "咸安",
+        "德宗"
+      ],
+      "description": "咸安公主出降回紇天親可汗後，朝廷下詔置咸安公主府，規制準親王例。",
+      "outcomes": [
+        "設立咸安公主府"
+      ],
+      "evidence": [
+        "其月二十六日，勅置咸安公主府，準親王例。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "寧國公主歸唐與罷府",
+      "event_type": "歸國與制度調整",
+      "time": "乾元二年八月二十三日至貞元五年四月十二日",
+      "place": "",
+      "participants": [
+        "寧國"
+      ],
+      "description": "寧國公主自回鶻歸唐；後朝廷議罷公主府，改置邑司。",
+      "outcomes": [
+        "公主歸唐",
+        "公主府改邑司"
+      ],
+      "evidence": [
+        "二年八月二十三日，自蕃還。至貞元五年四月十二日，議罷公主府，置邑司。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "送金城公主出降吐蕃",
+      "event_type": "和亲",
+      "time": "景龙四年正月二十七日",
+      "place": "始平县",
+      "participants": [
+        "上",
+        "杨矩",
+        "金城公主",
+        "纪处讷",
+        "赵彦昭",
+        "赵履温",
+        "安乐公主"
+      ],
+      "description": "皇帝巡幸始平县送别金城公主，初拟命纪处讷为送亲使，其辞；改命赵彦昭，经赵履温托安乐公主奏留，最终任命杨矩为送亲使。",
+      "outcomes": [
+        "杨矩出任送亲使",
+        "金城公主启程赴吐蕃"
+      ],
+      "evidence": [
+        "景龙四年正月二十七日，幸始平县，送金城公主，以骁卫大将军杨矩为使。",
+        "上初谓侍中纪处讷曰：「昔文成公主出降，即江夏王送之，卿识蕃情，又有安边之略，可为朕充此使也。」处讷辞以不练边事。上又使中书侍郎赵彦昭代行，司农卿赵履温谓之曰：「公国之宰辅，而为一介之使，不亦鄙乎？」彦昭曰：「计将安出？」履温因为阴托安乐公主，密奏留之，至是命矩行。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "始平县改名及地名变更",
+      "event_type": "行政变更",
+      "time": "景龙四年二月一日",
+      "place": "始平县",
+      "participants": [
+        "上"
+      ],
+      "description": "为纪念金城公主出降，改始平县为金城县，并改当地地名为凤台乡怆别里。",
+      "outcomes": [
+        "始平县更名为金城县",
+        "设立凤台乡怆别里"
+      ],
+      "evidence": [
+        "二月一日，改始平县为金城县，又改地为凤台乡怆别里。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "赤岭树碑定界",
+      "event_type": "外交",
+      "time": "开元二十一年九月一日",
+      "place": "赤岭",
+      "participants": [
+        "金城公主",
+        "张守珪",
+        "李行褘",
+        "莽布支",
+        "吐蕃使臣",
+        "汉使"
+      ],
+      "description": "依金城公主奏请，唐与吐蕃于赤岭树碑划定蕃汉边界，双方互派使者至边境州县宣告和好。",
+      "outcomes": [
+        "树立界碑",
+        "双方宣告互不侵掠"
+      ],
+      "evidence": [
+        "及还，而金城公主上言，请以今年九月一日，树碑于赤岭，定蕃、汉界。诏张守珪、李行褘与吐蕃使莽布支同往观树焉。既树，而吐蕃遣其臣随汉使人分往剑南及河西碛，历告边州曰：「两国和好，无相侵掠。」汉使告亦如之。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "金城公主薨逝",
+      "event_type": "丧葬",
+      "time": "开元二十九年",
+      "place": "",
+      "participants": [
+        "金城公主",
+        "吐蕃使"
+      ],
+      "description": "金城公主在吐蕃去世，吐蕃遣使至唐告哀。",
+      "outcomes": [
+        "吐蕃遣使告哀"
+      ],
+      "evidence": [
+        "二十九年，金城公主薨，吐蕃使来告哀。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "咸安公主出降回纥",
+      "event_type": "和亲",
+      "time": "贞元四年",
+      "place": "麟德殿（前期仪式）",
+      "participants": [
+        "德宗",
+        "咸安公主",
+        "合阙",
+        "湛然",
+        "回纥可汗"
+      ],
+      "description": "回纥武义成功可汗请婚，德宗许以咸安公主嫁之。公主于麟德殿见回纥使合阙，遣使持公主画像示可汗，以马价绢五万匹为聘，命湛然为送亲及婚礼使。",
+      "outcomes": [
+        "咸安公主嫁予回纥可汗",
+        "确立和亲关系"
+      ],
+      "evidence": [
+        "初，合阙将其君命请婚于我，许以咸安公主嫁之，命公主见合阙于麟德殿，且命中谒者赍公主画图，就示可汗，以马价绢五万匹还之，许其互市而去。以殿中监嗣滕王湛然为送咸安公主使，仍兼婚礼使。",
+        "回纥武义成功可汗，始遣使献方物，仍求结亲。德宗与群臣议，许之，遂以公主降焉。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "回纥迎亲使团至唐",
+      "event_type": "外交",
+      "time": "贞元四年十月",
+      "place": "延喜门、麟德殿",
+      "participants": [
+        "上",
+        "回纥可汗使团",
+        "骨吐禄毗伽公主",
+        "迷叙骨吐禄公主",
+        "回纥宰相"
+      ],
+      "description": "回纥遣宰相率千余人及多位公主、首领妻妾共五十六妇人迎亲，纳聘马三千匹。皇帝御延喜门受见，于麟德殿接见回纥公主及使臣，颁赐有差。",
+      "outcomes": [
+        "完成迎亲仪式",
+        "确立子婿关系",
+        "回纥承诺助唐抗吐蕃"
+      ],
+      "evidence": [
+        "四年十月，回纥公主及使至自蕃，上御延喜门，禁妇人及车舆观者。时回纥可汗喜于和亲，其礼甚恭，乃上言曰：「昔为兄弟，今即子婿，子婿半子也，彼犹父，此犹子也。父若患于西戎，子当遣兵除之。」又骂辱吐蕃使者。及使其宰相等率众千余人，及其妹骨吐禄毗伽公主、夷妹迷叙骨吐禄公主，及职使大首领等妻妾，凡五十六妇人来迎可敦。凡遣人千余，纳聘马三千匹。上令朔州及太原分留回纥七百余人，其宰相大首领至者，馆于鸿胪寺、将作监。回纥使者见于宣政殿，上召回纥公主及使对于麟德殿，颁赐有差。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "咸安公主薨逝",
+      "event_type": "丧葬",
+      "time": "元和三年正月",
+      "place": "",
+      "participants": [
+        "咸安公主",
+        "朝廷"
+      ],
+      "description": "咸安公主在回纥去世，唐廷为之废朝三日。",
+      "outcomes": [
+        "朝廷废朝三日",
+        "追赠燕国大长公主，谥襄穆"
+      ],
+      "evidence": [
+        "元和三年正月，咸安公主薨，废朝三日。",
+        "在蕃二十一年卒，册赠燕国大长公主，赐谥曰襄穆。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "太和公主出降回纥",
+      "event_type": "和亲",
+      "time": "长庆元年二月至五月",
+      "place": "京城、鸿胪寺",
+      "participants": [
+        "上",
+        "太和公主",
+        "崔植",
+        "杜元颖",
+        "王起",
+        "胡证",
+        "李宪",
+        "李锐",
+        "保义可汗",
+        "崇德可汗"
+      ],
+      "description": "保义可汗请婚，唐封宗室女为太和公主出降。保义可汗卒后，册立崇德可汗，仍以太和公主嫁之。遣崔植为册使，杜元颖为五礼使，胡证为送亲及册可汗使，李宪副使，李锐为婚礼使。公主置府，仪仗隆重，皇帝御通化门送行。",
+      "outcomes": [
+        "太和公主嫁予回纥崇德可汗",
+        "确立唐与回纥和亲关系"
+      ],
+      "evidence": [
+        "长庆元年二月封为公主，册为回纥可敦，出降爱登里逻骨没密施合毗伽保义可汗，以中书侍郎平章事崔植充册使，户部侍郎平章事杜元颖充五礼使。",
+        "其年三月，保义可汗卒；四月，册九姓回纥为崇德可汗；五月，遣使请迎所许嫁公主。朝廷以封第五妹为太和公主以降...又诏左金吾大将军胡证充送公主为回纥可敦归国及加册可汗等使，光禄卿李宪充副使，太常卿李锐充婚礼使。公主置府，官属准亲王例...及发，上以半仗御通化门送之...仪卫甚盛...士女倾城观焉。"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "太和公主自回纥归唐",
+      "event_type": "归国",
+      "time": "会昌三年二月二十五日",
+      "place": "长乐驿至京城（光化门、太庙）",
+      "participants": [
+        "太和公主（定安大长公主）",
+        "苗绾",
+        "朝廷百官",
+        "神策军",
+        "太常仪仗"
+      ],
+      "description": "因回纥内乱，太和公主归唐。朝廷遣苗绾慰问，以神策军及仪仗自长乐驿迎入，改封定安大长公主。公主谒太庙宪宗、穆宗室，入宫。朝廷处罚未迎慰公主的宗室公主。",
+      "outcomes": [
+        "公主安全归国",
+        "改封定安大长公主",
+        "罢太和公主府",
+        "宗室公主受罚"
+      ],
+      "evidence": [
+        "会昌元年十一月，敕：「缘回纥国中离乱颇甚，太和公主恐未安宁，须遣文臣专往访问，宜差通使舍人苗绾充使。」",
+        "其月二十五日，公主自蕃还京，诏左右神策各出军二百人，及太常仪仗卤簿，从长乐驿迎公主入城。其日，改封定安大长公主，罢太和公主府...太和公主便赴太庙，谒宪宗、穆宗二室，回从光化门入内。",
+        "二十七日敕：「安定大长公主自蕃还京...宣城、贞宁、临贞、贞源、义昌等公主并宗室近亲，合先慰问...各罚封绢一百匹...阳安长公主...罚封物三百匹。」"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "event_name": "定安大长公主请罪与朝廷嘉奖",
+      "event_type": "宫廷礼仪",
+      "time": "会昌三年二月二十五日及三月",
+      "place": "光顺门、宣政衙",
+      "participants": [
+        "定安大长公主",
+        "上",
+        "宰相及文武百官"
+      ],
+      "description": "公主因回纥背叛，在光顺门内脱簪珥请罪，获皇帝宽宥。中书门下奏请将公主守礼及处罚违敕公主之事载入史册，获准。",
+      "outcomes": [
+        "皇帝释其罪",
+        "事件宣付史馆"
+      ],
+      "evidence": [
+        "三月，中书门下奏：「伏闻定安大长公主，二月二十五日，以回纥背叛恩德，侵轶边陲，于光顺门内脱去簪珥，变服请罪，陛下释其愆负，方敢对见。又以宣城公主等违敕不到，各罚封物。伏以礼法之行，始此中壸，王化盛事，人伦美谈...臣等...伏望宣付史馆纪述，为百代典制。」从之。"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "sec_0001",
+      "section_title": "",
+      "item_ids": [
+        "wikisource_tanghuiyao_006_00001"
+      ]
+    },
+    {
+      "section_id": "sec_0002",
+      "section_title": "公主",
+      "item_ids": [
+        "wikisource_tanghuiyao_006_00002",
+        "wikisource_tanghuiyao_006_00003",
+        "wikisource_tanghuiyao_006_00004",
+        "wikisource_tanghuiyao_006_00005",
+        "wikisource_tanghuiyao_006_00006",
+        "wikisource_tanghuiyao_006_00007",
+        "wikisource_tanghuiyao_006_00008",
+        "wikisource_tanghuiyao_006_00009",
+        "wikisource_tanghuiyao_006_00010",
+        "wikisource_tanghuiyao_006_00011",
+        "wikisource_tanghuiyao_006_00012",
+        "wikisource_tanghuiyao_006_00013",
+        "wikisource_tanghuiyao_006_00014",
+        "wikisource_tanghuiyao_006_00015",
+        "wikisource_tanghuiyao_006_00016",
+        "wikisource_tanghuiyao_006_00017",
+        "wikisource_tanghuiyao_006_00018",
+        "wikisource_tanghuiyao_006_00019",
+        "wikisource_tanghuiyao_006_00020",
+        "wikisource_tanghuiyao_006_00021",
+        "wikisource_tanghuiyao_006_00022"
+      ]
+    },
+    {
+      "section_id": "sec_0003",
+      "section_title": "雜錄",
+      "item_ids": [
+        "wikisource_tanghuiyao_006_00023",
+        "wikisource_tanghuiyao_006_00024",
+        "wikisource_tanghuiyao_006_00025",
+        "wikisource_tanghuiyao_006_00026",
+        "wikisource_tanghuiyao_006_00027",
+        "wikisource_tanghuiyao_006_00028",
+        "wikisource_tanghuiyao_006_00029",
+        "wikisource_tanghuiyao_006_00030",
+        "wikisource_tanghuiyao_006_00031",
+        "wikisource_tanghuiyao_006_00032",
+        "wikisource_tanghuiyao_006_00033",
+        "wikisource_tanghuiyao_006_00034",
+        "wikisource_tanghuiyao_006_00035",
+        "wikisource_tanghuiyao_006_00036",
+        "wikisource_tanghuiyao_006_00037",
+        "wikisource_tanghuiyao_006_00038",
+        "wikisource_tanghuiyao_006_00039",
+        "wikisource_tanghuiyao_006_00040",
+        "wikisource_tanghuiyao_006_00041",
+        "wikisource_tanghuiyao_006_00042",
+        "wikisource_tanghuiyao_006_00043",
+        "wikisource_tanghuiyao_006_00044",
+        "wikisource_tanghuiyao_006_00045",
+        "wikisource_tanghuiyao_006_00046",
+        "wikisource_tanghuiyao_006_00047",
+        "wikisource_tanghuiyao_006_00048",
+        "wikisource_tanghuiyao_006_00049",
+        "wikisource_tanghuiyao_006_00050",
+        "wikisource_tanghuiyao_006_00051",
+        "wikisource_tanghuiyao_006_00052",
+        "wikisource_tanghuiyao_006_00053",
+        "wikisource_tanghuiyao_006_00054",
+        "wikisource_tanghuiyao_006_00055",
+        "wikisource_tanghuiyao_006_00056"
+      ]
+    },
+    {
+      "section_id": "sec_0004",
+      "section_title": "和蕃公主",
+      "item_ids": [
+        "wikisource_tanghuiyao_006_00057",
+        "wikisource_tanghuiyao_006_00058"
+      ]
+    },
+    {
+      "section_id": "sec_0005",
+      "section_title": "雜錄",
+      "item_ids": [
+        "wikisource_tanghuiyao_006_00059",
+        "wikisource_tanghuiyao_006_00060",
+        "wikisource_tanghuiyao_006_00061",
+        "wikisource_tanghuiyao_006_00062",
+        "wikisource_tanghuiyao_006_00063",
+        "wikisource_tanghuiyao_006_00064",
+        "wikisource_tanghuiyao_006_00065",
+        "wikisource_tanghuiyao_006_00066",
+        "wikisource_tanghuiyao_006_00067",
+        "wikisource_tanghuiyao_006_00068"
+      ]
+    }
+  ]
+}
